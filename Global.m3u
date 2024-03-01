@@ -53,7 +53,7 @@ http://38.96.178.201:80/live/CNNHD/index.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BA.png" group-title="News",Bloomberg Asia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg Asia
 https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 #EXTINF:-1 tvg-id="CNN FAST" tvg-logo="https://www.cnn.com/interactive/uploads/20230523-cnn-fast-logo.png" group-title="News",CNN FAST
 https://live-manifests-aka.warnermediacdn.com/csmp/cmaf/live/2028716/cnnfast-international/master_de.m3u8?_fw_ae=&_fw_ar=0&adpr=5I8NQT75Ti&afid=62117007&caid=cnn-fastchannel/livestream&conf_csid=edition.cnn.com_live_desktop_fastchannel&nw=48804&playername=top-2.12.1&prof=48804:cnn_web_live&yo.asd=true&yo.pbr=true&yo.pst=true&playerType=standard&refDom=cnn&wm_vw=stlr&pg=video_leaf&transactionID=17091105336517917616280532&_fw_gdpr=0&_fw_us_privacy=1---&audio=unmuted&vpmute=0&vpa=1&paln=AQzzBGQEDiONgYQn7B4rGXHqqJRWwjtlAHygn6BPwVabY3thYuII1ULR3YjqGJWJYwF6qvVpLjyTRKUQJfyrvOUxMGsjZGjwhUrveBLMnl-gde3mhUI7_b4XfayDPF9KIOVIvHQneKbD3r5FCCbaabiA0Jfe373Eyp-tNv4pKGAGYtgHS3_urMRqepVKjno4b_6oV-ILBldmmMujkwN3HwMOfS9kjyBf9sIUCoaGwElG_IMTatKmhKrDXRHzQVhb0oi5UwZKwfkN1BIqENn9dhTdVvKdQJUeTpAbH8n57YqBfg6vZ8esWxTPj29RhYLU8cZkKCX6UGtU73eT_MnlWsDBHS_tKMaSLIFwoTpAA5pjhUW8dQvr2bzs4kgeXUhhPqtBTb6tPnpY8vG6azaZWE_Vr9qwPuRKGqTLQyD-ldHEdTy18HZv2yO0jZ2VoayeEBEsw3SR8L9rkejA1i2ykT5Av7Vc0kU-AFspp8oeVYledYNX6YTC6ASHj7MX0loBqMFZ5dxPlGLC1a7p9FTJyH9STckjbv5KYaKDxRwg4EvIFN_BnfI4fEtMIS3dhR7bB_Qwi1woilAo8NZGbvx9T5RitV_WdHe3GKQw8V1d161EfFNfWL8F1MzjZ6bAqf3THnF0Zxw5hwWg_0tS1JQYljMbESQxD04J5qkFUVAKDgAZ5UhYCxJ45SVGjngl5Z_8LerjyWrEX-NGi7JBZdAg39xfABT8FYOo-t047oC9j9eQOCCI7f0OEnee88RXEM2rnzvsqO_NTh0dyqvCvqqTZdB7pR2NkPdb6JfyoHYYXKoU6HnpU75YPYzgmirihL-WZ12tuF5Zo_LPyoLmgNO7CiAnTyBoCuQLCmhvP-HFbGW5HC9k1RSRINox-tRuWzZ1PrCljPbI3Oa2lCdU9cLsr9cxdYie8XxRVb31RzlacHXsHjz0Yh0pGvXDV7zFNT0Hpi_ntgl277vi&_fw_cookie_consent=1&protocol=ssl&inFocus=true&cdpfl=lrfff&abip=false&app_csid=edition.cnn.com_live_desktop_fastchannel&yo.av=3&yo.pdt=sync&yo.lpa=dur
@@ -68,7 +68,7 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 https://22393.live.streamtheworld.com/938NOWAAC_SC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Radio",ABC Australia News_Radio
 https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BA.png" group-title="Radio",Bloomberg_Radio
+#EXTINF:-1 tvg-logo="https://https://i.imgur.com/OuogLHx.png" group-title="Radio",Bloomberg_Radio
 https://17563.live.streamtheworld.com/WBBRAMAAC48/HLS/playlist.m3u8?sbmid=4a3be64f-c094-4e9f-b9e4-7524e2f7bcc1&ttag=device%3Aweb
 
 
