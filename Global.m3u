@@ -62,13 +62,14 @@ https://live-manifests-aka.warnermediacdn.com/csmp/cmaf/live/2028716/cnnfast-int
 https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709084265&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20407&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Radio",CNN International_Radio
 https://tunein.cdnstream1.com/3519_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709084735&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s292162&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3125&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
+#EXTINF:-1 tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1639742395/mediacorp/mel/image/2021-12/cna938-logoimage.png" group-title="Radio",CNA 938 Singapore_Radio
+https://22253.live.streamtheworld.com/938NOWAAC_SC
+#EXTINF:-1 tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1678108057/mediacorp/mel/image/2023-03/c95.png" group-title="Radio",Class 95 Singapore_Radio
+https://22283.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/uk/bbc-world-news.png" group-title="Radio",BBC World Service_Radio
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF:-1 tvg-logo="https://i.imgur.com/awIDugE.png" group-title="Radio",CNA Singapore_Radio
-https://22393.live.streamtheworld.com/938NOWAAC_SC
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Radio",ABC Australia News_Radio
-https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8
 #EXTINF:-1 tvg-logo="https://https://i.imgur.com/OuogLHx.png" group-title="Radio",Bloomberg_Radio
 https://17563.live.streamtheworld.com/WBBRAMAAC48/HLS/playlist.m3u8?sbmid=4a3be64f-c094-4e9f-b9e4-7524e2f7bcc1&ttag=device%3Aweb
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Radio",ABC Australia News_Radio
+https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8
 
