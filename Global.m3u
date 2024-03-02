@@ -71,5 +71,5 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-logo="https://https://i.imgur.com/OuogLHx.png" group-title="Radio",Bloomberg_Radio
 https://17563.live.streamtheworld.com/WBBRAMAAC48/HLS/playlist.m3u8?sbmid=4a3be64f-c094-4e9f-b9e4-7524e2f7bcc1&ttag=device%3Aweb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Radio",ABC Australia News_Radio
-https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8
+http://live-radio01.mediahubaustralia.com/PBW/aac/
 
