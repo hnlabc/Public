@@ -82,6 +82,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/32212
 
 #EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International
 https://1942468522.rsc.cdn77.org/ZkqhWI0emXubh2nLdRn3XA==,1709708113/1942468522/index.m3u8
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC World News
+https://1292072398.rsc.cdn77.org/EJEH1CI04AlTHoZJZZrUog==,1709714717/1292072398/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="News",CNA
