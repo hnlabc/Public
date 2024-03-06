@@ -80,12 +80,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/32212
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="CCTV",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN(Livenewsof)
-https://rtmp2.livenewsof.com/hls/WFVPiJY3jAmQMwOcFl69qUoFlTPaW-uxXR_EpHB9n9LVmjpDyjo3sBIy-O1dBN6ci_zs4I7GDX7ezJbXqiROZCZRKw9DNqZDETpMCABjYKSDyjbru_0qniVTuCqrWemN
 #EXTINF:-1 tvg-id="Bloomberg TV Live" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV Live(Livenewsof)
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN(Livenewsmag)
-https://1942468522.rsc.cdn77.org/ZkqhWI0emXubh2nLdRn3XA==,1709708113/1942468522/index.m3u8
+https://1942468522.rsc.cdn77.org/DqGDGH8wNmkAaoiYlmSleQ==,1709715312/1942468522/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC World News(Livenewsmag)
 https://1292072398.rsc.cdn77.org/EJEH1CI04AlTHoZJZZrUog==,1709714717/1292072398/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN(Usnewson)
