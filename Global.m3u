@@ -81,7 +81,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN(Livenewsof)
-https://rtmp2.livenewsof.com/auth/ynB0vyJ8WO9D8XgqeZDbCbHOwUY13-zgA7q-Ox02bf7OxgiUEGuWMH7otsMj-mKKcb1qFRkrL4mTPJv-_P3WQXwkOEb1MBXGUhBTlFkeGKo9b55sW4qtGl2kXJSY8IuMq82gBuHY34YhaNKc7MC4S1haIvpDeGC2x91Jf3GXPcuSvrrUidSVUO13QxUiVjZ3Ot0iyF2vlPMB9kHrzeSMAQkt2K-cwe5WaqBJgIn1Yu7FUOIcwS8fohZgc7Ai3RUlwGg8jXykGuWlTFo9MGwefcA0PbwuEsN999h1kIYai7GkX9uthyc6DmZmI5QlX59GTh1-kbGPWq477-jUqwRD6acGZctEK9bgH6_W--m_vLep7o2cLjxtoeRqYPcyHGK6_Wkx5BEo7uCIB1HgCkC6wKOG_fdYbzpfuqwdXuXYGPrl4AyJfeDUlfdCOSy_KeCAqgtnZ0O90B9g4phHNtALvk6QWI82dtZbxKO1QE97pB6_OqGTIx6NF3XY28KJjLxfox48quTBQIMOCjx3tWpil4A5Q5xCEPN3sSO8oXxRO11AxtGxF06lQM1XSsBMVT5SIjrFswaIraDn_0u9XARf4vYMyZFrPJDS2nvXX1Wl2Z8
+https://rtmp2.livenewsof.com/hls/WFVPiJY3jAmQMwOcFl69qUoFlTPaW-uxXR_EpHB9n9LVmjpDyjo3sBIy-O1dBN6ci_zs4I7GDX7ezJbXqiROZCZRKw9DNqZDETpMCABjYKSDyjbru_0qniVTuCqrWemN
 #EXTINF:-1 tvg-id="Bloomberg TV Live" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV Live(Livenewsof)
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN(Livenewsmag)
