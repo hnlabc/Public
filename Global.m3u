@@ -80,9 +80,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/32212
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="CCTV",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 
-#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN(Livenewsof)
+https://rtmp3.livenewsof.com/auth/ynB0vyJ8WO9D8XgqeZDbCbHOwUY13-zgA7q-Ox02bf7OxgiUEGuWMH7otsMj-mKKcb1qFRkrL4mTPJv-_P3WQXwkOEb1MBXGUhBTlFkeGKpCJmVqowkv9I6HaeX1AVbWkZo8mHUgB6tvVfk-dcxYwZKfGswwWbyAVZMasEpE_fuBQrl9zhGSMpiOuaet87SsR8LmSGhuv9KG8DKwqlLcEqqRTD7sPeHYXQyc5cvogF36Gxj6QMLEsZDlHdPukaapvsusGghb57qavAdB0jsBAiLfDev6Wl2vUlKZJI6M1l2bKrOf219z4K3BFQ1LHvPtcryudaYP25lMzsMJ_RGHDJOfvKyZajofrMBk25L7suKTvN1CZKlav3jHeekMQcstUX5-Z5dtMnfDBknciU5AMuTHbhj0fEV7BK7ARxgSitFkwCODuLxtr7_Lz5jyTKqM88y8wu4PiziA_hZWG5HTpnwDOqoK2BoOlcjpK_Qi0v1zSR9hEwPq_cgJnNB_yQM-B7X-3LREq3FmtaY8qXmOmEUAwObxiZo-a_2pmZlp_u2B31IRMTf7n563oMriulgvEFTDP79YRITcQf3y7mWWxXw_T9bBtY_OTW5tzCqIuoHUIcAsW7n7QQcxmwrQoHeY
+#EXTINF:-1 tvg-id="Bloomberg TV Live" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV Live(Livenewsof)
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN(Livenewsmag)
 https://1942468522.rsc.cdn77.org/ZkqhWI0emXubh2nLdRn3XA==,1709708113/1942468522/index.m3u8
-#EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC World News
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC World News(Livenewsmag)
 https://1292072398.rsc.cdn77.org/EJEH1CI04AlTHoZJZZrUog==,1709714717/1292072398/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
