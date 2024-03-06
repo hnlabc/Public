@@ -82,8 +82,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/32212
 
 #EXTINF:-1 tvg-id="Bloomberg TV Live" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV Live(Livenewsof)
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN(Livenewsmag)
-https://1942468522.rsc.cdn77.org/DqGDGH8wNmkAaoiYlmSleQ==,1709715312/1942468522/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC World News(Livenewsmag)
 https://1292072398.rsc.cdn77.org/EJEH1CI04AlTHoZJZZrUog==,1709714717/1292072398/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC Australia
