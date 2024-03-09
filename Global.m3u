@@ -11,10 +11,10 @@ https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="CNN USA Channel",CNN USA (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="CNN USA Channel",CNN USA
-http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
 #EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNN-m.4945681d.png" group-title="CNN USA Channel",CNN USA_Radio
 https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709340709&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20407&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
+#EXTINF:-1 tvg-id="CNN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="CNN USA Channel",CNN USA
+http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
 
 #EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNN-m.4945681d.png" group-title="Radio",CNN USA_Radio
 https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709340709&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20407&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
