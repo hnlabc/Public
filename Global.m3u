@@ -6,8 +6,6 @@ http://epg.51zmt.top:8000/e.xml.gz
 http://epg.aptvapp.com/xml
 #EXTINF:-1 tvg-id="Epg.112114" tvg-name="Epg.112114" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/a0/9a/1b/a09a1b89-5f0a-20fb-e3d4-087628f93439/source/512x512bb.jpg" group-title="EPG",Epg.112114
 https://epg.112114.eu.org/pp.xml.gz
-#EXTINF:-1 tvg-id="Epg.Meroser" tvg-name="Epg.Meroser" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/a0/9a/1b/a09a1b89-5f0a-20fb-e3d4-087628f93439/source/512x512bb.jpg" group-title="EPG",Epg.Meroser
-https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml
 
 #EXTINF:-1 tvg-id="CNN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="CNN BBC Channel",CNN USA_CCF
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
