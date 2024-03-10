@@ -79,20 +79,8 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
 http://1videobrm4.vampirehk.eu.org:31486/drm/HLN
 #EXTINF:-1 tvg-id="BBC News-America" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Share",BBC News-America
 http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
-
 #EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Share",Bloomberg
 http://1videobrm4.vampirehk.eu.org:31486/drm/Bloomberg
-
-#EXTINF:-1 tvg-id="4711e77bff000d7f8c7f04f52f88c287" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Share",CNN International
-http://asia.vampirehk.eu.org:13270/stream/channelid/2078740807?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="800e914401d6bec7c5ee2ac7c00b8ff2" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Share",BBC NEWS HD
-http://asia.vampirehk.eu.org:13270/stream/channelid/1150357120?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="bfb24ab9652651d3551476842addb293" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Share",DW English
-http://asia.vampirehk.eu.org:13270/stream/channelid/961196735?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="d81e157c5d905d5ba956a380a8928bc2" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="Share",France24
-http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="bfbe6264b31ab7de3c34fc7db865e327" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Share",ABC Australia HD
-http://asia.vampirehk.eu.org:13270/stream/channelid/1684192959?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV-1 综合
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
@@ -110,6 +98,17 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="CCTV",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+
+#EXTINF:-1 tvg-id="4711e77bff000d7f8c7f04f52f88c287" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Share",CNN International
+http://asia.vampirehk.eu.org:13270/stream/channelid/2078740807?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="800e914401d6bec7c5ee2ac7c00b8ff2" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Share",BBC NEWS HD
+http://asia.vampirehk.eu.org:13270/stream/channelid/1150357120?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="bfb24ab9652651d3551476842addb293" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Share",DW English
+http://asia.vampirehk.eu.org:13270/stream/channelid/961196735?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="d81e157c5d905d5ba956a380a8928bc2" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="Share",France24
+http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="bfbe6264b31ab7de3c34fc7db865e327" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Share",ABC Australia HD
+http://asia.vampirehk.eu.org:13270/stream/channelid/1684192959?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="ABC",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
