@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTM3U x-tvg-url="https://mirror.ghproxy.com/http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}
-#EXTM3U x-tvg-url="https://mirror.ghproxy.com/http://epg.aptvapp.com/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}
-#EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://epg.112114.eu.org/pp.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}
-
 #EXTINF:-1 tvg-id="Epg.51zmt" tvg-name="Epg.51zmt" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/a0/9a/1b/a09a1b89-5f0a-20fb-e3d4-087628f93439/source/512x512bb.jpg" group-title="EPG",Epg.51zmt
 http://epg.51zmt.top:8000/e.xml.gz
 #EXTINF:-1 tvg-id="Epg.Aptvapp" tvg-name="Epg.Aptvapp" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/a0/9a/1b/a09a1b89-5f0a-20fb-e3d4-087628f93439/source/512x512bb.jpg" group-title="EPG",Epg.Aptvapp
