@@ -26,13 +26,6 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Lz9bbsba4c.png" group-title="CNN BBC Channel",BBC World Service_Radio
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
-#EXTINF:-1 tvg-id="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="CNN BBC Channel",HLN_CCF
-http://1videobrm4.vampirehk.eu.org:31486/drm/HLN
-#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="CNN BBC Channel",HLN (720p) [Geo-blocked]
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/HLN-m.81be3aa7.png" group-title="CNN BBC Channel",CNN HeadLine News_Radio
-https://tunein.cdnstream1.com/2876_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709341005&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20408&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
-
 #EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNN-m.4945681d.png" group-title="Radio",CNN USA_Radio
 https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709340709&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20407&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
 #EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNNI-m.6a9d2a08.png" group-title="Radio",CNN International_Radio
@@ -45,42 +38,8 @@ https://22903.live.streamtheworld.com/938NOWAAC_SC
 https://22253.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/YmJQ4TxPYB.jpg" group-title="Radio",ABC Australia News_Radio
 http://live-radio01.mediahubaustralia.com/PBW/aac/
-#EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/HLN-m.81be3aa7.png" group-title="Radio",CNN HeadLine News_Radio
-https://tunein.cdnstream1.com/2876_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709341005&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20408&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/uqHbSHfMHJ.png" group-title="Radio",Bloomberg_Radio
 https://24423.live.streamtheworld.com/WBBRAMAAC_SC
-
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="Org IPTV",CNN USA (720p) [Geo-blocked]
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Org IPTV",CNN International Europe (720p)
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="Org IPTV",HLN (720p) [Geo-blocked]
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Org IPTV",ABC News Australia (720p)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Org IPTV",DW English (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="Org IPTV",France 24 English (1080p)
-http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="Org IPTV",CNA International (1080p)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png"group-title="Org IPTV",Bloomberg TV US (1080p)
-https://bloomberg-bloomberg-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Org IPTV",Bloomberg TV Europe (720p)
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Org IPTV",BBC News HD (720p) [Geo-blocked]
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-
-#EXTINF:-1 tvg-id="CNN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="Share",CNN USA
-http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
-#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Share",CNN International
-http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
-#EXTINF:-1 tvg-id="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="Share",HLN
-http://1videobrm4.vampirehk.eu.org:31486/drm/HLN
-#EXTINF:-1 tvg-id="BBC News-America" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Share",BBC News-America
-http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
-#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Share",Bloomberg
-http://1videobrm4.vampirehk.eu.org:31486/drm/Bloomberg
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV-1 综合
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
@@ -99,6 +58,15 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/32212
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="CCTV",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 
+#EXTINF:-1 tvg-id="CNN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="Share",CNN USA
+http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
+#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Share",CNN International
+http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
+#EXTINF:-1 tvg-id="BBC News-America" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Share",BBC News-America
+http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Share",Bloomberg
+http://1videobrm4.vampirehk.eu.org:31486/drm/Bloomberg
+
 #EXTINF:-1 tvg-id="4711e77bff000d7f8c7f04f52f88c287" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Share",CNN International
 http://asia.vampirehk.eu.org:13270/stream/channelid/2078740807?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="800e914401d6bec7c5ee2ac7c00b8ff2" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Share",BBC NEWS HD
@@ -110,6 +78,25 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew
 #EXTINF:-1 tvg-id="bfbe6264b31ab7de3c34fc7db865e327" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Share",ABC Australia HD
 http://asia.vampirehk.eu.org:13270/stream/channelid/1684192959?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="Org IPTV",CNN USA (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Org IPTV",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Org IPTV",ABC News Australia (720p)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Org IPTV",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="Org IPTV",France 24 English (1080p)
+http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="Org IPTV",CNA International (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png"group-title="Org IPTV",Bloomberg TV US (1080p)
+https://bloomberg-bloomberg-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Org IPTV",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Org IPTV",BBC News HD (720p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="ABC",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="ABC",CNA
@@ -118,4 +105,3 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 #EXTINF:-1 tvg-id="CNN FAST" tvg-logo="https://www.cnn.com/interactive/uploads/20230523-cnn-fast-logo.png" group-title="ABC",CNN FAST
 https://live-manifests-aka.warnermediacdn.com/csmp/cmaf/live/2028716/cnnfast-international/master_de.m3u8?_fw_ae=&_fw_ar=0&adpr=5I8NQT75Ti&afid=62117007&caid=cnn-fastchannel/livestream&conf_csid=edition.cnn.com_live_desktop_fastchannel&nw=48804&playername=top-2.12.1&prof=48804:cnn_web_live&yo.asd=true&yo.pbr=true&yo.pst=true&playerType=standard&refDom=cnn&wm_vw=stlr&pg=video_leaf&transactionID=17091105336517917616280532&_fw_gdpr=0&_fw_us_privacy=1---&audio=unmuted&vpmute=0&vpa=1&paln=AQzzBGQEDiONgYQn7B4rGXHqqJRWwjtlAHygn6BPwVabY3thYuII1ULR3YjqGJWJYwF6qvVpLjyTRKUQJfyrvOUxMGsjZGjwhUrveBLMnl-gde3mhUI7_b4XfayDPF9KIOVIvHQneKbD3r5FCCbaabiA0Jfe373Eyp-tNv4pKGAGYtgHS3_urMRqepVKjno4b_6oV-ILBldmmMujkwN3HwMOfS9kjyBf9sIUCoaGwElG_IMTatKmhKrDXRHzQVhb0oi5UwZKwfkN1BIqENn9dhTdVvKdQJUeTpAbH8n57YqBfg6vZ8esWxTPj29RhYLU8cZkKCX6UGtU73eT_MnlWsDBHS_tKMaSLIFwoTpAA5pjhUW8dQvr2bzs4kgeXUhhPqtBTb6tPnpY8vG6azaZWE_Vr9qwPuRKGqTLQyD-ldHEdTy18HZv2yO0jZ2VoayeEBEsw3SR8L9rkejA1i2ykT5Av7Vc0kU-AFspp8oeVYledYNX6YTC6ASHj7MX0loBqMFZ5dxPlGLC1a7p9FTJyH9STckjbv5KYaKDxRwg4EvIFN_BnfI4fEtMIS3dhR7bB_Qwi1woilAo8NZGbvx9T5RitV_WdHe3GKQw8V1d161EfFNfWL8F1MzjZ6bAqf3THnF0Zxw5hwWg_0tS1JQYljMbESQxD04J5qkFUVAKDgAZ5UhYCxJ45SVGjngl5Z_8LerjyWrEX-NGi7JBZdAg39xfABT8FYOo-t047oC9j9eQOCCI7f0OEnee88RXEM2rnzvsqO_NTh0dyqvCvqqTZdB7pR2NkPdb6JfyoHYYXKoU6HnpU75YPYzgmirihL-WZ12tuF5Zo_LPyoLmgNO7CiAnTyBoCuQLCmhvP-HFbGW5HC9k1RSRINox-tRuWzZ1PrCljPbI3Oa2lCdU9cLsr9cxdYie8XxRVb31RzlacHXsHjz0Yh0pGvXDV7zFNT0Hpi_ntgl277vi&_fw_cookie_consent=1&protocol=ssl&inFocus=true&cdpfl=lrfff&abip=false&app_csid=edition.cnn.com_live_desktop_fastchannel&yo.av=3&yo.pdt=sync&yo.lpa=dur
-
