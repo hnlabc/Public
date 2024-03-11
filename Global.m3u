@@ -30,6 +30,28 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/1150357120?auth=PO76qU40fPew
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Lz9bbsba4c.png" group-title="CNN BBC",BBC World Service_Radio
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
+#EXTINF:-1 tvg-id="CNN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="Share",CNN USA_CCF_USA
+http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
+#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Share",CNN International_CCF_USA
+http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
+#EXTINF:-1 tvg-id="BBC News-America" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Share",BBC News America_CCF_USA
+http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Share",Bloomberg_CCF_USA
+http://1videobrm4.vampirehk.eu.org:31486/drm/Bloomberg
+
+#EXTINF:-1 tvg-id="4711e77bff000d7f8c7f04f52f88c287" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Share",CNN International_CCF_Asia
+http://asia.vampirehk.eu.org:13270/stream/channelid/2078740807?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="800e914401d6bec7c5ee2ac7c00b8ff2" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Share",BBC NEWS HD_CCF_Asia
+http://asia.vampirehk.eu.org:13270/stream/channelid/1150357120?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="9fa1c4ae6afa9281d2ad5a9aae38a18b" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="Share",CNA_CCF_Asia
+http://asia.vampirehk.eu.org:13270/stream/channelid/784638367?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="bfbe6264b31ab7de3c34fc7db865e327" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Share",ABC Australia HD_CCF_Asia
+http://asia.vampirehk.eu.org:13270/stream/channelid/1684192959?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="bfb24ab9652651d3551476842addb293" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Share",DW English_CCF_Asia
+http://asia.vampirehk.eu.org:13270/stream/channelid/961196735?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="d81e157c5d905d5ba956a380a8928bc2" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="Share",France24_CCF_Asia
+http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+
 #EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNN-m.4945681d.png" group-title="Radio",CNN USA_Radio
 https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709340709&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20407&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
 #EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNNI-m.6a9d2a08.png" group-title="Radio",CNN International_Radio
@@ -61,26 +83,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="CCTV",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-
-#EXTINF:-1 tvg-id="CNN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="Share",CNN USA_CCF_USA
-http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
-#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Share",CNN International_CCF_USA
-http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
-#EXTINF:-1 tvg-id="BBC News-America" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Share",BBC News America_CCF_USA
-http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
-#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Share",Bloomberg_CCF_USA
-http://1videobrm4.vampirehk.eu.org:31486/drm/Bloomberg
-
-#EXTINF:-1 tvg-id="4711e77bff000d7f8c7f04f52f88c287" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Share",CNN International_CCF_Asia
-http://asia.vampirehk.eu.org:13270/stream/channelid/2078740807?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="800e914401d6bec7c5ee2ac7c00b8ff2" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Share",BBC NEWS HD_CCF_Asia
-http://asia.vampirehk.eu.org:13270/stream/channelid/1150357120?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="bfbe6264b31ab7de3c34fc7db865e327" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Share",ABC Australia HD_CCF_Asia
-http://asia.vampirehk.eu.org:13270/stream/channelid/1684192959?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="bfb24ab9652651d3551476842addb293" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Share",DW English_CCF_Asia
-http://asia.vampirehk.eu.org:13270/stream/channelid/961196735?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="d81e157c5d905d5ba956a380a8928bc2" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="Share",France24_CCF_Asia
-http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="Org",CNN USA (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
