@@ -125,7 +125,6 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Org",BBC News HD (720p) [Geo-blocked]
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
-
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="ABC",CNN_YueChan
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="CNN FAST" tvg-logo="https://www.cnn.com/interactive/uploads/20230523-cnn-fast-logo.png" group-title="ABC",CNN FAST
