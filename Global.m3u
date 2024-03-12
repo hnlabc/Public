@@ -128,6 +128,6 @@ https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="ABC",CNN International_YueChan
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="ABC",CNA_YueChan
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="ABC",ABC News Australia_YueChan
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
