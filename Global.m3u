@@ -90,6 +90,8 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Radio_China_International.svg/2292px-Radio_China_International.svg.png" group-title="Radio",CRI_Radio
 https://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="Radio",CGTN_Eudic_Radio
+http://stream.eudic.net/en_cgtn_real.webm?agent=%2feusoft_ting_en_desktop%2f9.7.3%2f00%3a15%3a5D%3a24%3aEF%3aF7%2feico%2f%2f&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJFd0tFU3JtZnM3a3h2bzlEZlNJVUlhT3BydHc9IiwidCI6IkFCSU1UY3pNREV4TmpBd013PT0ifQ%3d%3d&stamp=638459208917334542
 #EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNN-m.4945681d.png" group-title="Radio",CNN USA_Radio
 https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709340709&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20407&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
 #EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNNI-m.6a9d2a08.png" group-title="Radio",CNN International_Radio
