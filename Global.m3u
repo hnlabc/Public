@@ -102,7 +102,7 @@ https://22253.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
 http://live-radio01.mediahubaustralia.com/PBW/aac/
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="Radio",CGTN_Radio_Eudic
 http://stream.eudic.net/en_cgtn_real.webm?agent=%2feusoft_ting_en_desktop%2f9.7.3%2f00%3a15%3a5D%3a24%3aEF%3aF7%2feico%2f%2f&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJFd0tFU3JtZnM3a3h2bzlEZlNJVUlhT3BydHc9IiwidCI6IkFCSU1UY3pNREV4TmpBd013PT0ifQ%3d%3d&stamp=638459208917334542
-#EXTINF:-1 tvg-logo="https://zh.m.wikipedia.org/wiki/File:Radio_China_International.svg" group-title="Radio",CRI_Radio_Eudic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Radio_China_International.svg/2292px-Radio_China_International.svg.png" group-title="Radio",CRI_Radio_Eudic
 http://stream.eudic.net/en_cgtn.webm?agent=%2feusoft_ting_en_desktop%2f9.7.3%2f00%3a15%3a5D%3a24%3aEF%3aF7%2feico%2f%2f&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJGUFNhbGFWUGFjRFFuVEtqazZ2cjVnbkxuUDA9IiwidCI6IkFCSU1UY3pNREV4TmpJM01RPT0ifQ%3d%3d&stamp=638459211595744905
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="Org",CNN USA (720p) [Geo-blocked]
