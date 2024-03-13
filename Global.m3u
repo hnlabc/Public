@@ -96,7 +96,7 @@ http://stream.zeno.fm/ambvmys65rquv
 https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709340709&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20407&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
 #EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNNI-m.6a9d2a08.png" group-title="Radio",CNN International_Radio
 https://tunein.cdnstream1.com/3519_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709084735&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s292162&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3125&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
-#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Lz9bbsba4c.png" group-title="Radio",BBC World Service_Mytuner_Radio
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Lz9bbsba4c.png" group-title="Radio",BBC World Service_Radio
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NAHdyhwt2C.png" group-title="Radio",CNA 938 Singapore_Radio
 https://22903.live.streamtheworld.com/938NOWAAC_SC
