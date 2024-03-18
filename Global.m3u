@@ -102,7 +102,7 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/961196735?auth=PO76qU40fPew2
 #EXTINF:-1 tvg-id="d81e157c5d905d5ba956a380a8928bc2" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="Share",France24_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Radio_China_International.svg/2292px-Radio_China_International.svg.png" group-title="Radio",CRI_Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/Radio_China_International.png" group-title="Radio",CRI_Radio
 https://sk.cri.cn/am846.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="Radio",CGTN_Radio
 http://stream.zeno.fm/ambvmys65rquv
