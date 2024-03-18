@@ -141,7 +141,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="ABC",明珠台_YueChan
 http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="澳门澳视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="ABC",澳门澳视_YueChan
+#EXTINF:-1 tvg-id="澳视澳门" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="ABC",澳视澳门_YueChan
 http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
 
 
