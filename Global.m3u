@@ -13,6 +13,11 @@ https://live.fanmingming.com/e.xml
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="News",CGTN
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="News",Pearl HK_Hiper
+http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="News",Pearl HK_myTV
+http://asia.vampirehk.eu.org:13270/stream/channelid/70341624?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+
 #EXTINF:-1 tvg-id="CNN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",CNN USA_CCF_USA
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",CNN USA (720p) [Geo-blocked]
