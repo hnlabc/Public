@@ -137,9 +137,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="ABC",ABC News Australia_YueChan
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Jade_logo2023.jpg" group-title="ABC",翡翠台_YueChan
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="ABC",翡翠台_YueChan
 http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/83/TVB_Pearl.jpg" group-title="ABC",明珠台_YueChan
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="ABC",明珠台_YueChan
 http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="澳门澳视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="ABC",澳门澳视_YueChan
 http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
