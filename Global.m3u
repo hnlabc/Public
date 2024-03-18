@@ -13,7 +13,7 @@ https://live.fanmingming.com/e.xml
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="News",CGTN
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Pearl.png" group-title="News",Pearl HK
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Pearl.png" group-title="News",Pearl HK_(广电IPv6)
 http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
 
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_Cloudfront
@@ -144,12 +144,13 @@ https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="ABC",ABC News Australia_YueChan
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Jade.png" group-title="ABC",翡翠台_YueChan
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Jade.png" group-title="ABC",翡翠台(广电IPv6)
 http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Pearl.png" group-title="ABC",明珠台_YueChan
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Pearl.png" group-title="ABC",明珠台(广电IPv6)
 http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="澳视澳门" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="ABC",澳视澳门_YueChan
+#EXTINF:-1 tvg-id="澳视澳门" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="ABC",澳视澳门(广电IPv6)
 http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
-
+#EXTINF:-1 tvg-id="广东体育" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/GD_Sport.png" group-title="ABC",广东体育(广电IPv6)
+http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
 
 
