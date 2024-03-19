@@ -13,7 +13,6 @@ https://live.fanmingming.com/e.xml
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="News",CGTN
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_Cloudfront
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="9fa1c4ae6afa9281d2ad5a9aae38a18b" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_CCF_Asia
@@ -153,5 +152,3 @@ http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
 http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="广东体育" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/GD_Sport.png" group-title="ABC",广东体育(广电IPv6)
 http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
-
-
