@@ -108,10 +108,10 @@ https://sk.cri.cn/am846.m3u8
 http://stream.zeno.fm/ambvmys65rquv
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NAHdyhwt2C.png" group-title="Radio",CNA 938_Radio
 https://22903.live.streamtheworld.com/938NOWAAC_SC
-#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/jKhx2VFARK.jpg" group-title="Radio",CLASS 95_Radio
-https://22403.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/AWjWGLbzkc.jpg" group-title="Radio",GOLD 905_Radio
 https://19183.live.streamtheworld.com/GOLD905AAC_SC
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/jKhx2VFARK.jpg" group-title="Radio",CLASS 95_Radio
+https://22403.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/EFUtj72GTd.jpg" group-title="Radio",CAPITAL 958_Radio
 https://22253.live.streamtheworld.com/CAPITAL958FMAAC_SC
 #EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNN-m.4945681d.png" group-title="Radio",CNN USA_Radio
