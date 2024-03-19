@@ -115,7 +115,7 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NAHdyhwt2C.png" group-title="Radio",CNA 938 Singapore_Radio
 https://22903.live.streamtheworld.com/938NOWAAC_SC
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/jKhx2VFARK.jpg" group-title="Radio",Class 95 Singapore_Radio
-https://28093.live.streamtheworld.com/CLASS95_PREM.aac?dist=MPL&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=ad95e3c3-20f7-4ecf-c0aa-8f881a372761
+https://22403.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/YmJQ4TxPYB.jpg" group-title="Radio",ABC Australia News_Radio
 http://live-radio01.mediahubaustralia.com/PBW/aac/
 
