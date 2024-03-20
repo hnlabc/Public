@@ -82,14 +82,14 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/32212
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/Radio_China_International.png" group-title="Radio",CRI_Radio
 https://sk.cri.cn/am846.m3u8
-#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NAHdyhwt2C.png" group-title="Radio",CNA 938_Radio
-https://22903.live.streamtheworld.com/938NOWAAC_SC
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/AWjWGLbzkc.jpg" group-title="Radio",GOLD 905_Radio
 https://19183.live.streamtheworld.com/GOLD905AAC_SC
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/jKhx2VFARK.jpg" group-title="Radio",CLASS 95_Radio
 https://22403.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/EFUtj72GTd.jpg" group-title="Radio",CAPITAL 958_Radio
 https://22253.live.streamtheworld.com/CAPITAL958FMAAC_SC
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NAHdyhwt2C.png" group-title="Radio",CNA 938_Radio
+https://22903.live.streamtheworld.com/938NOWAAC_SC
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="Radio",CGTN_Radio
 http://stream.eudic.net/en_cgtn_real.webm?agent=%2feusoft_ting_en_desktop%2f9.7.4%2f00%3a15%3a5D%3a24%3aEF%3aF7%2feico%2f%2f&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJkaTlhcEhmZWUrdU9yVFEyUEtMSjdCVmg2Ulk9IiwidCI6IkFCSU1UY3pNRGN4TURNME5nPT0ifQ%3d%3d&stamp=638465152352170762
 #EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNN-m.4945681d.png" group-title="Radio",CNN USA_Radio
