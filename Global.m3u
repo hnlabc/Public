@@ -18,7 +18,7 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",CNN USA (720p)_Org
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International_Cloudfront
+#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International_Amz
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International_CCF_USA
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
@@ -32,7 +32,7 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
 #EXTINF:-1 tvg-id="800e914401d6bec7c5ee2ac7c00b8ff2" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC NEWS HD_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/1150357120?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_Cloudfront
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_Amz
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="9fa1c4ae6afa9281d2ad5a9aae38a18b" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/784638367?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
