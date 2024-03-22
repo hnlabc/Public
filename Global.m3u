@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="Epg.51zmt" tvg-name="Epg.51zmt" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/EPG.jpg" group-title="EPG",Epg.51zmt
 http://epg.51zmt.top:8000/e.xml.gz
-#EXTINF:-1 tvg-id="Epg.Aptvapp" tvg-name="Epg.Aptvapp" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/EPG.jpg" group-title="EPG",Epg.Aptvapp
-http://epg.aptvapp.com/xml
 #EXTINF:-1 tvg-id="Epg.112114" tvg-name="Epg.112114" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/EPG.jpg" group-title="EPG",Epg.112114
 https://epg.112114.eu.org/pp.xml.gz
 #EXTINF:-1 tvg-id="FMM" tvg-name="FMM" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/EPG.jpg" group-title="EPG",FMM
