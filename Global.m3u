@@ -26,9 +26,9 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/2078740807?auth=PO76qU40fPew
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International (720p)_Org
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBC News-America" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News America_CCF_USA
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News America_CCF_USA
 http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
-#EXTINF:-1 tvg-id="800e914401d6bec7c5ee2ac7c00b8ff2" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC NEWS HD_CCF_Asia
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC NEWS HD_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/1150357120?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_Amz
