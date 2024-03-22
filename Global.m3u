@@ -31,9 +31,9 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC NEWS HD_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/1150357120?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_Amz
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_Amz
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_CCF_Asia
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/784638367?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Pearl.png" group-title="News",Pearl HK_GD
@@ -85,7 +85,7 @@ https://22403.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
 https://22253.live.streamtheworld.com/CAPITAL958FMAAC_SC
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/JJEnxdCbGC.jpg" group-title="Radio",Mediacorp 987_Radio
 https://14033.live.streamtheworld.com/987FM_PREM_SC?dist=MPL&pname=TDSdk
-#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NAHdyhwt2C.png" group-title="Radio",CNA 938_Radio
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NAHdyhwt2C.png" group-title="Radio",CNA 938_Radio
 https://22903.live.streamtheworld.com/938NOWAAC_SC
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://edition.cnn.com/audio/static/images/live/CNN-m.4945681d.png" group-title="Radio",CNN USA_Radio
 https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709340709&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20407&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
@@ -98,7 +98,7 @@ http://live-radio01.mediahubaustralia.com/PBW/aac/
 
 #EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="ABC",CNN International_YueChan
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
-#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="ABC",CNA_YueChan
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="ABC",CNA_YueChan
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="ABC",ABC News Australia_YueChan
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
