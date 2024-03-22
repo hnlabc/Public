@@ -33,17 +33,17 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/1150357120?auth=PO76qU40fPew
 
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_Amz
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="9fa1c4ae6afa9281d2ad5a9aae38a18b" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_CCF_Asia
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/784638367?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Pearl.png" group-title="News",Pearl HK_GD
 http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
 
-#EXTINF:-1 tvg-id="bfbe6264b31ab7de3c34fc7db865e327" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC Australia HD_CCF_Asia
+#EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC Australia HD_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/1684192959?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/961196735?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="d81e157c5d905d5ba956a380a8928bc2" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="News",France24_CCF_Asia
+#EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="News",France24_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV-1 综合
@@ -122,11 +122,11 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Org",CNN International (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Org",ABC News Australia (720p)
+#EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Org",ABC News Australia (720p)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Org",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="Org",France 24 English (1080p)
+#EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="Org",France 24 English (1080p)
 http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="Org",CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -141,7 +141,7 @@ https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="ABC",CNA_YueChan
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="ABC",ABC News Australia_YueChan
+#EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="ABC",ABC News Australia_YueChan
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Jade.png" group-title="ABC",翡翠台(广电IPv6)
 http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
