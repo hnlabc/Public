@@ -77,7 +77,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/32212
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/CGTN_Radio.png" group-title="Radio",CRI_Radio
 https://sk.cri.cn/am846.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/CGTN_1.png" group-title="Radio",CGTN_Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/CGTN_1.png" group-title="Radio",CGTN_Radio
 http://stream.eudic.net/en_cgtn_real.webm?agent=%2feusoft_ting_en_desktop%2f9.7.4%2f00%3a15%3a5D%3a24%3aEF%3aF7%2feico%2f%2f&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJkaTlhcEhmZWUrdU9yVFEyUEtMSjdCVmg2Ulk9IiwidCI6IkFCSU1UY3pNRGN4TURNME5nPT0ifQ%3d%3d&stamp=638465152352170762
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/AWjWGLbzkc.jpg" group-title="Radio",GOLD 905_Radio
 https://19183.live.streamtheworld.com/GOLD905AAC_SC
@@ -87,15 +87,15 @@ https://22403.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
 https://22253.live.streamtheworld.com/CAPITAL958FMAAC_SC
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/JJEnxdCbGC.jpg" group-title="Radio",Mediacorp 987_Radio
 https://14033.live.streamtheworld.com/987FM_PREM_SC?dist=MPL&pname=TDSdk
-#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NAHdyhwt2C.png" group-title="Radio",CNA 938_Radio
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NAHdyhwt2C.png" group-title="Radio",CNA 938_Radio
 https://22903.live.streamtheworld.com/938NOWAAC_SC
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://edition.cnn.com/audio/static/images/live/CNN-m.4945681d.png" group-title="Radio",CNN USA_Radio
+#EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNN-m.4945681d.png" group-title="Radio",CNN USA_Radio
 https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709340709&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20407&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
-#EXTINF:-1  tvg-id="cnn.info" tvg-logo="https://edition.cnn.com/audio/static/images/live/CNNI-m.6a9d2a08.png" group-title="Radio",CNN International_Radio
+#EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNNI-m.6a9d2a08.png" group-title="Radio",CNN International_Radio
 https://tunein.cdnstream1.com/3519_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709084735&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s292162&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3125&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
-#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Lz9bbsba4c.png" group-title="Radio",BBC World Service_Radio
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Lz9bbsba4c.png" group-title="Radio",BBC World Service_Radio
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/YmJQ4TxPYB.jpg" group-title="Radio",ABC Australia News_Radio
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/YmJQ4TxPYB.jpg" group-title="Radio",ABC Australia News_Radio
 http://live-radio01.mediahubaustralia.com/PBW/aac/
 
 #EXTINF:-1 tvg-id="cnn.info" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="ABC",CNN International_YueChan
