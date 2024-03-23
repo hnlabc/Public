@@ -13,12 +13,12 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
 #EXTINF:-1 tvg-id="CNNUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",CNN USA (720p)_Org
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International_Amz
-https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International_CCF_USA
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/2078740807?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International_Amz
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International (720p)_Org
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -34,13 +34,23 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/784638367?auth=PO76qU40fPew2
 
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Pearl.png" group-title="News",Pearl_GD
 http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Pearl.png" group-title="News",Pearl_CCF_myTV
+http://asia.vampirehk.eu.org:13270/stream/channelid/70341624?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC Australia HD_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/1684192959?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News Australia(720p)_Org
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
 #EXTINF:-1 tvg-id="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/961196735?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)_Org
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 #EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="News",France24_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="News",France 24 English (1080p)_Org
+http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV-1 综合
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
@@ -77,10 +87,10 @@ http://stream.eudic.net/en_cgtn_real.webm?agent=%2feusoft_ting_en_desktop%2f9.7.
 https://19183.live.streamtheworld.com/GOLD905AAC_SC
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/jKhx2VFARK.jpg" group-title="Radio",CLASS 95_Radio
 https://22403.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
-#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/EFUtj72GTd.jpg" group-title="Radio",CAPITAL 958_Radio
-https://22253.live.streamtheworld.com/CAPITAL958FMAAC_SC
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/JJEnxdCbGC.jpg" group-title="Radio",Mediacorp 987_Radio
 https://14033.live.streamtheworld.com/987FM_PREM_SC?dist=MPL&pname=TDSdk
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/EFUtj72GTd.jpg" group-title="Radio",CAPITAL 958_Radio
+https://22253.live.streamtheworld.com/CAPITAL958FMAAC_SC
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NAHdyhwt2C.png" group-title="Radio",CNA 938_Radio
 https://22903.live.streamtheworld.com/938NOWAAC_SC
 #EXTINF:-1 tvg-logo="https://edition.cnn.com/audio/static/images/live/CNN-m.4945681d.png" group-title="Radio",CNN USA_Radio
@@ -92,12 +102,6 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/YmJQ4TxPYB.jpg" group-title="Radio",ABC Australia News_Radio
 http://live-radio01.mediahubaustralia.com/PBW/aac/
 
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="ABC",CNN International_YueChan
-https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
-#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="ABC",CNA_YueChan
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="ABC",ABC News Australia_YueChan
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Jade.png" group-title="ABC",翡翠台(广电IPv6)
 http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Pearl.png" group-title="ABC",明珠台(广电IPv6)
@@ -106,4 +110,3 @@ http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
 http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="广东体育" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/GD_Sport.png" group-title="ABC",广东体育(广电IPv6)
 http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
-
