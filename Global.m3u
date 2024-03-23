@@ -44,13 +44,9 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 #EXTINF:-1 tvg-id="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/961196735?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)_Org
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="News",France24_CCF_Asia
 http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="News",France 24 English (1080p)_Org
-http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV-1 综合
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
