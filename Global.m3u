@@ -32,9 +32,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png" group-title="News",CNA_CCFAsia
 http://asia.vampirehk.eu.org:13270/stream/channelid/784638367?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Pearl.png" group-title="News",Pearl_Gd
-http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
-
 #EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/375px-ABC_News_Channel.svg.png" group-title="News",ABC Australia News_CCFAsia
 http://asia.vampirehk.eu.org:13270/stream/channelid/1684192959?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/375px-ABC_News_Channel.svg.png" group-title="News",ABC Australia News(720p)_Org
