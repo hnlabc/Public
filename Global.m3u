@@ -93,11 +93,5 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/YmJQ4TxPYB.jpg" group-title="Radio",ABC Australia News_radio
 http://live-radio01.mediahubaustralia.com/PBW/aac/
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Jade.png" group-title="ABC",翡翠台(广电IPv6)
-http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/TVB_Pearl.png" group-title="ABC",明珠台(广电IPv6)
 http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="澳视澳门" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="ABC",澳视澳门(广电IPv6)
-http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="广东体育" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/GD_Sport.png" group-title="ABC",广东体育(广电IPv6)
-http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
