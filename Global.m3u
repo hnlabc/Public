@@ -37,6 +37,9 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/961196735?auth=PO76qU40fPew2
 #EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/300px-FRANCE_24_logo.svg.png" group-title="News",France24_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png" group-title="News",Al Jazeera_ccfasia
+http://asia.vampirehk.eu.org:13270/stream/channelid/1769242268?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV-1 综合
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV",CCTV-2 财经_ott
@@ -101,7 +104,5 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/70341624?auth=PO76qU40fPew2V
 http://asia.vampirehk.eu.org:13270/stream/channelid/813734998?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/300px-FRANCE_24_logo.svg.png" group-title="ABC",France24_mytv
 http://asia.vampirehk.eu.org:13270/stream/channelid/873584038?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png" group-title="ABC",Al Jazeera_mytv
-http://asia.vampirehk.eu.org:13270/stream/channelid/1007961612?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png" group-title="ABC",Al Jazeera_ccfasia
-http://asia.vampirehk.eu.org:13270/stream/channelid/1769242268?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+
+
