@@ -66,6 +66,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/Phoenix_TV_Information_Channel.png" group-title="CCTV",凤凰资讯_ott
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="CCTV",凤凰香港_ott
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/CGTN_Radio.png" group-title="Radio",CRI_radio
 https://sk.cri.cn/am846.m3u8
