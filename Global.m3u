@@ -112,3 +112,5 @@ https://iptv.hiper25.com/TVB/video.m3u8
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-logo="https://raw.githubusercontent.com/hnlabc/Public/main/GD_Sport.png" group-title="ABC",广东体育(广电IPv6)
 https://iptv.hiper25.com/gdty/video.m3u8
+#EXTINF:-1 tvg-id="澳视澳门" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="ABC",澳视澳门(广电IPv6)
+https://iptv.hiper25.com/TDM/video.m3u8
