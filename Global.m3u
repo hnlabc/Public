@@ -37,7 +37,7 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/961196735?auth=PO76qU40fPew2
 #EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="NEWS",France24_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeerapng.png" group-title="NEWS",Al Jazeera_ccfasia
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Al_Jazeera_English.png" group-title="NEWS",Al Jazeera_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/1769242268?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV-1 综合
