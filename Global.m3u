@@ -110,7 +110,7 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/813734998?auth=PO76qU40fPew2
 #EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/300px-FRANCE_24_logo.svg.png" group-title="ABC",France24_mytv
 http://asia.vampirehk.eu.org:13270/stream/channelid/873584038?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="ABC",翡翠台(广电IPv6)
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Jade.png" group-title="ABC",翡翠台(广电IPv6)
 https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB2.png" group-title="ABC",明珠台(广电IPv6)
 https://iptv.hiper25.com/Pearl/video.m3u8
