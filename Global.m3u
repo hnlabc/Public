@@ -90,7 +90,7 @@ https://iptv.hiper25.com/dwq/video.m3u8
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JiangSu.png" group-title="LOCAL",江苏卫视
 http://[2409:8087:7000:20::17]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HaiNan.png" group-title="LOCAL",海南卫视
+#EXTINF:-1 tvg-id="旅游卫视" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HaiNan.png" group-title="LOCAL",海南卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GuangDong.png" group-title="LOCAL",广东卫视
 http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
