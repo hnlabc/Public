@@ -31,7 +31,7 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/784638367?auth=PO76qU40fPew2
 #EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCNEWS1.jpg" group-title="NEWS",ABC Australia News_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/1684192959?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-id="DW" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DWNEWS.png" group-title="NEWS",DW English_ccfasia
+#EXTINF:-1 tvg-id="DW" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DWNEWS1.png" group-title="NEWS",DW English_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/961196735?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="NEWS",France24_ccfasia
