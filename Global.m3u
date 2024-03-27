@@ -94,22 +94,6 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCNEWS1.jpg" group-title="Radio",ABC Australia News_radio
 http://live-radio01.mediahubaustralia.com/PBW/aac/
 
-#EXTINF:-1 tvg-id="CNNUS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN.png" group-title="ABC",CNN USA(720p)_org
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="ABC",CNN International(720p)_org
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCNEWS1.jpg" group-title="ABC",ABC Australia News(720p)_org
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Jade.png" group-title="ABC",翡翠台_mytv
-http://asia.vampirehk.eu.org:13270/stream/channelid/1379840295?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="ABC",明珠台_mytv
-http://asia.vampirehk.eu.org:13270/stream/channelid/70341624?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="ABC",CNA_mytv
-http://asia.vampirehk.eu.org:13270/stream/channelid/813734998?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="ABC",France24_mytv
-http://asia.vampirehk.eu.org:13270/stream/channelid/873584038?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Jade.png" group-title="ABC",翡翠台(广电IPv6)
 https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="ABC",明珠台(广电IPv6)
@@ -130,4 +114,19 @@ http://[2409:8087:7000:20::15]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DongFang.png" group-title="ABC",东方卫视
 http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
 
+#EXTINF:-1 tvg-id="CNNUS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN.png" group-title="ABC",CNN USA(720p)_org
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="ABC",CNN International(720p)_org
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCNEWS1.jpg" group-title="ABC",ABC Australia News(720p)_org
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Jade.png" group-title="ABC",翡翠台_mytv
+http://asia.vampirehk.eu.org:13270/stream/channelid/1379840295?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="ABC",明珠台_mytv
+http://asia.vampirehk.eu.org:13270/stream/channelid/70341624?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="ABC",CNA_mytv
+http://asia.vampirehk.eu.org:13270/stream/channelid/813734998?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="ABC",France24_mytv
+http://asia.vampirehk.eu.org:13270/stream/channelid/873584038?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
