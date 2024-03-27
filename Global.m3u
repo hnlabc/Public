@@ -5,39 +5,39 @@ https://epg.112114.eu.org/pp.xml.gz
 #EXTINF:-1 tvg-id="Epg.51zmt" tvg-name="Epg.51zmt" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/EPG.jpg" group-title="EPG",Epg.51zmt
 http://epg.51zmt.top:8000/e.xml.gz
 
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNNews.png" group-title="News",CGTN English
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNNews.png" group-title="NEWS",CGTN English
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="CNNUS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN.png" group-title="News",CNN USA_ccfus
+#EXTINF:-1 tvg-id="CNNUS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN.png" group-title="NEWS",CNN USA_ccfus
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
 
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="News",CNN International_ccfus
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International_ccfus
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="News",CNN International_ccfasia
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/2078740807?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="News",CNN International_amz
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International_amz
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNews.png" group-title="News",BBC News_ccfus
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNews.png" group-title="NEWS",BBC News_ccfus
 http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
-#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNews.png" group-title="News",BBC News_ccfasia
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNews.png" group-title="NEWS",BBC News_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/1150357120?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="News",CNA_amz
+#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="NEWS",CNA_amz
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="News",CNA_ccfasia
+#EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="NEWS",CNA_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/784638367?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCNEWS1.jpg" group-title="News",ABC Australia News_ccfasia
+#EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCNEWS1.jpg" group-title="NEWS",ABC Australia News_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/1684192959?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-id="DW" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DW.png" group-title="News",DW English_ccfasia
+#EXTINF:-1 tvg-id="DW" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DW.png" group-title="NEWS",DW English_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/961196735?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="News",France24_ccfasia
+#EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="NEWS",France24_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/2081758936?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeerapng.png" group-title="News",Al Jazeera_ccfasia
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeerapng.png" group-title="NEWS",Al Jazeera_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/1769242268?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV-1 综合
