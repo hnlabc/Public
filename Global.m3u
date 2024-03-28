@@ -18,9 +18,9 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/2078740807?auth=PO76qU40fPew
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International_amz
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS5.png" group-title="NEWS",BBC News_ccfus
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS3.png" group-title="NEWS",BBC News_ccfus
 http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
-#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS5.png" group-title="NEWS",BBC News_ccfasia
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS3.png" group-title="NEWS",BBC News_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/1150357120?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="NEWS",CNA_amz
