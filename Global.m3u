@@ -8,7 +8,7 @@ http://epg.51zmt.top:8000/e.xml.gz
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNNews.png" group-title="NEWS",CGTN English
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="CNNUS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN.png" group-title="NEWS",CNN USA_ccfus
+#EXTINF:-1 tvg-id="CNNUS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="NEWS",CNN USA_ccfus
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International_ccfus
@@ -124,7 +124,7 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCNews.png" group-title="RADIO",ABC Australia News_radio
 http://live-radio01.mediahubaustralia.com/PBW/aac/
 
-#EXTINF:-1 tvg-id="CNNUS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN.png" group-title="ABC",CNN USA(720p)_org
+#EXTINF:-1 tvg-id="CNNUS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="ABC",CNN USA(720p)_org
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="ABC",CNN International(720p)_org
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
