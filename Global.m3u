@@ -127,8 +127,6 @@ http://asia.vampirehk.eu.org:13270/stream/channelid/724842005?auth=PO76qU40fPew2
 http://asia.vampirehk.eu.org:13270/stream/channelid/457473340?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="ABC",CNA_mytv
 http://asia.vampirehk.eu.org:13270/stream/channelid/360482214?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="ABC",France24_mytv
-http://asia.vampirehk.eu.org:13270/stream/channelid/757279661?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="DW" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DWNEWS1.png" group-title="ABC",DW English_mytv
 http://asia.vampirehk.eu.org:13270/stream/channelid/1078037235?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
