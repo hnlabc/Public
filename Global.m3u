@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="Epg.112114" tvg-name="Epg.112114" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/EPG.jpg" group-title="EPG",Epg.112114
 https://epg.112114.eu.org/pp.xml.gz
-#EXTINF:-1 tvg-id="Epg.51zmt" tvg-name="Epg.51zmt" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/EPG.jpg" group-title="EPG",Epg.51zmt
-http://epg.51zmt.top:8000/e.xml.gz
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNNews.png" group-title="NEWS",CGTN English
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -15,8 +13,6 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International_ccfasia
 http://asia.vampirehk.eu.org:13270/stream/channelid/1634710526?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International_amz
-https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS3.png" group-title="NEWS",BBC News_ccfus
 http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
@@ -136,6 +132,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCNEWS6.jpg" group-title="ABC",ABC Australia News(720p)_org
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="ABC",CNN International_amz
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 
 
 
