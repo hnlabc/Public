@@ -113,26 +113,26 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCNewsRadio.png" group-title="RADIO",ABC Australia News(radio)
 http://live-radio01.mediahubaustralia.com/PBW/aac/
 
-#EXTINF:-1 group-title="ABC",FoxSports1(ccf1）
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxSports1.png" group-title="ABC",FoxSports1(ccf1）
 http://1videobrm4.vampirehk.eu.org:31486/drm/FoxSports1
-#EXTINF:-1 group-title="ABC",FoxSports2(ccf1）
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/"FoxSports2.png group-title="ABC",FoxSports2(ccf1）
 http://1videobrm4.vampirehk.eu.org:31486/drm/FoxSports2
-#EXTINF:-1 group-title="ABC",ESPN(ccf1）
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPN.png" group-title="ABC",ESPN(ccf1）
 http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN
-#EXTINF:-1 group-title="ABC",ESPN2(ccf1）
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPN2.png" group-title="ABC",ESPN2(ccf1）
 http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN2
-#EXTINF:-1 group-title="ABC",ESPN-News(ccf1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPNNEWS.png" group-title="ABC",ESPN-News(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN-News
 
-#EXTINF:-1 tvg-id="73dcf23c6993fdc6033f28461a2469ed" group-title="ABC",Astro BBC Earth(ccf2）
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCEarthpng.png" group-title="ABC",Astro BBC Earth(ccf2）
 http://asia.vampirehk.eu.org:13270/stream/channelid/1022549107?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="989e9926a29f14f467d725cc0a0cc395" group-title="ABC",Astro BBC Lifestyle(ccf2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCLifeStyle.png" group-title="ABC",Astro BBC LifeStyle(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/647601816?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="c5a621384008088600082114cb2b8352" group-title="ABC",Sky Sports Football(ccf2）
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsFootball.png" group-title="ABC",Sky Sports Football(ccf2）
 http://asia.vampirehk.eu.org:13270/stream/channelid/941729477?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="c00d3cafe9a99fbc10b3f00538a6a7d2" group-title="ABC",Sky Sports News(ccf2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsNews.png" group-title="ABC",Sky Sports News(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/792464832?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="3bddb12a54e377dad75dd2d634e9b638" group-title="ABC",Sky Sports Mix(ccf2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsMix.png" group-title="ABC",Sky Sports Mix(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/716299579?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Jade.png" group-title="ABC",翡翠台(mytv)
