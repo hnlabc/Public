@@ -113,6 +113,8 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCNewsRadio.png" group-title="RADIO",ABC Australia News(radio)
 http://live-radio01.mediahubaustralia.com/PBW/aac/
 
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Jade.png" group-title="ABC",翡翠台(mytv)
+http://asia.vampirehk.eu.org:13270/stream/channelid/1656775952?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="ABC",明珠台(mytv)
 http://asia.vampirehk.eu.org:13270/stream/channelid/457473340?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="ABC",CNA(mytv)
