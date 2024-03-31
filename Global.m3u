@@ -76,10 +76,6 @@ https://iptv.hiper25.com/TVB/video.m3u8
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aoshi.png" group-title="LOCAL",澳视澳门(广电IPv6)
 https://iptv.hiper25.com/TDM/video.m3u8
-#EXTINF:-1 tvg-id="广东体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GD_Sport.png" group-title="LOCAL",广东体育(广电IPv6)
-https://iptv.hiper25.com/gdty/video.m3u8
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DWQ.png" group-title="LOCAL",大湾区卫视(广电IPv6)
-https://iptv.hiper25.com/dwq/video.m3u8
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JiangSu.png" group-title="LOCAL",江苏卫视
 http://[2409:8087:7000:20::17]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
@@ -117,8 +113,6 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCNewsRadio.png" group-title="RADIO",ABC Australia News(radio)
 http://live-radio01.mediahubaustralia.com/PBW/aac/
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Jade.png" group-title="ABC",翡翠台(4K)(mytv)
-http://asia.vampirehk.eu.org:13270/stream/channelid/724842005?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="ABC",明珠台(mytv)
 http://asia.vampirehk.eu.org:13270/stream/channelid/457473340?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="ABC",CNA(mytv)
