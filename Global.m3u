@@ -99,7 +99,7 @@ http://stream.eudic.net/en_cgtn_real.webm?agent=%2feusoft_ting_en_desktop%2f9.7.
 https://19183.live.streamtheworld.com/GOLD905AAC_SC
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CLASS95Radio.jpg" group-title="RADIO",CLASS95(radio)
 https://22403.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Mediacorp987Radio.jpg" group-title="RADIOM,MEDIACORP987(radio)
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Mediacorp987Radio.jpg" group-title="RADIO",MEDIACORP987(radio)
 https://14033.live.streamtheworld.com/987FM_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CAPITAL958Radio.jpg" group-title="RADIO",CAPITAL958(radio)
 https://22253.live.streamtheworld.com/CAPITAL958FMAAC_SC
