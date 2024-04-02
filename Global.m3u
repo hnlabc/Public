@@ -78,15 +78,15 @@ https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aoshi.png" group-title="LOCAL",澳视澳门(广电IPv6)
 https://iptv.hiper25.com/TDM/video.m3u8
 
-#EXTINF:-1 group-title="LOCAL",中天新闻
+#EXTINF:-1 tvg-id="中天新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ZhongTianNews.png" group-title="LOCAL",中天新闻(tw)
 http://ytb.taoiptv.com/live.m3u8?c=3
-#EXTINF:-1 group-title="LOCAL",中視新聞
+#EXTINF:-1 tvg-id="中视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ZhongShiNews.png" group-title="LOCAL",中视新闻(tw)
 http://ytb.taoiptv.com/live.m3u8?c=5
-#EXTINF:-1 group-title="LOCAL",民視新聞
+#EXTINF:-1 tvg-id="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MingShiNews.png" group-title="LOCAL",民视新闻(tw)
 http://ytb.taoiptv.com/live.m3u8?c=6
-#EXTINF:-1 group-title="LOCAL",寰宇新闻
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HuangYuNews.png" group-title="LOCAL",寰宇新闻(tw)
 http://ytb.taoiptv.com/live.m3u8?c=7
-#EXTINF:-1 group-title="LOCAL",东森新闻
+#EXTINF:-1 tvg-id="东森新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DongSengNews.png" group-title="LOCAL",东森新闻(tw)
 http://ytb.taoiptv.com/live.m3u8?c=8
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JiangSu.png" group-title="LOCAL",江苏卫视
