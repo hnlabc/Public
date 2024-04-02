@@ -78,6 +78,17 @@ https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aoshi.png" group-title="LOCAL",澳视澳门(广电IPv6)
 https://iptv.hiper25.com/TDM/video.m3u8
 
+#EXTINF:-1 group-title="LOCAL",中天新闻
+http://ytb.taoiptv.com/live.m3u8?c=3
+#EXTINF:-1 group-title="LOCAL",中視新聞
+http://ytb.taoiptv.com/live.m3u8?c=5
+#EXTINF:-1 group-title="LOCAL",民視新聞
+http://ytb.taoiptv.com/live.m3u8?c=6
+#EXTINF:-1 group-title="LOCAL",寰宇新闻
+http://ytb.taoiptv.com/live.m3u8?c=7
+#EXTINF:-1 group-title="LOCAL",东森新闻
+http://ytb.taoiptv.com/live.m3u8?c=8
+
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JiangSu.png" group-title="LOCAL",江苏卫视
 http://[2409:8087:7000:20::17]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HaiNan.png" group-title="LOCAL",海南卫视
