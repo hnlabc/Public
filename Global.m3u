@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.eu.org/pp.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTM3U x-tvg-url="https://epg.112114.eu.org/pp.xml.gz"
+#EXTM3U x-tvg-url="https://epg.112114.eu.org/pp.xml.gz,https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml"
 
 #EXTINF:-1 tvg-id="Epg.112114" tvg-name="Epg.112114" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/EPG.jpg" group-title="EPG",Epg.112114
 https://epg.112114.eu.org/pp.xml.gz
@@ -118,6 +118,75 @@ https://tunein.cdnstream1.com/3519_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.sk
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCNewsRadio.png" group-title="RADIO",ABC Australia News(radio)
 http://live-radio01.mediahubaustralia.com/PBW/aac/
+
+#EXTINF:-1 group-title="JSHD",CCTV1HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV2HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV3HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV4HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV5HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV5+
+http://ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV6HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV7HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227642/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV8HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV9HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV10HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV11HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV12HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV13HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV14HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV15HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV16HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
+#EXTINF:-1 group-title="JSHD",CCTV17HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
+#EXTINF:-1 group-title="JSHD",江苏卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
+#EXTINF:-1 group-title="JSHD",浙江卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227744/index.m3u8
+#EXTINF:-1 group-title="JSHD",北京卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227652/index.m3u8
+#EXTINF:-1 group-title="JSHD",湖南卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8
+#EXTINF:-1 group-title="JSHD",广东卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227673/index.m3u8
+#EXTINF:-1 group-title="JSHD",东方卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8
+#EXTINF:-1 group-title="JSHD",黑龙江卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
+#EXTINF:-1 group-title="JSHD",深圳卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227677/index.m3u8
+#EXTINF:-1 group-title="JSHD",山东卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
+#EXTINF:-1 group-title="JSHD",天津卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227741/index.m3u8
+#EXTINF:-1 group-title="JSHD",湖北卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
+#EXTINF:-1 group-title="JSHD",重庆卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
+#EXTINF:-1 group-title="JSHD",安徽卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
+#EXTINF:-1 group-title="JSHD",江西卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
+#EXTINF:-1 group-title="JSHD",辽宁卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
+#EXTINF:-1 group-title="JSHD",东南卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxSports.png" group-title="ABC",Fox Sports1(ccf1）
 http://1videobrm4.vampirehk.eu.org:31486/drm/FoxSports1
