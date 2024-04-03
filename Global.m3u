@@ -115,6 +115,27 @@ https://14033.live.streamtheworld.com/987FM_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CAPITAL958Radio.jpg" group-title="RADIO",CAPITAL958(radio)
 https://22253.live.streamtheworld.com/CAPITAL958FMAAC_SC
 
+#EXTINF:-1 tvg-id="TY01" tvg-name="TY01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive1.png" group-title="SPORTS",Sports Live-1
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
+#EXTINF:-1 tvg-id="TY02" tvg-name="TY02" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive2.png" group-title="SPORTS",Sports Live-2
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
+#EXTINF:-1 tvg-id="TY03" tvg-name="TY03" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive3.png" group-title="SPORTS",Sports Live-3
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
+#EXTINF:-1 tvg-id="TY04" tvg-name="TY04" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive4.png" group-title="SPORTS",Sports Live-4
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive04
+#EXTINF:-1 tvg-id="TY05" tvg-name="TY06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive5.png" group-title="SPORTS",Sports Live-5
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive05
+#EXTINF:-1 tvg-id="TY06" tvg-name="TY06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive6.png" group-title="SPORTS",Sports Live-6
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive06
+#EXTINF:-1 tvg-id="TY07" tvg-name="TY07" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive7.png" group-title="SPORTS",Sports Live-7
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive07
+#EXTINF:-1 tvg-id="TY08" tvg-name="TY08" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive8.png" group-title="SPORTS",Sports Live-8
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive08
+#EXTINF:-1 tvg-id="TY09" tvg-name="TY09" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive9.png" group-title="SPORTS",Sports Live-9
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive09
+#EXTINF:-1 tvg-id="TY10" tvg-name="TY10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive10.png" group-title="SPORTS",Sports Live-10
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive10
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPNLOGO.png" group-title="ABC",ESPN1(ccf1）
 http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPNLOGO.png" group-title="ABC",ESPN2(ccf1）
