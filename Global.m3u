@@ -146,28 +146,6 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCAustraliaLogo9.png" group-title="ABC",ABC Australia News(org)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="TY01" tvg-name="TY01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive1.png" group-title="SPORTS",SportsLive-1
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
-#EXTINF:-1 tvg-id="TY02" tvg-name="TY02" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive2.png" group-title="SPORTS",SportsLive-2
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
-#EXTINF:-1 tvg-id="TY03" tvg-name="TY03" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive3.png" group-title="SPORTS",SportsLive-3
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
-#EXTINF:-1 tvg-id="TY04" tvg-name="TY04" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive4.png" group-title="SPORTS",SportsLive-4
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive04
-#EXTINF:-1 tvg-id="TY05" tvg-name="TY06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive5.png" group-title="SPORTS",SportsLive-5
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive05
-#EXTINF:-1 tvg-id="TY06" tvg-name="TY06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive6.png" group-title="SPORTS",SportsLive-6
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive06
-#EXTINF:-1 tvg-id="TY07" tvg-name="TY07" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive7.png" group-title="SPORTS",SportsLive-7
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive07
-#EXTINF:-1 tvg-id="TY08" tvg-name="TY08" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive8.png" group-title="SPORTS",SportsLive-8
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive08
-#EXTINF:-1 tvg-id="TY09" tvg-name="TY09" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive9.png" group-title="SPORTS",SportsLive-9
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive09
-#EXTINF:-1 tvg-id="TY10" tvg-name="TY10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive10.png" group-title="SPORTS",SportsLive-10
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive10
-
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="JSHD",CCTV-1 综合
 http://ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="JSHD",CCTV-2 财经
@@ -236,3 +214,24 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
 http://ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DNTV.png" group-title="JSHD",东南卫视
 http://ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
+
+#EXTINF:-1 tvg-id="TY01" tvg-name="TY01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive1.png" group-title="SPORT",SportsLive-1
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
+#EXTINF:-1 tvg-id="TY02" tvg-name="TY02" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive2.png" group-title="SPORT",SportsLive-2
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
+#EXTINF:-1 tvg-id="TY03" tvg-name="TY03" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive3.png" group-title="SPORT",SportsLive-3
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
+#EXTINF:-1 tvg-id="TY04" tvg-name="TY04" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive4.png" group-title="SPORT",SportsLive-4
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive04
+#EXTINF:-1 tvg-id="TY05" tvg-name="TY06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive5.png" group-title="SPORT",SportsLive-5
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive05
+#EXTINF:-1 tvg-id="TY06" tvg-name="TY06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive6.png" group-title="SPORT",SportsLive-6
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive06
+#EXTINF:-1 tvg-id="TY07" tvg-name="TY07" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive7.png" group-title="SPORT",SportsLive-7
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive07
+#EXTINF:-1 tvg-id="TY08" tvg-name="TY08" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive8.png" group-title="SPORT",SportsLive-8
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive08
+#EXTINF:-1 tvg-id="TY09" tvg-name="TY09" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive9.png" group-title="SPORT",SportsLive-9
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive09
+#EXTINF:-1 tvg-id="TY10" tvg-name="TY10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive10.png" group-title="SPORT",SportsLive-10
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive10
