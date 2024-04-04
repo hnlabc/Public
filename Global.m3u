@@ -79,16 +79,6 @@ https://iptv.hiper25.com/TVB/video.m3u8
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aoshi.png" group-title="LOCAL",澳视台(广电IPv6)
 https://iptv.hiper25.com/TDM/video.m3u8
-#EXTINF:-1 tvg-id="中视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ZhongShiNews.png" group-title="LOCAL",中视新闻(tw)
-http://ytb.taoiptv.com/live.m3u8?c=5
-#EXTINF:-1 tvg-id="民视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MingShiNews.png" group-title="LOCAL",民视新闻(tw)
-http://ytb.taoiptv.com/live.m3u8?c=6
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HuangYuNews.png" group-title="LOCAL",寰宇新闻(tw)
-http://ytb.taoiptv.com/live.m3u8?c=7
-#EXTINF:-1 tvg-id="东森新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DongSengNews.png" group-title="LOCAL",东森新闻(tw)
-http://ytb.taoiptv.com/live.m3u8?c=8
-#EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ZhongTianNews.png" group-title="LOCAL",中天新闻(tw)
-http://ytb.taoiptv.com/live.m3u8?c=9
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JSTV.png" group-title="LOCAL",江苏卫视
 http://[2409:8087:7000:20::17]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DFTV.png" group-title="LOCAL",东方卫视
@@ -129,23 +119,23 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCAUSTRALIA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCAustraliaLogo9.png" group-title="ABC",ABC Australia News(org)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="TY01" tvg-name="TY01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive1.png" group-title="SPORT",SportsLive-01
+#EXTINF:-1 tvg-id="TY01" tvg-name="TY01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive1.png" group-title="SPORT",SportsLive01
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
-#EXTINF:-1 tvg-id="TY02" tvg-name="TY02" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive2.png" group-title="SPORT",SportsLive-02
+#EXTINF:-1 tvg-id="TY02" tvg-name="TY02" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive2.png" group-title="SPORT",SportsLive02
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
-#EXTINF:-1 tvg-id="TY03" tvg-name="TY03" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive3.png" group-title="SPORT",SportsLive-03
+#EXTINF:-1 tvg-id="TY03" tvg-name="TY03" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive3.png" group-title="SPORT",SportsLive03
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
-#EXTINF:-1 tvg-id="TY04" tvg-name="TY04" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive4.png" group-title="SPORT",SportsLive-04
+#EXTINF:-1 tvg-id="TY04" tvg-name="TY04" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive4.png" group-title="SPORT",SportsLive04
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive04
-#EXTINF:-1 tvg-id="TY05" tvg-name="TY06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive5.png" group-title="SPORT",SportsLive-05
+#EXTINF:-1 tvg-id="TY05" tvg-name="TY06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive5.png" group-title="SPORT",SportsLive05
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive05
-#EXTINF:-1 tvg-id="TY06" tvg-name="TY06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive6.png" group-title="SPORT",SportsLive-06
+#EXTINF:-1 tvg-id="TY06" tvg-name="TY06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive6.png" group-title="SPORT",SportsLive06
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive06
-#EXTINF:-1 tvg-id="TY07" tvg-name="TY07" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive7.png" group-title="SPORT",SportsLive-07
+#EXTINF:-1 tvg-id="TY07" tvg-name="TY07" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive7.png" group-title="SPORT",SportsLive07
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive07
-#EXTINF:-1 tvg-id="TY08" tvg-name="TY08" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive8.png" group-title="SPORT",SportsLive-08
+#EXTINF:-1 tvg-id="TY08" tvg-name="TY08" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive8.png" group-title="SPORT",SportsLive08
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive08
-#EXTINF:-1 tvg-id="TY09" tvg-name="TY09" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive9.png" group-title="SPORT",SportsLive-09
+#EXTINF:-1 tvg-id="TY09" tvg-name="TY09" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive9.png" group-title="SPORT",SportsLive09
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive09
-#EXTINF:-1 tvg-id="TY10" tvg-name="TY10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive10.png" group-title="SPORT",SportsLive-10
+#EXTINF:-1 tvg-id="TY10" tvg-name="TY10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive10.png" group-title="SPORT",SportsLive10
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive10
