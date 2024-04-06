@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.eu.org/pp.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#EXTM3U x-tvg-url="https://epg.112114.eu.org/pp.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz"
 
 #EXTINF:-1 tvg-id="Epg" tvg-name="Epg" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/EPG.jpg" group-title="EPG",Epg
 https://epg.112114.eu.org/pp.xml.gz
