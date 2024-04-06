@@ -93,7 +93,7 @@ http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NEWTVSuperSport.png" group-title="LOCAL",NewTV 超级体育
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 
-#EXTINF:-1 tvg-id="I253.110964.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPNLOGO.png" group-title="ABC",ESPN1(ccf1）
+#EXTINF:-1 tvg-id="I206.32645.zap2it.com" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPNLOGO.png" group-title="ABC",ESPN1(ccf1）
 http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN
 #EXTINF:-1 tvg-id="I256.37747.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPNLOGO.png" group-title="ABC",ESPN2(ccf1）
 http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN2
