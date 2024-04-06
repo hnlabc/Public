@@ -93,21 +93,21 @@ http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NEWTVSuperSport.png" group-title="LOCAL",NewTV 超级体育
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPNLOGO.png" group-title="ABC",ESPN1(ccf1）
+#EXTINF:-1 tvg-id="I253.110964.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPNLOGO.png" group-title="ABC",ESPN1(ccf1）
 http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPNLOGO.png" group-title="ABC",ESPN2(ccf1）
+#EXTINF:-1 tvg-id="I256.37747.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPNLOGO.png" group-title="ABC",ESPN2(ccf1）
 http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN2
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPNNEWS1.png" group-title="ABC",ESPN News(ccf1)
+#EXTINF:-1 tvg-id="I207.16485.zap2it.com" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPNNEWS1.png" group-title="ABC",ESPN News(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN-News
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FOXSportsLogo.png" group-title="ABC",Fox Sports1(ccf1）
+#EXTINF:-1 tvg-id="I219.82541.zap2it.com" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FOXSportsLogo.png" group-title="ABC",Fox Sports1(ccf1）
 http://1videobrm4.vampirehk.eu.org:31486/drm/FoxSports1
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FOXSportsLogo.png" group-title="ABC",Fox Sports2(ccf1）
+#EXTINF:-1 tvg-id="I618.33178.zap2it.com" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FOXSportsLogo.png" group-title="ABC",Fox Sports2(ccf1）
 http://1videobrm4.vampirehk.eu.org:31486/drm/FoxSports2
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsFootball.png" group-title="ABC",SkySports Football(ccf2）
+#EXTINF:-1 tvg-id="I1106.104327.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsFootball.png" group-title="ABC",SkySports Football(ccf2）
 http://asia.vampirehk.eu.org:13270/stream/channelid/941729477?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsMix.png" group-title="ABC",SkySports Mix(ccf2)
+#EXTINF:-1 tvg-id="I1113.100265.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsMix.png" group-title="ABC",SkySports Mix(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/716299579?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsNews1.png" group-title="ABC",SkySports News(ccf2)
+#EXTINF:-1 tvg-id="I1116.68347.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsNews1.png" group-title="ABC",SkySports News(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/792464832?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="BBCEARTH" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCEarth.png" group-title="ABC",BBC Earth(ccf2）
 http://asia.vampirehk.eu.org:13270/stream/channelid/1022549107?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
