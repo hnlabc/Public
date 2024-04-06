@@ -145,12 +145,8 @@ http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Sl
 
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG.png" group-title="MGSPORT",MGLive4K-01
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG.png" group-title="MGSPORT",MGLive4K-02
-http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG.png" group-title="MGSPORT",MGLive-01
 http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG.png" group-title="MGSPORT",MGLive-02
-http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG.png" group-title="MGSPORT",MGLive-03
 http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG.png" group-title="MGSPORT",MGLive-04
@@ -185,8 +181,6 @@ http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
 http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG.png" group-title="MGSPORT",MGLive-19
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG.png" group-title="MGSPORT",MGLive-20
-http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG.png" group-title="MGSPORT",MGLive-21
 http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG.png" group-title="MGSPORT",MGLive-22
