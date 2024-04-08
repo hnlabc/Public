@@ -237,3 +237,8 @@ http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Sl
 #EXTINF:-1 tvg-id="TY10" tvg-name="TY10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive10.png" group-title="SPORT2",SportLive-10
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive10
 
+#EXTINF:-1 group-title="TEST",江苏体育休闲
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8?icpid=3&RTS=1669268931&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+
+#EXTINF:-1 #EXTINF:-1 group-title="TEST",精品体育
+http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8?icpid=3&RTS=1669705693&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
