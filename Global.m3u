@@ -210,7 +210,6 @@ http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",MGLive-42
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",MGLive-43
 http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",MGLive-44
