@@ -343,3 +343,23 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000031669/index.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="SPORT3",咪咕直播-53
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
 
+#EXTINF:-1 tvg-logo="" group-title="TEST",CGTN1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",CGTN2
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",CGTN3
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",CGTN4
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",CGTN5
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225747/2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",CGTN6(ott)
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",CGTN 纪录（ott）
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
