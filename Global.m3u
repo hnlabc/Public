@@ -345,3 +345,9 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u
 
 #EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="TEST",CGTN 纪录
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="TESTʰ",CGTN 英语
+https://itv.lat/tv/live.php?&line=1&id=cgtn
+
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/五星体育.png" group-title="TEST",五星体育
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
