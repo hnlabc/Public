@@ -78,25 +78,25 @@ https://22253.live.streamtheworld.com/CAPITAL958FMAAC_SC
 
 #EXTINF:-1 tvg-id="I200.58646.schedulesdirect.org" tvg-name="CNN USA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="NEWS",CNN USA(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
-#EXTINF:-1 tvg-id="I284.17664.schedulesdirect.org" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International(ccf1)
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
 #EXTINF:-1 tvg-id="I284.17664.schedulesdirect.org" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/899748806?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS3.png" group-title="NEWS",BBC News(ccf1)
+#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS3.png" group-title="NEWS",BBC News(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
-#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS3.png" group-title="NEWS",BBC News(ccf2)
+#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS3.png" group-title="NEWS",BBC News(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/1963530321?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="61ee11fea9860acddb76b6d40a3e5cfe" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="NEWS",CNA(amz)
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="NEWS",CNA(amz)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="61ee11fea9860acddb76b6d40a3e5cfe" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="NEWS",CNA(ccf2)
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="NEWS",CNA(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/2115104353?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="5d70c8a55874e086334d0295877be1b1" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCAustraliaLogo9.png" group-title="NEWS",ABC Australia(ccf2)
+#EXTINF:-1 tvg-id="ABCAustralia" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCAustraliaLogo9.png" group-title="NEWS",ABC Australia(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/633892957?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="DW" tvg-name="ABC Australia News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DWNEWS1.png" group-title="NEWS",DW English(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/1920404487?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="FRANCE24" tvg-name="France24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="NEWS",France24(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/538075932?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="3a8e9099dd3f4a2188bcf3ff4f0e6d73" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeera3.png" group-title="NEWS",Al Jazeera(ccf2)
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeera3.png" group-title="NEWS",Al Jazeera(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/428903994?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="I206.32645.zap2it.com" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPNLOGO.png" group-title="ABC",ESPN1(ccf1）
@@ -109,19 +109,19 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN-News
 http://1videobrm4.vampirehk.eu.org:31486/drm/FoxSports1
 #EXTINF:-1 tvg-id="I618.33178.zap2it.com" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FOXSportsLogo.png" group-title="ABC",Fox Sports2(ccf1）
 http://1videobrm4.vampirehk.eu.org:31486/drm/FoxSports2
-#EXTINF:-1 tvg-id="I1106.104327.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsFootball.png" group-title="ABC",SkySports Football(ccf2）
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsFootball.png" group-title="ABC",SkySports Football(ccf2）
 http://asia.vampirehk.eu.org:13270/stream/channelid/1421836984?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="3d8771155d986fdb8a2e2e00d39c49d9" group-title="ABC",Sky Sports Premier League(ccf2)
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportPremierLeague.png" group-title="ABC",Sky Sports Premier League(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/359761725?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="e156620e433cb3c034bc36d2ef835fe0" group-title="ABC",Sky Sports Racing(ccf2)
+#EXTINF:-1 tvg-id="SkySportsRacing.uk"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsrRcing.png" group-title="ABC",Sky Sports Racing(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/241325793?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="I1113.100265.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsMix.png" group-title="ABC",SkySports Mix(ccf2)
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsMix.png" group-title="ABC",SkySports Mix(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/1933868415?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="I1116.68347.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsNews1.png" group-title="ABC",SkySports News(ccf2)
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsNews1.png" group-title="ABC",SkySports News(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/91756817?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="5aa7ea323a5d61e049b3dd440d2912ac" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCEarth.png" group-title="ABC",BBC Earth(ccf2）
+#EXTINF:-1 tvg-id="BBCEarth" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCEarth.png" group-title="ABC",BBC Earth(ccf2）
 http://asia.vampirehk.eu.org:13270/stream/channelid/854239066?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="a7afce66433af86385d86b1a62ee7a62" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCLifeStyle1.png" group-title="ABC",BBC LifeStyle(ccf2)
+#EXTINF:-1 tvg-id="BBCLifestyle" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCLifeStyle1.png" group-title="ABC",BBC LifeStyle(ccf2)
 http://asia.vampirehk.eu.org:13270/stream/channelid/1724821415?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="I200.58646.schedulesdirect.org" tvg-name="CNN USA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="ABC",CNN USA(org)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -129,7 +129,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:-1 tvg-id="I284.17664.schedulesdirect.org" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="ABC",CNN International(org)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5d70c8a55874e086334d0295877be1b1"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCAustraliaLogo9.png" group-title="ABC",ABC Australia(org)
+#EXTINF:-1 tvg-id="ABCAustralia"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCAustraliaLogo9.png" group-title="ABC",ABC Australia(org)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",MGLive4K-01
