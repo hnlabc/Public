@@ -59,7 +59,7 @@ https://iptv.hiper25.com/TVB/video.m3u8
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aoshi.png" group-title="LOCAL",澳视台(gd)
 https://iptv.hiper25.com/TDM/video.m3u8
-#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NEWTVJPSport.png" group-title="LOCAL",NewTV 精品体育(js)
+#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NEWTVJPSport.png" group-title="LOCAL",精品体育(js)
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English(radio)
