@@ -124,6 +124,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/32212275
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 #EXTINF:-1,tvg-id="4KUHD" tvg-name="4KUHD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/4KUHD.png" group-title="卫视js",4K UHD
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1,tvg-id="江苏4K修复" tvg-name="江苏4K修复" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JS4KXiuF.png" group-title="卫视js",江苏4K修复
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1,tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JS8K.png" group-title="卫视js",江苏8K测试
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="卫视js",咪咕视频1
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="卫视js",咪咕视频2
