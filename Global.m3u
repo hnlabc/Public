@@ -137,157 +137,169 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCAustralia"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCAustraliaLogo9.png" group-title="ABC",ABC Australia(org)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live4K-01
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-01(js)
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-02(js)
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-03(js)
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-04(js)
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
+
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live4K-A01
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live4K-02
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225651/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-01
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A01
 http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-03
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A02
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A03
 http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-04
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A04
 http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-05
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A05
 http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-06
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A06
 http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-07
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A07
 http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG2.png" group-title="SPORT1",Live-08
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG2.png" group-title="SPORT1",Live-A08
 http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-09
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A09
 http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-10
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A10
 http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-11
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A11
 http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG2.png" group-title="SPORT1",Live-12
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main//MG2.png" group-title="SPORT1",Live-A12
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-13
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A13
 http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-14
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A14
 http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-15
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A15
 http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-16
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A16
 http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-17
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A17
 http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-18
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A18
 http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-19
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A19
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-21
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A21
 http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-22
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A22
 http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-23
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A23
 http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-24
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A24
 http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-25
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A25
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-26
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A26
 http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-27
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A27
 http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-28
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A28
 http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-29
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A29
 http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-30
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A30
 http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-31
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A31
 http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-32
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A32
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-33
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A33
 http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-34
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A34
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-35
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A35
 http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name=" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-36
+#EXTINF:-1 tvg-id="migu" tvg-name=" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A36
 http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-37
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A37
 http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-38
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A38
 http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-39
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A39
 http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-40
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A40
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-41
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A41
 http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-42
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A42
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-43
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A43
 http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-44
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A44
 http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-45
+
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B01
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-46
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B02
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-47
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B03
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-48
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B04
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-49
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B05
 http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-50
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B06
 http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-51
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B07
 http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-52
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B08
 http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-53
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B09
 http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-54
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B10
 http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-55
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B11
 http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-56
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B12
 http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-57
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B13
 http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-58
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B14
 http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-59
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B15
 http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-60
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B16
 http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-61
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B17
 http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-62
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B18
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-63
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B19
 http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-64
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B20
 http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-65
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B21
 http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-66
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B22
 http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-67
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B23
 http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-69
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B24
 http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-70
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B25
 http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-72
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B26
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-74
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B27
 http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-75
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B28
 http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-76
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B29
 http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-77
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B30
 http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-78
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B31
 http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-79
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B32
+http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-B33
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="TY01" tvg-name="TY01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive1.png" group-title="SPORT2",SportLive-01
