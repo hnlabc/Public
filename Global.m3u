@@ -3,9 +3,6 @@
 #EXTM3U x-tvg-url="http://asia.vampirehk.eu.org/mytv.xml"
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,http://asia.vampirehk.eu.org/mytv.xml"
 
-#EXTINF:-1 tvg-id="Epg" tvg-name="Epg" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/EPG.jpg" group-title="EPG",Epg
-https://epg.112114.xyz/pp.xml.gz
-
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNNews.png" group-title="CCTV",CGTN 英语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV%2BZ9aFwSHAnd8F70VqU6TYif81mMC79YJ%2BEEiYI8DYDTaxhzE
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNDoc.png" group-title="CCTV",CGTN 纪录
@@ -352,4 +349,3 @@ http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Sl
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive09
 #EXTINF:-1 tvg-id="TY10" tvg-name="TY10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive10.png" group-title="SPORT2",Live-10
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive10
-
