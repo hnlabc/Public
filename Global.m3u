@@ -117,8 +117,7 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/FoxSports2
 
 #EXTINF:-1 tvg-id="SkyNews"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkyNews.png" group-title="ABC",Sky News HD(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/1783363673?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsAction.png" group-title="ABC",Sky Sports Action(ccf2)
-http://ccfasiatv.075661.xyz:13270/stream/channelid/2120707274?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsArena.png" group-title="ABC",Sky Sports Arena(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/87315686?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsCricket.png" group-title="ABC",Sky Sports Cricket(ccf2)
@@ -141,6 +140,8 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/359761725?auth=PO76qU40fPew2V
 http://ccfasiatv.075661.xyz:13270/stream/channelid/241325793?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsTennis.png" group-title="ABC",Sky Sports Tennis(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/70268513?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsAction.png" group-title="ABC",Sky Sports Action(ccf2)
+http://ccfasiatv.075661.xyz:13270/stream/channelid/2120707274?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/,AstroSupersportUHD.png" group-title="ABC",AstroSuperSportUHD(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/876645685?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
