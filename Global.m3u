@@ -134,7 +134,7 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/1394364491?auth=PO76qU40fPew2
 http://ccfasiatv.075661.xyz:13270/stream/channelid/1933868415?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsNews.png" group-title="ABC",Sky Sports News(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/91756817?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk"   tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsPremierLeague.png"group-title="ABC",Sky Sports Premier League(ccf2)
+#EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk"   tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsPremierLeague.png" group-title="ABC",Sky Sports Premier League(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/359761725?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsRacing.png" group-title="ABC",Sky Sports Racing(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/241325793?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
@@ -142,9 +142,6 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/241325793?auth=PO76qU40fPew2V
 http://ccfasiatv.075661.xyz:13270/stream/channelid/70268513?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkySportsAction.png" group-title="ABC",Sky Sports Action(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/2120707274?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-
-#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/,AstroSupersportUHD.png" group-title="ABC",AstroSuperSportUHD(ccf2)
-http://ccfasiatv.075661.xyz:13270/stream/channelid/876645685?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HBOAsia.png" group-title="ABC",HBO Asia(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/987217234?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
