@@ -1,7 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTM3U x-tvg-url="http://asia.vampirehk.eu.org/mytv.xml"
-#EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
-
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,http://asia.vampirehk.eu.org/mytv.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNNews.png" group-title="CCTV",CGTN 英语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV%2BZ9aFwSHAnd8F70VqU6TYif81mMC79YJ%2BEEiYI8DYDTaxhzE
