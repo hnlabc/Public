@@ -274,7 +274,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000049/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IAS
 #EXTINF:-1 tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="iHOThn",iHOT 爱赛车
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IAS
-#EXTINF:-1 tvg-id="爱旅游" tvg-name="爱旅游" tvg-logo="https://live.fanmingming.com/tv/IHOT爱旅游.png" group-title="iHOThn",iHOT 爱旅游
+#EXTINF:-1 tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://live.fanmingming.com/tv/IHOT爱旅行.png" group-title="iHOThn",iHOT 爱旅行
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IAS
 #EXTINF:-1 tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png" group-title="iHOThn",iHOT 爱奇谈
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IAS
