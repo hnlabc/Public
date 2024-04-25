@@ -134,6 +134,23 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/538075932?auth=PO76qU40fPew2V
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeera3.png" group-title="NEWS",Al Jazeera(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/428903994?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Jade.png" group-title="PROXY", 翡翠台(p)
+http://58.176.4.57:8800/play/a00g
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="PROXY", 明珠台(p)
+http://58.176.4.57:8800/play/a00b
+#EXTINF:-1 tvg-id="无线新闻台"  tvg-name="无线新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB无线新闻.png" group-title="PROXY", 无线新闻台(p)
+http://58.176.4.57:8800/play/a00d
+#EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVBPLUS.png" group-title="PROXY", TVB Plus(p)
+http://58.176.4.57:8800/play/a00c
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ViuTV1.png" group-title="PROXY", ViuTV(p)
+http://58.176.4.57:8800/play/a00i
+#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOY国际财经台.png" group-title="PROXY", HOY76 国际财经台(p)
+http://58.176.4.57:8800/play/a002
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOYTV.png" group-title="PROXY", HOY77 TV
+http://58.176.4.57:8800/play/a003
+#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOY资讯.png" group-title="PROXY", HOY78 资讯台
+http://58.176.4.57:8800/play/a004
+
 #EXTINF:-1 tvg-id="I200.58646.schedulesdirect.org" tvg-name="CNN USA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="ABC",CNN USA(org)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="ABC",CNN International(org)
