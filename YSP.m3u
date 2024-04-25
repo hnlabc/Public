@@ -43,6 +43,8 @@ http://120.79.4.185/md0425.php?id=cctv17
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视ysp",CGTN 英文
 http://120.79.4.185/md0425.php?id=cgtn
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视ysp",CGTN纪录
+http://120.79.4.185/md0425.php?id=cgtnjl
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视ysp",CCTV-4K
 http://120.79.4.185/md0425.php?id=cctv4k
