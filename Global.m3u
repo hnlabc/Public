@@ -138,11 +138,11 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/428903994?auth=PO76qU40fPew2V
 http://58.176.4.57:8800/play/a00g
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="PROXY", 明珠台(p)
 http://58.176.4.57:8800/play/a00b
-#EXTINF:-1 tvg-id="无线新闻台"  tvg-name="无线新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB无线新闻.png" group-title="PROXY", 无线新闻台(p)
+#EXTINF:-1 tvg-id="无线新闻"  tvg-name="无线新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB无线新闻.png" group-title="PROXY", 无线新闻台(p)
 http://58.176.4.57:8800/play/a00d
-#EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVBPLUS.png" group-title="PROXY", TVB Plus(p)
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVBPLUS.png" group-title="PROXY", TVB Plus(p)
 http://58.176.4.57:8800/play/a00c
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ViuTV1.png" group-title="PROXY", ViuTV(p)
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ViuTV1.png" group-title="PROXY", ViuTV(p)
 http://58.176.4.57:8800/play/a00i
 #EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOY国际财经台.png" group-title="PROXY", HOY76 国际财经台(p)
 http://58.176.4.57:8800/play/a002
