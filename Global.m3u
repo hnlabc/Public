@@ -94,15 +94,15 @@ http://58.176.4.57:8800/play/a004
 
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/寰宇新闻.png" group-title="PROXY",寰宇新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-id="东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/东森财经新闻.png" group-title="PROXY",东森财经新闻(yt)
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/东森财经新闻.png" group-title="PROXY",东森财经新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/中视新闻台.png" group-title="PROXY",中视新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/民视新闻.png" group-title="PROXY",民视新闻(yt)
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/民视新闻.png" group-title="PROXY",民视新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/台视新闻.png" group-title="PROXY",台视新闻(yt)
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/台视新闻.png" group-title="PROXY",台视新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/中天新闻台.png" group-title="PROXY",中天新闻(yt)
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/中天新闻台.png" group-title="PROXY",中天新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English(radio)
