@@ -146,9 +146,9 @@ http://58.176.4.57:8800/play/a00c
 http://58.176.4.57:8800/play/a00i
 #EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOY国际财经台.png" group-title="PROXY", HOY76 国际财经台(p)
 http://58.176.4.57:8800/play/a002
-#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOYTV.png" group-title="PROXY", HOY77 TV
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOYTV.png" group-title="PROXY", HOY77 TV(p)
 http://58.176.4.57:8800/play/a003
-#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOY资讯.png" group-title="PROXY", HOY78 资讯台
+#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOY资讯.png" group-title="PROXY", HOY78 资讯台(p)
 http://58.176.4.57:8800/play/a004
 
 #EXTINF:-1 tvg-id="I200.58646.schedulesdirect.org" tvg-name="CNN USA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="ABC",CNN USA(org)
