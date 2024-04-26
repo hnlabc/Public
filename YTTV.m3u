@@ -1,68 +1,68 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,http://asia.vampirehk.eu.org/mytv.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV01-三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV02
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV02-寰宇新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV03-东森财经新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV04
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV04-未知1台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV05
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV05-未知2台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV06
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV06-运通
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV07
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV07-信大
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV08
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV08-DW English
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV09
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV09-中视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV10-未知
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV11-未知
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV12-华视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV13-未知
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV14-半岛新闻(阿拉伯语)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV15-ANN News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV16-K-POP
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV17-民视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV18-东森购物
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV19-东森购物
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV20-CCTV4 中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV21-HABER TURK
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV22-凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV23-新唐人亚太台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV24-ABC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV25-台视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV26
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV26-未知
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV27-Astro AWANI
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV28-中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV29-未知
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV30-大爱
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV31-TVBS News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV32-三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV33
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
