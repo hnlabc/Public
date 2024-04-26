@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,http://asia.vampirehk.eu.org/mytv.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV01-三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
