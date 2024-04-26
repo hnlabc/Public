@@ -18,9 +18,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV09-中视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV10-未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV10-未知(阿拉伯语)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV11-未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV11-Asianet News(India)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV12-华视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
@@ -50,13 +50,13 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV25-台视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV26-未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV26-台湾综艺
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV27-Astro AWANI
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV28-中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV29-未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV29-Tokyo Shibuya
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV30-大爱
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
@@ -64,43 +64,43 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV32-三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV33-CBN News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV34
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV34-中视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV35
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV35-未知
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV36-India Today
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV37
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV37-未知
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV38-France24 English
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV39
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV39-NBC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV40-News18(India)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV41-寰宇新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV42
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV42-中视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV43
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV43-凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV44
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV44-Media ONE(India)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV45
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV45-未知
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV46
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV46-News India
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV47
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV47-大爱2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV48
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV48-ANN News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV49
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV49-中天新闻2(循环直播)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV50
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV50-24(India)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV51
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV51-Arirang Korea(English)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV52
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
