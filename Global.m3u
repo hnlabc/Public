@@ -75,6 +75,39 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000068/index.m3u8?
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/WeiLaiSport.png" group-title="LOCAL",纬来体育
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="PROXY",CNA(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 tvg-id="ABCNEWS" tvg-name="ABCNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="PROXY",ABC NEWS(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 tvg-id="DW" tvg-name="DW English" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DWNEWS1.png" group-title="PROXY",DW English(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="PROXY",France24(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeera3.png" group-title="PROXY",Al Jazeera(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+#EXTINF:-1 tvg-id="NBCNews" tvg-name="NBCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NBCNEWS.png" group-title="PROXY",NBC News(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 tvg-id="CBNNews" tvg-name="CBNNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CBNNEWS.png" group-title="PROXY",CBN News(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1 tvg-id="Taiwan+" tvg-name="Taiwan+" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TAIWANPLUS.png" group-title="PROXY",Taiwan+(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Phoenix_TV_Information_Channel.png" group-title="PROXY",凤凰资讯(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/寰宇新闻.png" group-title="PROXY",寰宇新闻(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/东森财经新闻.png" group-title="PROXY",东森财经新闻(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/中视新闻台.png" group-title="PROXY",中视新闻(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/民视新闻.png" group-title="PROXY",民视新闻(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/台视新闻.png" group-title="PROXY",台视新闻(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/中天新闻台.png" group-title="PROXY",中天新闻(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Tvbsnews.png" group-title="PROXY",TVBS 新闻(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Jade.png" group-title="PROXY", 翡翠台(p)
 http://58.176.4.57:8800/play/a00g
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="PROXY", 明珠台(p)
@@ -91,34 +124,6 @@ http://58.176.4.57:8800/play/a002
 http://58.176.4.57:8800/play/a003
 #EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOY资讯.png" group-title="PROXY", HOY78 资讯台(p)
 http://58.176.4.57:8800/play/a004
-
-
-
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/寰宇新闻.png" group-title="PROXY",寰宇新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/东森财经新闻.png" group-title="PROXY",东森财经新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/中视新闻台.png" group-title="PROXY",中视新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/民视新闻.png" group-title="PROXY",民视新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/台视新闻.png" group-title="PROXY",台视新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/中天新闻台.png" group-title="PROXY",中天新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Tvbsnews.png" group-title="PROXY",TVBS 新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="PROXY",CNA(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-#EXTINF:-1 tvg-id="ABCNEWS" tvg-name="ABCNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="PROXY",ABC NEWS(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-
-#EXTINF:-1 tvg-id="DW" tvg-name="DW English" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DWNEWS1.png" group-title="PROXY",DW English(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="PROXY",France24(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeera3.png" group-title="PROXY",Al Jazeera(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English(radio)
 https://sk.cri.cn/am846.m3u8
