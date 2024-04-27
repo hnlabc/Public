@@ -113,7 +113,7 @@ http://58.176.4.57:8800/play/a00g
 http://58.176.4.57:8800/play/a00b
 #EXTINF:-1 tvg-id="无线新闻"  tvg-name="无线新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB无线新闻.png" group-title="PROXY", 无线新闻台(p)
 http://58.176.4.57:8800/play/a00d
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVBPLUS.png" group-title="PROXY", TVB Plus(p)
+#EXTINF:-1 tvg-id="J2" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVBPLUS.png" group-title="PROXY", TVB Plus(p)
 http://58.176.4.57:8800/play/a00c
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ViuTV1.png" group-title="PROXY", ViuTV(p)
 http://58.176.4.57:8800/play/a00i
@@ -307,7 +307,7 @@ http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A35
 http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-#EXTINF:-1 tvg-id="migu" tvg-name=" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A36
+#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A36
 http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-A37
 http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
