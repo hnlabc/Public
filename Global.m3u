@@ -192,13 +192,13 @@ rtmp://f13h.mine.nu/sat/tv091
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/东森超视.png" group-title="RTMP",东森超视
 rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="" group-title="RTMP",非凡新闻
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/非凡新闻.png" group-title="RTMP",非凡新闻
 rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 tvg-id="MOMOTV" tvg-name="MOMOTV" tvg-logo="" group-title="RTMP",MOMOTV
+#EXTINF:-1 tvg-id="MOMOTV" tvg-name="MOMOTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MOMOTV.png" group-title="RTMP",MOMOTV
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="" group-title="RTMP",DAZN1
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DAZN1.png" group-title="RTMP",DAZN1
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="" group-title="RTMP",DAZN2
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DAZN2.png" group-title="RTMP",DAZN2
 rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1 tvg-id="I200.58646.schedulesdirect.org" tvg-name="CNN USA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="ABC",CNN USA(org)
