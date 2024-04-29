@@ -156,6 +156,12 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://fox-foxnewsnow-samsungus-tsv2-hm6vl.amagi.tv/playlist/samsungus-fox-newsnow-samsung/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="" group-title="Samsung",ABC News
 https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8
+#EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBCEarth" tvg-logo="" group-title="Samsung",BBC Earth
+https://d206rrc0yoxllg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/BBC_Earth_US.m3u8
+#EXTINF:-1 tvg-id="BBCHomeGarden" tvg-name="BBCHomeGarden" tvg-logo="" group-title="Samsung",BBC Home&Garden
+https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCFood" tvg-name="BBCFood" tvg-logo="" group-title="Samsung",BBC Food
+https://d386m2lmbakvx4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-maq49n9yo9ui9-prod/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English(radio)
 https://sk.cri.cn/am846.m3u8
