@@ -115,8 +115,11 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
 http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
 #EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="NEWS",Fox News(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/FoxNews
+
 #EXTINF:-1 tvg-id="SkyNews"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkyNews.png" group-title="NEWS",Sky News(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/1783363673?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="ABCAustralia" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCAustraliaLogo9.png" group-title="NEWS",ABC Australia(ccf2)
+http://ccfasiatv.075661.xyz:13270/stream/channelid/633892957?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
 #EXTINF:-1 tvg-id="DW" tvg-name="DW English" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DWNEWS1.png" group-title="NEWS",DW English(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
@@ -125,21 +128,19 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeera3.png" group-title="NEWS",Al Jazeera(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="NEWS",CNA(amz)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="ABCAustralia" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCAustraliaLogo9.png" group-title="NEWS",ABC Australia(ccf2)
-http://ccfasiatv.075661.xyz:13270/stream/channelid/633892957?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-
-#EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/nhk-world.png" group-title="NEWS",NHK World(hd)
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="NEWS",Pearl(p)
-http://58.176.4.57:8800/play/a00b
 #EXTINF:-1 tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ARIRANGTV.png" group-title="NEWS",Arirang(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
 #EXTINF:-1 tvg-id="Taiwan+" tvg-name="Taiwan+" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TAIWANPLUS.png" group-title="NEWS",Taiwan+(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-id="IndiaToday" tvg-name="IndiaToday" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/IndiaToday.png" group-title="NEWS",India Today(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="NEWS",Pearl(p)
+http://58.176.4.57:8800/play/a00b
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="NEWS",CNA(amz)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/nhk-world.png" group-title="NEWS",NHK World(hd)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English(radio)
 https://sk.cri.cn/am846.m3u8
