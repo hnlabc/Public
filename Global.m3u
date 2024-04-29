@@ -117,9 +117,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="PROXY",France24(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeera3.png" group-title="PROXY",AlJazeera(yt)
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeera3.png" group-title="PROXY",Al Jazeera(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-#EXTINF:-1 tvg-id="IndiaToday" tvg-name="IndiaToday" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/IndiaToday.png" group-title="PROXY",IndiaToday(yt)
+#EXTINF:-1 tvg-id="IndiaToday" tvg-name="IndiaToday" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/IndiaToday.png" group-title="PROXY",India Today(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Phoenix_TV_Information_Channel.png" group-title="PROXY",凤凰资讯(yt)
@@ -139,19 +139,19 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Tvbsnews.png" group-title="PROXY",TVBS 新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Jade.png" group-title="PROXY", 翡翠台(p)
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Jade.png" group-title="PROXY",翡翠台(p)
 http://58.176.4.57:8800/play/a00g
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="PROXY", 明珠台(p)
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="PROXY",明珠台(p)
 http://58.176.4.57:8800/play/a00b
-#EXTINF:-1 tvg-id="无线新闻"  tvg-name="无线新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB无线新闻.png" group-title="PROXY", 无线新闻台(p)
+#EXTINF:-1 tvg-id="无线新闻"  tvg-name="无线新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB无线新闻.png" group-title="PROXY",无线新闻台(p)
 http://58.176.4.57:8800/play/a00d
-#EXTINF:-1 tvg-id="J2" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVBPLUS.png" group-title="PROXY", TVB Plus(p)
+#EXTINF:-1 tvg-id="J2" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVBPLUS.png" group-title="PROXY",TVB Plus(p)
 http://58.176.4.57:8800/play/a00c
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ViuTV1.png" group-title="PROXY", ViuTV(p)
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ViuTV1.png" group-title="PROXY",ViuTV(p)
 http://58.176.4.57:8800/play/a00i
-#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOY国际财经台.png" group-title="PROXY", HOY76 国际财经台(p)
+#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOY国际财经台.png" group-title="PROXY",HOY76 国际财经台(p)
 http://58.176.4.57:8800/play/a002
-#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOYTV.png" group-title="PROXY", HOY77 TV(p)
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOYTV.png" group-title="PROXY",HOY77 TV(p)
 http://58.176.4.57:8800/play/a003
 #EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOY资讯.png" group-title="PROXY", HOY78 资讯台(p)
 http://58.176.4.57:8800/play/a004
@@ -205,7 +205,7 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/1906307996?auth=PO76qU40fPew2
 http://ccfasiatv.075661.xyz:13270/stream/channelid/538075932?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeera3.png" group-title="NEWS",Al Jazeera(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/428903994?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/nhk-world.png" group-title="NEWS",NHK World Japan(hd)
+#EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/nhk-world.png" group-title="NEWS",NHK World(hd)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/WeiLaiSport.png" group-title="RTMP",纬来体育
