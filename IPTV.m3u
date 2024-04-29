@@ -56,7 +56,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/6/224/32212286
 http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/6/224/3221228680/index.m3u8
 #EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视js",CCTV 文化精品
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/6/224/3221228677/index.m3u8
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTVBQKJ.png" group-title="央视js",CCTV 兵器科技
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTV兵器科技.png" group-title="央视js",CCTV 兵器科技
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/6/224/3221228686/index.m3u8
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视js",CCTV 风云剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
