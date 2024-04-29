@@ -240,17 +240,6 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCAustralia"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCAustraliaLogo9.png" group-title="ABC",ABC Australia(org)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="I206.32645.zap2it.com" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPN.png" group-title="ABC",ESPN1(ccf1）
-http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN
-#EXTINF:-1 tvg-id="I209.12444.zap2it.com" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPN.png" group-title="ABC",ESPN2(ccf1）
-http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN2
-#EXTINF:-1 tvg-id="I207.16485.zap2it.com" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPN.png" group-title="ABC",ESPN News(ccf1)
-http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN-News
-#EXTINF:-1 tvg-id="I219.82541.zap2it.com" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FOXSportsLogo.png" group-title="ABC",FoxSports1(ccf1）
-http://1videobrm4.vampirehk.eu.org:31486/drm/FoxSports1
-#EXTINF:-1 tvg-id="I618.33178.zap2it.com" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FOXSportsLogo.png" group-title="ABC",FoxSports2(ccf1）
-http://1videobrm4.vampirehk.eu.org:31486/drm/FoxSports2
-
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-01(js)
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-02(js)
