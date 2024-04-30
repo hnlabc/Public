@@ -138,6 +138,24 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/nhk-world.png" group-title="NEWS",NHK World(hd)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="Samsung",CNN International
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS3.png" group-title="Samsung",BBC News
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBCEarth" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCEarth.png" group-title="Samsung",BBC Earth
+https://d206rrc0yoxllg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/BBC_Earth_US.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 tvg-id="SkyNews"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkyNews.png" group-title="Samsung",Sky News
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8?ads.caid=nbcuskynews&ads.csid=samsungtvplus_us_nbcuskynews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_gdpr_consent=&ads._fw_h_x_country=US&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3455&ads.xumo_contentName=skynews&ads.xumo_providerId=3455&ads.xumo_providerName=skynews&ads.xumo_channelId=88886030&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=skynews&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 tvg-id="SkyMix" tvg-name="SkyMix" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SKYMIX.png" group-title="Samsung",Sky Mix
+https://d2gycgc9ta55s9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfze07aeomx8b/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="Samsung",ABC News
+https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/LOVE NATURE.png" group-title="Samsung",Love Nature4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 tvg-id="TED" tvg-name="TED" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TED.png" group-title="Samsung",TED
+https://d36n7d67yr3rea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tg68yl0b8e9qy-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English(radio)
 https://sk.cri.cn/am846.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNRadio.png" group-title="RADIO",CNN USA(radio)
