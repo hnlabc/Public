@@ -203,11 +203,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 #EXTINF:-1 tvg-id="IndiaToday" tvg-name="IndiaToday" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/IndiaToday.png" group-title="PROXY",India Today(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="PROXY",ABC News(hd)
+#EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="PROXY",ABC News(hd)(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 tvg-id="NBCNews" tvg-name="NBCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NBCNEWS.png" group-title="PROXY",NBC News(hd)
+#EXTINF:-1 tvg-id="NBCNews" tvg-name="NBCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NBCNEWS.png" group-title="PROXY",NBC News(hd)(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="PROXY",FOX Now(hd)
+#EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="PROXY",FOX Now(hd)(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Phoenix_TV_Information_Channel.png" group-title="PROXY",凤凰资讯(yt)
