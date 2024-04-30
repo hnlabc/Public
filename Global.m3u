@@ -113,8 +113,7 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
 #EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS3.png" group-title="NEWS",BBC News(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
-#EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="NEWS",Fox News(ccf1)
-http://1videobrm4.vampirehk.eu.org:31486/drm/FoxNews
+
 #EXTINF:-1 tvg-id="SkyNews"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkyNews.png" group-title="NEWS",Sky News(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/1783363673?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="ABCAustralia" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCAustraliaLogo9.png" group-title="NEWS",ABC Australia(ccf2)
@@ -129,6 +128,13 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-id="IndiaToday" tvg-name="IndiaToday" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/IndiaToday.png" group-title="NEWS",India Today(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+#EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="NEWS",ABC News(hd)(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 tvg-id="NBCNews" tvg-name="NBCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NBCNEWS.png" group-title="NEWS",NBC News(hd)(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="NEWS",FOX Now(hd)(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
+
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="NEWS",Pearl(p)
 http://58.176.4.57:8800/play/a00b
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="NEWS",CNA(amz)
@@ -197,6 +203,12 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 #EXTINF:-1 tvg-id="IndiaToday" tvg-name="IndiaToday" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/IndiaToday.png" group-title="PROXY",India Today(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+#EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="PROXY",ABC News(hd)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 tvg-id="NBCNews" tvg-name="NBCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NBCNEWS.png" group-title="PROXY",NBC News(hd)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="PROXY",FOX Now(hd)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Phoenix_TV_Information_Channel.png" group-title="PROXY",凤凰资讯(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
@@ -275,6 +287,8 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/1906307996?auth=PO76qU40fPew2
 http://ccfasiatv.075661.xyz:13270/stream/channelid/538075932?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeera3.png" group-title="ABC",Al Jazeera(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/428903994?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="ABC",Fox News(hd)(ccf1)
+http://1videobrm4.vampirehk.eu.org:31486/drm/FoxNews
 
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="SPORT1",Live-01(js)
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
