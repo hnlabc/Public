@@ -122,6 +122,9 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000014/index.m3u8?
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/6/224/3221227506/index.m3u8
 #EXTINF:-1,tvg-id="江苏4K修复" tvg-name="江苏4K修复" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JS4KXiuF.png" group-title="LOCAL",江苏4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/6/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/LOVE NATURE.png" group-title="LOCAL",Love Nature(amz)
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="LOCAL",五星体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS
 #EXTINF:-1,tvg-id="江苏休闲体育" tvg-name="江苏休闲体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JSSport.png" group-title="LOCAL",江苏体育休闲
@@ -158,66 +161,66 @@ https://14033.live.streamtheworld.com/987FM_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CAPITAL958Radio.jpg" group-title="RADIO",CAPITAL958(radio)
 https://22393.live.streamtheworld.com/CAPITAL958FMAAC_SC
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="ABC",CNN International(ss)
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="YTSS",CNN International(ss)
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS3.png" group-title="ABC",BBC News(ss)
+#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS3.png" group-title="YTSS",BBC News(ss)
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBCEarth" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCEarth.png" group-title="ABC",BBC Earth(ss)
+#EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBCEarth" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCEarth.png" group-title="YTSS",BBC Earth(ss)
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
-#EXTINF:-1 tvg-id="SkyNews"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkyNews.png" group-title="ABC",Sky News(ss)
+#EXTINF:-1 tvg-id="SkyNews"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkyNews.png" group-title="YTSS",Sky News(ss)
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-#EXTINF:-1 tvg-id="SkyMix" tvg-name="SkyMix" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SKYMIX.png" group-title="ABC",Sky Mix(ss)
+#EXTINF:-1 tvg-id="SkyMix" tvg-name="SkyMix" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SKYMIX.png" group-title="YTSS",Sky Mix(ss)
 https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
-#EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="ABC",ABC News(hd)(ss)
+#EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="YTSS",ABC News(hd)(ss)
 https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
-#EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="ABC",France24(ss)
+#EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="YTSS",France24(ss)
 https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
-#EXTINF:-1 tvg-id="EuroNews" tvg-name="EuroNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/EURONEWS.png" group-title="ABC",EuroNews(ss)
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="EuroNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/EURONEWS.png" group-title="YTSS",EuroNews(ss)
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
-#EXTINF:-1 tvg-id="BloombergTV" tvg-name="BloombergTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Bloomberg TV.png" group-title="ABC",Bloomberg TV+(ss)
+#EXTINF:-1 tvg-id="BloombergTV" tvg-name="BloombergTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Bloomberg TV.png" group-title="YTSS",Bloomberg TV+(ss)
 https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
-#EXTINF:-1 tvg-id="BloombergOriginals" tvg-name="BloombergOriginals" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BloombergOriginals.png" group-title="ABC",Bloomberg Originals(ss)
+#EXTINF:-1 tvg-id="BloombergOriginals" tvg-name="BloombergOriginals" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BloombergOriginals.png" group-title="YTSS",Bloomberg Originals(ss)
 https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/LOVE NATURE.png" group-title="ABC",Love Nature(ss)
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/LOVE NATURE.png" group-title="YTSS",Love Nature(ss)
 https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
-#EXTINF:-1 tvg-id="TED" tvg-name="TED" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TED.png" group-title="ABC",TED(hd)(ss)
+#EXTINF:-1 tvg-id="TED" tvg-name="TED" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TED.png" group-title="YTSS",TED(hd)(ss)
 https://i.mjh.nz/SamsungTVPlus/USBC2100013WI.m3u8
 
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="ABC",CNA(yt)
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="YTSS",CNA(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-#EXTINF:-1 tvg-id="Taiwan+" tvg-name="Taiwan+" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TAIWANPLUS.png" group-title="ABC",Taiwan+(yt)
+#EXTINF:-1 tvg-id="Taiwan+" tvg-name="Taiwan+" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TAIWANPLUS.png" group-title="YTSS",Taiwan+(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ARIRANGTV.png" group-title="ABC",Arirang(yt)
+#EXTINF:-1 tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ARIRANGTV.png" group-title="YTSS",Arirang(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
-#EXTINF:-1 tvg-id="DW" tvg-name="DW English" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DWNEWS1.png" group-title="ABC",DW English(yt)
+#EXTINF:-1 tvg-id="DW" tvg-name="DW English" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DWNEWS1.png" group-title="YTSS",DW English(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="ABC",France24(yt)
+#EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="YTSS",France24(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeera3.png" group-title="ABC",Al Jazeera(yt)
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Aljazeera3.png" group-title="YTSS",Al Jazeera(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-#EXTINF:-1 tvg-id="IndiaToday" tvg-name="IndiaToday" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/IndiaToday.png" group-title="ABC",India Today(yt)
+#EXTINF:-1 tvg-id="IndiaToday" tvg-name="IndiaToday" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/IndiaToday.png" group-title="YTSS",India Today(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="ABC",ABC News(hd)(yt)
+#EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="YTSS",ABC News(hd)(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 tvg-id="NBCNews" tvg-name="NBCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NBCNEWS.png" group-title="ABC",NBC News(hd)(yt)
+#EXTINF:-1 tvg-id="NBCNews" tvg-name="NBCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NBCNEWS.png" group-title="YTSS",NBC News(hd)(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="ABC",FOX Now(hd)(yt)
+#EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="YTSS",FOX Now(hd)(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Phoenix_TV_Information_Channel.png" group-title="ABC",凤凰资讯(yt)
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Phoenix_TV_Information_Channel.png" group-title="YTSS",凤凰资讯(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/寰宇新闻.png" group-title="ABC",寰宇新闻(yt)
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/寰宇新闻.png" group-title="YTSS",寰宇新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/东森财经新闻.png" group-title="ABC",东森财经新闻(yt)
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/东森财经新闻.png" group-title="YTSS",东森财经新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/中视新闻台.png" group-title="ABC",中视新闻(yt)
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/中视新闻台.png" group-title="YTSS",中视新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/民视新闻.png" group-title="ABC",民视新闻(yt)
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/民视新闻.png" group-title="YTSS",民视新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/台视新闻.png" group-title="ABC",台视新闻(yt)
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/台视新闻.png" group-title="YTSS",台视新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/中天新闻台.png" group-title="ABC",中天新闻(yt)
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/中天新闻台.png" group-title="YTSS",中天新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Tvbsnews.png" group-title="ABC",TVBS 新闻(yt)
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Tvbsnews.png" group-title="YTSS",TVBS 新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Jade.png" group-title="ABC",翡翠台(p)
@@ -261,9 +264,6 @@ rtmp://f13h.mine.nu/sat/tv761
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DAZN2.png" group-title="ABC",DAZN2(rtmp)
 rtmp://f13h.mine.nu/sat/tv741
-
-#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/LOVE NATURE.png" group-title="ABC",Love Nature(amz)
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="ABC",Fox News(hd)(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/FoxNews
