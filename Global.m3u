@@ -167,6 +167,8 @@ https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBCEarth" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCEarth.png" group-title="YTSS",BBC Earth(ss)
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+#EXTINF:-1 tvg-id="BBCFood" tvg-name="BBCFood" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCFood.png" group-title="YTSS",BBC Food(hd)(ss)
+https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 #EXTINF:-1 tvg-id="SkyNews"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkyNews.png" group-title="YTSS",Sky News(ss)
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 tvg-id="SkyMix" tvg-name="SkyMix" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SKYMIX.png" group-title="YTSS",Sky Mix(ss)
@@ -185,6 +187,8 @@ https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
 #EXTINF:-1 tvg-id="TED" tvg-name="TED" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TED.png" group-title="YTSS",TED(hd)(ss)
 https://i.mjh.nz/SamsungTVPlus/USBC2100013WI.m3u8
+#EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="YTSS",FOX Now(hd)(ss)
+https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="YTSS",CNA(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
