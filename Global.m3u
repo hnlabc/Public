@@ -262,6 +262,9 @@ rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DAZN2.png" group-title="ABC",DAZN2(rtmp)
 rtmp://f13h.mine.nu/sat/tv741
 
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/LOVE NATURE.png" group-title="ABC",Love Nature(amz)
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 #EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="ABC",Fox News(hd)(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/FoxNews
 
