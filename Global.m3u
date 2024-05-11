@@ -219,6 +219,27 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Tvbsnews.png" group-title="YTSS",TVBS 新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="ABC",CCTV-1 综合(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv1_CR
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="ABC",CCTV-2 财经(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb1a]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv2_CR
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="ABC",CCTV-3 综艺(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv3_CR
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="ABC",CCTV-4 国际(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv4_CR
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="ABC",CCTV-5 体育(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb20]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv5_CR
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="ABC",CCTV-5+ 体育赛事(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv05plus_CR
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="ABC",CCTV-13 新闻(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb21]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv13_CR
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JSTV.png" group-title="ABC",江苏卫视(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_jiangsustv_CR
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="ABC",湖南卫视(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb21]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_hunanstv_CR
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="ABC",浙江卫视(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb21]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_zhejiangstv_CR
+
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/WeiLaiSport.png" group-title="ABC",纬来体育(rtmp)
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/纬来育乐.png" group-title="ABC",纬来育乐(rtmp)
