@@ -81,8 +81,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="NEWS",FOX Now(hd)(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="NEWS",Pearl(p)
-http://58.176.4.57:8800/play/a00b
+
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="NEWS",CNA(amz)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ARIRANGTV.png" group-title="NEWS",Arirang
@@ -114,10 +113,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/6/224/32212275
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/6/224/3221227491/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="LOCAL",湖南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/6/224/3221227482/index.m3u8
-#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HuaSu4K.png" group-title="LOCAL",华数4K影视1
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HuaSu4K.png" group-title="LOCAL",华数4K影视
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HuaSu4K.png" group-title="LOCAL",华数4K影视2
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IAS
 #EXTINF:-1,tvg-id="4KUHD" tvg-name="4KUHD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/4KUHD.png" group-title="LOCAL",4K UHD
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/6/224/3221227506/index.m3u8
 #EXTINF:-1,tvg-id="江苏4K修复" tvg-name="江苏4K修复" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JS4KXiuF.png" group-title="LOCAL",江苏4K修复
@@ -135,8 +132,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/6/224/32212276
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/1.m3u8
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="LOCAL",劲爆体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IAS
-#EXTINF:-1 tvg-id="iHOT爱体育" tvg-name="iHOT爱体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ihot15.png" group-title="LOCAL",爱体育
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IAS
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="LOCAL",魅力足球
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IAS
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/WeiLaiSport.png" group-title="LOCAL",纬来体育
@@ -163,16 +158,13 @@ https://22393.live.streamtheworld.com/CAPITAL958FMAAC_SC
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="YTSS",CNN International(ss)
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS3.png" group-title="YTSS",BBC News(ss)
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+
 #EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBCEarth" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCEarth.png" group-title="YTSS",BBC Earth(ss)
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:-1 tvg-id="BBCFood" tvg-name="BBCFood" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCFood.png" group-title="YTSS",BBC Food(hd)(ss)
 https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 #EXTINF:-1 tvg-id="SkyNews"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkyNews.png" group-title="YTSS",Sky News(ss)
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-#EXTINF:-1 tvg-id="SkyMix" tvg-name="SkyMix" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SKYMIX.png" group-title="YTSS",Sky Mix(ss)
-https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
 #EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="YTSS",ABC News(hd)(ss)
 https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
 #EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/France24.png" group-title="YTSS",France24(ss)
@@ -226,23 +218,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Tvbsnews.png" group-title="YTSS",TVBS 新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Jade.png" group-title="ABC",翡翠台(p)
-http://58.176.4.57:8800/play/a00g
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="ABC",明珠台(p)
-http://58.176.4.57:8800/play/a00b
-#EXTINF:-1 tvg-id="无线新闻"  tvg-name="无线新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB无线新闻.png" group-title="ABC",无线新闻台(p)
-http://58.176.4.57:8800/play/a00d
-#EXTINF:-1 tvg-id="J2" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVBPLUS.png" group-title="ABC",TVB Plus(p)
-http://58.176.4.57:8800/play/a00c
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ViuTV1.png" group-title="ABC",ViuTV(p)
-http://58.176.4.57:8800/play/a00i
-#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOY国际财经台.png" group-title="ABC",HOY76 国际财经台(p)
-http://58.176.4.57:8800/play/a002
-#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOYTV.png" group-title="ABC",HOY77 TV(p)
-http://58.176.4.57:8800/play/a003
-#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HOY资讯.png" group-title="ABC", HOY78 资讯台(p)
-http://58.176.4.57:8800/play/a004
 
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/WeiLaiSport.png" group-title="ABC",纬来体育(rtmp)
 rtmp://f13h.mine.nu/sat/tv721
