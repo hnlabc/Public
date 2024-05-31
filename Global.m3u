@@ -55,6 +55,52 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/6/224/32212284
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTV8K超高清1.png" group-title="CCTV",CCTV-8K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/6/224/3221228165/index.m3u8
 
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Phoenix_TV_Chinese_Channel.png" group-title="LOCAL",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/6/224/3221228527/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Phoenix_TV_Information_Channel.png" group-title="LOCAL",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/6/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/PhoenixHK.png" group-title="LOCAL",凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/6/224/3221228530/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JSTV.png" group-title="LOCAL",江苏卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/6/224/3221227552/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DFTV.png" group-title="LOCAL",东方卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/6/224/3221227511/index.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HaiNTV.png" group-title="LOCAL",海南卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/6/224/3221228139/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ShenZTV.png" group-title="LOCAL",深圳卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/6/224/3221227555/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="LOCAL",安徽卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/6/224/3221227558/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GDTV.png" group-title="LOCAL",广东卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/6/224/3221227476/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BJTV.png" group-title="LOCAL",北京卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/6/224/3221227508/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="LOCAL",浙江卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/6/224/3221227491/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="LOCAL",湖南卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/6/224/3221227482/index.m3u8
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HuaSu4K.png" group-title="LOCAL",华数4K影视
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1,tvg-id="4KUHD" tvg-name="4KUHD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/4KUHD.png" group-title="LOCAL",4K UHD
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/6/224/3221227506/index.m3u8
+#EXTINF:-1,tvg-id="江苏4K修复" tvg-name="江苏4K修复" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JS4KXiuF.png" group-title="LOCAL",江苏4K修复
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/6/224/3221228141/index.m3u8
+
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="LOCAL",五星体育
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS
+#EXTINF:-1,tvg-id="江苏休闲体育" tvg-name="江苏休闲体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JSSport.png" group-title="LOCAL",江苏体育休闲
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/6/224/3221228746/index.m3u8
+#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NEWTVJPSport.png" group-title="LOCAL",精品体育
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/6/224/3221227615/index.m3u8
+#EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="LOCAL",超级体育
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/1.m3u8
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="LOCAL",劲爆体育
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IAS
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="LOCAL",魅力足球
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IAS
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/WeiLaiSport.png" group-title="LOCAL",纬来体育
+https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+
 #EXTINF:-1 tvg-id="I200.58646.zap2it.com" tvg-name="CNN USA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="NEWS",CNN USA(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International(ccf1)
@@ -90,54 +136,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/nhk-world.png" group-title="NEWS",NHK World(hd)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Phoenix_TV_Chinese_Channel.png" group-title="LOCAL",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/6/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Phoenix_TV_Information_Channel.png" group-title="LOCAL",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/6/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/PhoenixHK.png" group-title="LOCAL",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/6/224/3221228530/index.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JSTV.png" group-title="LOCAL",江苏卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/6/224/3221227552/index.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DFTV.png" group-title="LOCAL",东方卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/6/224/3221227511/index.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HaiNTV.png" group-title="LOCAL",海南卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/6/224/3221228139/index.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ShenZTV.png" group-title="LOCAL",深圳卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/6/224/3221227555/index.m3u8
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="LOCAL",安徽卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/6/224/3221227558/index.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GDTV.png" group-title="LOCAL",广东卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/6/224/3221227476/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BJTV.png" group-title="LOCAL",北京卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/6/224/3221227508/index.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="LOCAL",浙江卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/6/224/3221227491/index.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="LOCAL",湖南卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/6/224/3221227482/index.m3u8
-#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HuaSu4K.png" group-title="LOCAL",华数4K影视
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1,tvg-id="4KUHD" tvg-name="4KUHD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/4KUHD.png" group-title="LOCAL",4K UHD
-http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/6/224/3221227506/index.m3u8
-#EXTINF:-1,tvg-id="江苏4K修复" tvg-name="江苏4K修复" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JS4KXiuF.png" group-title="LOCAL",江苏4K修复
-http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/6/224/3221228141/index.m3u8
-#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/LOVE NATURE.png" group-title="LOCAL",Love Nature(amz)
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="LOCAL",五星体育
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS
-#EXTINF:-1,tvg-id="江苏休闲体育" tvg-name="江苏休闲体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JSSport.png" group-title="LOCAL",江苏体育休闲
-http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/6/224/3221228746/index.m3u8
-#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NEWTVJPSport.png" group-title="LOCAL",精品体育
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/6/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="LOCAL",超级体育
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/1.m3u8
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="LOCAL",劲爆体育
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IAS
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="LOCAL",魅力足球
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IAS
-#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/WeiLaiSport.png" group-title="LOCAL",纬来体育
-https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English(radio)
 https://sk.cri.cn/am846.m3u8
