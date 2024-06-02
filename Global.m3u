@@ -65,6 +65,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/6/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/6/224/3221227552/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DFTV.png" group-title="LOCAL",东方卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/6/224/3221227511/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BJTV.png" group-title="LOCAL",北京卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/6/224/3221227508/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="LOCAL",湖南卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/6/224/3221227482/index.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HaiNTV.png" group-title="LOCAL",海南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/6/224/3221228139/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ShenZTV.png" group-title="LOCAL",深圳卫视
@@ -73,12 +77,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/6/224/32212275
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/6/224/3221227558/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GDTV.png" group-title="LOCAL",广东卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/6/224/3221227476/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BJTV.png" group-title="LOCAL",北京卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/6/224/3221227508/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="LOCAL",浙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/6/224/3221227491/index.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="LOCAL",湖南卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/6/224/3221227482/index.m3u8
+
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HuaSu4K.png" group-title="LOCAL",华数4K影视
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1,tvg-id="4KUHD" tvg-name="4KUHD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/4KUHD.png" group-title="LOCAL",4K UHD
@@ -92,14 +93,29 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/6/224/3221228746/index.m3u8
 #EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NEWTVJPSport.png" group-title="LOCAL",精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/6/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="LOCAL",超级体育
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/1.m3u8
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="LOCAL",劲爆体育
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IAS
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="LOCAL",魅力足球
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IAS
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/WeiLaiSport.png" group-title="LOCAL",纬来体育
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English(radio)
+https://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNRadio1.png" group-title="RADIO",CGTN(radio)
+http://stream.zeno.fm/ambvmys65rquv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNRadio.png" group-title="RADIO",CNN USA(radio)
+https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709340709&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20407&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNIRadio.png" group-title="RADIO",CNN International(radio)
+https://tunein.cdnstream1.com/3519_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709084735&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s292162&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3125&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCRadio.png" group-title="RADIO",BBC World Service(radio)
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNA938Radio.png" group-title="RADIO",CNA938(radio)
+https://19183.live.streamtheworld.com/938NOWAAC_SC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GOLD905Radio.jpg" group-title="RADIO",GOLD905(radio)
+https://19183.live.streamtheworld.com/GOLD905AAC_SC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CLASS95Radio.jpg" group-title="RADIO",CLASS95(radio)
+https://22403.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Mediacorp987Radio.jpg" group-title="RADIO",MEDIACORP987(radio)
+https://14033.live.streamtheworld.com/987FM_PREM_SC?dist=MPL&pname=TDSdk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CAPITAL958Radio.jpg" group-title="RADIO",CAPITAL958(radio)
+https://22393.live.streamtheworld.com/CAPITAL958FMAAC_SC
 
 #EXTINF:-1 tvg-id="I200.58646.zap2it.com" tvg-name="CNN USA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="NEWS",CNN USA(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
@@ -136,27 +152,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/nhk-world.png" group-title="NEWS",NHK World(hd)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English(radio)
-https://sk.cri.cn/am846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNRadio1.png" group-title="RADIO",CGTN(radio)
-http://stream.zeno.fm/ambvmys65rquv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNRadio.png" group-title="RADIO",CNN USA(radio)
-https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709340709&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20407&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNIRadio.png" group-title="RADIO",CNN International(radio)
-https://tunein.cdnstream1.com/3519_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709084735&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s292162&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3125&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCRadio.png" group-title="RADIO",BBC World Service(radio)
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNA938Radio.png" group-title="RADIO",CNA938(radio)
-https://19183.live.streamtheworld.com/938NOWAAC_SC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GOLD905Radio.jpg" group-title="RADIO",GOLD905(radio)
-https://19183.live.streamtheworld.com/GOLD905AAC_SC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CLASS95Radio.jpg" group-title="RADIO",CLASS95(radio)
-https://22403.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Mediacorp987Radio.jpg" group-title="RADIO",MEDIACORP987(radio)
-https://14033.live.streamtheworld.com/987FM_PREM_SC?dist=MPL&pname=TDSdk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CAPITAL958Radio.jpg" group-title="RADIO",CAPITAL958(radio)
-https://22393.live.streamtheworld.com/CAPITAL958FMAAC_SC
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNANEWS.png" group-title="ABC",CNA(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
@@ -214,28 +209,6 @@ https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 channel-id="samsung-USBC2100013WI" tvg-id="USBC2100013WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100013WI_20240520T214846SQUARE.png" tvg-chno="3559" group-title="ABC" , TED(ss)
 https://i.mjh.nz/SamsungTVPlus/USBC2100013WI.m3u8
 
-
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="ABC",CCTV-1 综合(jsrtsp)
-rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv1_CR
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="ABC",CCTV-2 财经(jsrtsp)
-rtsp://[2409:8087:2001:20:2800:0:df6e:eb1a]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv2_CR
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="ABC",CCTV-3 综艺(jsrtsp)
-rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv3_CR
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="ABC",CCTV-4 国际(jsrtsp)
-rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv4_CR
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="ABC",CCTV-5 体育(jsrtsp)
-rtsp://[2409:8087:2001:20:2800:0:df6e:eb20]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv5_CR
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="ABC",CCTV-5+ 体育赛事(jsrtsp)
-rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv05plus_CR
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="ABC",CCTV-13 新闻(jsrtsp)
-rtsp://[2409:8087:2001:20:2800:0:df6e:eb21]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv13_CR
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JSTV.png" group-title="ABC",江苏卫视(jsrtsp)
-rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_jiangsustv_CR
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="ABC",湖南卫视(jsrtsp)
-rtsp://[2409:8087:2001:20:2800:0:df6e:eb21]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_hunanstv_CR
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="ABC",浙江卫视(jsrtsp)
-rtsp://[2409:8087:2001:20:2800:0:df6e:eb21]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_zhejiangstv_CR
-
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/WeiLaiSport.png" group-title="ABC",纬来体育(rtmp)
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/纬来育乐.png" group-title="ABC",纬来育乐(rtmp)
@@ -260,6 +233,27 @@ rtmp://f13h.mine.nu/sat/tv761
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DAZN2.png" group-title="ABC",DAZN2(rtmp)
 rtmp://f13h.mine.nu/sat/tv741
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="ABC",CCTV-1 综合(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv1_CR
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="ABC",CCTV-2 财经(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb1a]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv2_CR
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="ABC",CCTV-3 综艺(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv3_CR
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="ABC",CCTV-4 国际(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv4_CR
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="ABC",CCTV-5 体育(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb20]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv5_CR
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="ABC",CCTV-5+ 体育赛事(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv05plus_CR
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="ABC",CCTV-13 新闻(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb21]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv13_CR
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JSTV.png" group-title="ABC",江苏卫视(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_jiangsustv_CR
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="ABC",湖南卫视(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb21]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_hunanstv_CR
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="ABC",浙江卫视(jsrtsp)
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb21]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_zhejiangstv_CR
 
 #EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="ABC",Fox News(hd)(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/FoxNews
