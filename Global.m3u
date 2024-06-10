@@ -80,8 +80,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/6/224/32212274
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="LOCAL",浙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/6/224/3221227491/index.m3u8
 
-#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HuaSu4K.png" group-title="LOCAL",华数4K影视
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HuaSu4K.png" group-title="LOCAL",华数4K影视1
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HuaSu4K.png" group-title="LOCAL",华数4K影视2
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IAS
 #EXTINF:-1,tvg-id="4KUHD" tvg-name="4KUHD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/4KUHD.png" group-title="LOCAL",4K UHD
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/6/224/3221227506/index.m3u8
 #EXTINF:-1,tvg-id="江苏4K修复" tvg-name="江苏4K修复" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/JS4KXiuF.png" group-title="LOCAL",江苏4K修复
