@@ -50,6 +50,19 @@ http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/6/224/32212286
 http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/6/224/3221228680/index.m3u8
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTV兵器科技.png" group-title="CCTV",兵器科技
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/6/224/3221228686/index.m3u8
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="CCTV",CCTV 高尔夫网球
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="CCTV",CCTV 央视台球
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="CCTV",CCTV 风云剧场
+http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="CCTV",CCTV 第一剧场
+http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTVHJTV.png" group-title="CCTV",CCTV 怀旧剧场
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTVGuide.png" group-title="CCTV",CCTV 电视指南
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTV4K1.png" group-title="CCTV",CCTV-4K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/6/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTV8K超高清1.png" group-title="CCTV",CCTV-8K 超高清
@@ -67,16 +80,20 @@ http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/6/224/32212275
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/6/224/3221227511/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BJTV.png" group-title="LOCAL",北京卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/6/224/3221227508/index.m3u8
+#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BeiJJSKJ.png" group-title="LOCAL",北京卫视纪实科教
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/6/224/3221227699/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="LOCAL",湖南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/6/224/3221227482/index.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HaiNTV.png" group-title="LOCAL",海南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/6/224/3221228139/index.m3u8
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SanSTV.png" group-title="LOCAL",三沙卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/6/224/3221228626/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GDTV.png" group-title="LOCAL",广东卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/6/224/3221227476/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ShenZTV.png" group-title="LOCAL",深圳卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/6/224/3221227555/index.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="LOCAL",安徽卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/6/224/3221227558/index.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GDTV.png" group-title="LOCAL",广东卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/6/224/3221227476/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="LOCAL",浙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/6/224/3221227491/index.m3u8
 
@@ -374,9 +391,9 @@ http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
 http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="SPORT",咪咕直播 𝟚𝟙「IPV6」
 http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="SPORT",咪咕直播 𝟚2「IPV6」
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="SPORT",咪咕直播 𝟚𝟚「IPV6」
 http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="SPORT",咪咕直播 𝟚3「IPV6」
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="SPORT",咪咕直播 𝟚𝟛「IPV6」
 http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="SPORT",咪咕直播 𝟚𝟜「IPV6」
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
