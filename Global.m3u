@@ -93,14 +93,14 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8
 #EXTINF:-1 tvg-id="求索纪录4k" tvg-name="求索纪录4k" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="LOCAL",求索纪录4K
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-id="CHC 动作电影" tvg-name="CHC 动作电影" tvg-logo="https://yang-1989.eu.org/logo/动作电影.png" group-title="LOCAL",CHC 动作电影
+#EXTINF:-1 tvg-id="CHC 动作电影" tvg-name="CHC 动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="LOCAL",CHC 动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CHC 高清电影" tvg-name="CHC 高清电影" tvg-logo="https://yang-1989.eu.org/logo/影迷电影.png" group-title="LOCAL",CHC 影迷电影
+#EXTINF:-1 tvg-id="CHC 影迷电影" tvg-name="CHC 影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="LOCAL",CHC 影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CHC 家庭影院" tvg-name="CHC 家庭影院" tvg-logo="https://yang-1989.eu.org/logo/家庭影院.png" group-title="LOCAL",CHC 家庭影院
+#EXTINF:-1 tvg-id="CHC 家庭影院" tvg-name="CHC 家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="LOCAL",CHC 家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
 
-#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://yang-1989.eu.org/logo/上海外语.png" group-title="LOCAL",上海ICS外语
+#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="LOCAL",上海ICS外语
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IAS
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="LOCAL",五星体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS
