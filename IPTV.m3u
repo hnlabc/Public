@@ -690,7 +690,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000046BESTVSMGSMG/1.
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3468921BESTVSMGSMG/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",辽宁卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3450001BESTVSMGSMG/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",山东卫视_
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",山东卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN911992BESTVSMGSMG/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",东方卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111131BESTVSMGSMG/1.m3u8?m3u8_level=2
