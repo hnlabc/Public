@@ -242,7 +242,7 @@ http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000321/ind
 #EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/HaiNZM.png" group-title="卫视hn",海南自贸
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
 
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="卫视hn",广东珠江(hd)
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="卫视hn",广东珠江hd
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IAS
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="卫视hn",东方财经
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IAS
@@ -658,7 +658,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视hb",CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/1.m3u8?m3u8_level=2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",江苏卫视_
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",江苏卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111129BESTVSMGSMG/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",安徽卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3540416BESTVSMGSMG/1.m3u8?m3u8_level=2
@@ -702,17 +702,17 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3450000BESTVSMGSMG/1.
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111130BESTVSMGSMG/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",重庆卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3840707BESTVSMGSMG9/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",山西卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",山西卫视hd
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN1344BESTVSMGSMG9/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",宁夏卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",宁夏卫视hd
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN160782BESTVSMGSMG9/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",青海卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",青海卫视hd
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN67026BESTVSMGSMG9/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",新疆卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",新疆卫视hd
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126387BESTVSMGSMG9/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",西藏卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",西藏卫视hd
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN77574BESTVSMGSMG9/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",内蒙古卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",内蒙古卫视hd
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN79469BESTVSMGSMG9/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",兵团卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",兵团卫视hd
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/1.m3u8?m3u8_level=2
