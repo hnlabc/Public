@@ -399,7 +399,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236272/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236398/index.m3u8
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="" group-title="央视zj",CCTV-中学生
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236325/index.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="" group-title="央视zj",CGTN-记录
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="" group-title="央视zj",CGTN-纪录
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236205/index.m3u8
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="" group-title="央视zj",CGTN-法语
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236288/index.m3u8
@@ -640,7 +640,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视hb",CGTN英语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视hb",CGTN记录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视hb",CGTN纪录
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视hb",CGTN阿拉伯语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071b0e6a2c/1.m3u8?m3u8_level=2
