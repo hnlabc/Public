@@ -20,11 +20,5 @@ CGTN 1.5M SD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index
 其他,#genre#
 CGTN 1M SD,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN 2M SD,http://223.110.241.206:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS
-CGTN 8M1080P,http://221.219.66.252:18888/rtp/239.3.1.215:4220
-CGTN 纪录 8M1080Phttp://221.219.66.252:18888/rtp/239.3.1.216:4220
-CGTN 4M 1080P,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575003.m3u8
-CGTN 纪录 8M1080P,http://221.219.66.252:18888/rtp/239.3.1.216:4220
-CGTN 2M 720P,http://223.109.210.49/4309-tx.shekou.otvcloud.com/otv/skcc/live/channel15/index.m3u8
-CGTN 2M 720P,http://223.109.210.49/4309-tx.yiyang.otvcloud.com/otv/skcc/live/channel15/index.m3u8
-CGTN 2M 720P,http://223.109.210.49/4403-txt.yiyang.otvcloud.com/otv/skcc/live/channel15/index.m3u8
+
 
