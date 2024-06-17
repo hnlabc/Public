@@ -1,5 +1,14 @@
 测试1,#genre#
 
+欢笑剧场4K,http://[2409:8087:280d:1020:100::28]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8?fmt=ts2hls
+求索纪录4K0,http://[2409:8087:280d:1020:100::28]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls
+
+求索纪录4K1,http://[2409:8087:280d:1020:100::28]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/42330389.smil/index.m3u8?fmt=ts2hls
+
+凤凰中文(zj),http://[2409:8087:280d:1020:100::23]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
+凤凰资讯(zj),http://[2409:8087:280d:1020:100::29]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
+
+
 湖北移动,#genre#
 CGTN_4MFHDHEVC,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/1.m3u8?m3u8_level=2
 CGTN纪录 4MFHDHEVC,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/1.m3u8?m3u8_level=2
