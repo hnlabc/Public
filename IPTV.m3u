@@ -716,3 +716,74 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN77574BESTVSMGSMG9/1.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN79469BESTVSMGSMG9/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视hb",兵团卫视hd
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/1.m3u8?m3u8_level=2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV1
+http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV2
+http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV3
+http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV4
+http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV4欧洲
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV4美洲
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV5体育
+http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV5体育赛事
+http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV6
+http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV7
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV8
+http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv8hd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV9
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/57/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV10
+http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv10hd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV11
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/57/20200103/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV12
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV13
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv13/57/20220913/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV14
+http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv14hd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV15
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV17
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/57/01.m3u8?&HlsSubType=&encrypt=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CGTN英语(sd)
+http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/1000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CGTN纪录(sd)
+http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/cctv/doc/1000/01.m3u8?&HlsSubType=&encrypt=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CHC家庭影院
+http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?&HlsSubType=&encrypt=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视mg",江苏卫视
+http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视mg",湖南卫视
+http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视mg",东方卫视
+http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视mg",辽宁卫视
+http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/liaoningwshd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视mg",陕西卫视
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视mg",江西卫视
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/57/20190820/01.m3u8?&HlsSubType=&encrypt=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视mg",上海新闻综合
+http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视mg",东方影视
+http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视mg",上海纪实人文
+http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/jspdhd/3000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视mg",法制天地
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/fztdhd/57/20230411/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视mg",欢笑剧场
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/hxjchd/57/20230411/01.m3u8?&HlsSubType=&encrypt=
