@@ -729,9 +729,9 @@ http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/3000/01.m3u8?&HlsSubType=&
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV4美洲
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV5体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV5
 http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV5体育赛事
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV5+
 http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视mg",CCTV6
 http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/01.m3u8?&HlsSubType=&encrypt=
