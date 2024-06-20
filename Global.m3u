@@ -342,9 +342,6 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000063/index.m3u8?
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/咪咕体育_V4.png" group-title="SPORT",Live-04(hn)
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000064/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000064&IAS
 
-#EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/咪咕体育_V4.png" group-title="SPORT",Live-01(zj)
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/1/index.m3u8?fmt=ts2hls
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="SPORT",咪咕直播4K Ⅰ「IPV4」
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="SPORT",咪咕直播4K Ⅱ「IPV4」
