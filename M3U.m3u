@@ -43,7 +43,6 @@ rtsp://[2409:8087:2001:20:2800:0:df6e:eb22]:554/ott.mobaibox.com/000000400000001
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BJTV.png" group-title="ABC",北京卫视(rtsp)
 rtsp://[2409:8087:2001:20:2800:0:df6e:eb12]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_beijingstv_CR
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Test1
 
 
 
