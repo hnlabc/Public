@@ -295,7 +295,7 @@ rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="ABC",Fox News(hd)(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/FoxNews
 
-#EXTINF:-1 tvg-id="I179.91515.schedulesdirect.org" tvg-name="Discovery" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DISCOVERY.png" group-title="ABC",Discovery(ccf1)
+#EXTINF:-1 tvg-id="I181.83573.schedulesdirect.org" tvg-name="Discovery" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DISCOVERY.png" group-title="ABC",Discovery(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/Discovery
 #EXTINF:-1 tvg-id="I207.59976.zap2it.com" tvg-name="ESPN News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPN.png" group-title="ABC",ESPN News(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN-News
