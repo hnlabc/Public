@@ -248,24 +248,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Tvbsnews.png" group-title="ABC",TVBS 新闻(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 tvg-id="GBBD8000016N" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20230308T021053SQUARE.png_20230308021054.png" group-title="ABC",CNN(ss)
-https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="GBAJ4900020VP" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png" group-title="ABC",Euronews Live(ss)
-https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
-#EXTINF:-1 tvg-id="US4000033L" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS.png" group-title="ABC",BBC News(ss)
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 tvg-id="USBC600017FG" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600017FG_20240520T221414SQUARE.png" group-title="ABC",BBC Home & Garden(ss)
-https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
-#EXTINF:-1 tvg-id="USBC6000108Z" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000108Z_20240520T221412SQUARE.png" group-title="ABC",BBC Food(ss)
-https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
-#EXTINF:-1 tvg-id="USBD1700001RW" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240520T214740SQUARE.png" group-title="ABC",BBC Earth(ss)
-https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
-#EXTINF:-1 tvg-id="USBC39000171G" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20240520T223555SQUARE.png" group-title="ABC",ABC News Live(ss)
-https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
-#EXTINF:-1 tvg-id="USBB52000022Q" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240520T223417SQUARE.png" group-title="ABC",Sky News(ss)
-https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-#EXTINF:-1 tvg-id="USBC2100013WI" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100013WI_20240520T214846SQUARE.png" group-title="ABC", TED(hd)(ss)
-https://i.mjh.nz/SamsungTVPlus/USBC2100013WI.m3u8
 
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/WeiLaiSport.png" group-title="ABC",纬来体育(rtmp)
 rtmp://f13h.mine.nu/sat/tv721
