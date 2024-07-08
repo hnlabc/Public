@@ -8,6 +8,8 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
 #EXTINF:-1 tvg-id="I510.89542.zap2it.com" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS.png" group-title="NEWS",BBC News
 http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
+#EXTINF:-1 tvg-id="I298.46163.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="NEWS",FOX Now(hd)
+http://1videobrm4.vampirehk.eu.org:31486/drm/FoxNews
 #EXTINF:-1 tvg-id="I353.14755.zap2it.com" tvg-name="Bloomberg" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Bloomberg TV.png" group-title="NEWS",Bloomberg
 http://1videobrm4.vampirehk.eu.org:31486/drm/Bloomberg
 #EXTINF:-1 tvg-id="I181.83573.schedulesdirect.org" tvg-name="Discovery" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DISCOVERY.png" group-title="NEWS",Discovery
