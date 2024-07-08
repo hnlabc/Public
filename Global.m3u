@@ -119,6 +119,8 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
 http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
 #EXTINF:-1 tvg-id="I298.46163.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="NEWS",FOX Now(hd)(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/FoxNews
+#EXTINF:-1 tvg-id="I1007.20456.zap2it.com" tvg-name="ABC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="NEWS",ABC News(hd)(ccf1)
+http://1videobrm4.vampirehk.eu.org:31486/drm/ABC-WLS
 #EXTINF:-1 tvg-id="I353.14755.zap2it.com" tvg-name="Bloomberg" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Bloomberg TV.png" group-title="NEWS",Bloomberg(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/Bloomberg
 
@@ -139,8 +141,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-id="IndiaToday" tvg-name="IndiaToday" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/IndiaToday.png" group-title="NEWS",India Today(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 tvg-id="I1007.20456.zap2it.com" tvg-name="ABC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="NEWS",ABC News(hd)(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-id="I11.11.112400.zap2it.com" tvg-name="NBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NBCNEWS.png" group-title="NEWS",NBC News(hd)(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 
