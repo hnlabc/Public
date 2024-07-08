@@ -117,6 +117,8 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
 #EXTINF:-1 tvg-id="I510.89542.zap2it.com" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS.png" group-title="NEWS",BBC News(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
+#EXTINF:-1 tvg-id="I298.46163.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="NEWS",FOX Now(hd)(ccf1)
+http://1videobrm4.vampirehk.eu.org:31486/drm/FoxNews
 #EXTINF:-1 tvg-id="I353.14755.zap2it.com" tvg-name="Bloomberg" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Bloomberg TV.png" group-title="NEWS",Bloomberg(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/Bloomberg
 
@@ -141,8 +143,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-id="I11.11.112400.zap2it.com" tvg-name="NBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NBCNEWS.png" group-title="NEWS",NBC News(hd)(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-id="I298.46163.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="NEWS",FOX Now(hd)(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNA.png" group-title="NEWS",CNA(amz)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -238,8 +238,6 @@ rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DAZN2.png" group-title="ABC",DAZN2(rtmp)
 rtmp://f13h.mine.nu/sat/tv741
 
-#EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="ABC",Fox News(hd)(ccf1)
-http://1videobrm4.vampirehk.eu.org:31486/drm/FoxNews
 #EXTINF:-1 tvg-id="I181.83573.schedulesdirect.org" tvg-name="Discovery" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DISCOVERY.png" group-title="ABC",Discovery(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/Discovery
 #EXTINF:-1 tvg-id="I207.59976.zap2it.com" tvg-name="ESPN News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPN.png" group-title="ABC",ESPN News(ccf1)
