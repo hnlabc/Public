@@ -134,11 +134,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-id="IndiaToday" tvg-name="IndiaToday" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/IndiaToday.png" group-title="NEWS",India Today(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="NEWS",ABC News(hd)(yt)
+#EXTINF:-1 tvg-id="I1007.20456.zap2it.com" tvg-name="ABC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="NEWS",ABC News(hd)(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 tvg-id="NBCNews" tvg-name="NBCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NBCNEWS.png" group-title="NEWS",NBC News(hd)(yt)
+#EXTINF:-1 tvg-id="I11.11.112400.zap2it.com" tvg-name="NBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NBCNEWS.png" group-title="NEWS",NBC News(hd)(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="NEWS",FOX Now(hd)(yt)
+#EXTINF:-1 tvg-id="I298.46163.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="NEWS",FOX Now(hd)(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNA.png" group-title="NEWS",CNA(amz)
