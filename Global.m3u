@@ -148,6 +148,23 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/nhk-world.png" group-title="NEWS",NHK World(hd)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="ABC",CCTV1_4k20m (jsyd)
+http://223.110.240.208:6610/gitv/live1/G_CCTV-1-AVS-4K264/G_CCTV-1-AVS-4K264/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="ABC",CCTV3_4k20m (jsyd)
+http://223.110.240.208:6610/gitv/live1/G_CCTV-3-AVS-4K264/G_CCTV-3-AVS-4K264/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="ABC",CCTV5_4k20m (jsyd)
+http://223.110.240.208:6610/gitv/live1/G_CCTV-5-AVS-4K264/G_CCTV-5-AVS-4K264/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="ABC",CCTV-5+fhd8m(jsyd)
+http://223.110.240.208:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="ABC",CCTV6_fhd20m (jsyd)
+http://223.110.240.208:6610/gitv/live1/G_CCTV-6-AVS-4K264/G_CCTV-6-AVS-4K264/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="ABC",CCTV8_fhd20m (jsyd)
+http://223.110.240.208:6610/gitv/live1/G_CCTV-8-AVS-4K264/G_CCTV-8-AVS-4K264/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="ABC",CCTV-13_fhd8m(jsyd)
+http://223.110.240.208:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="ABC",CCTV-16_fhd8m(jsyd)
+http://223.110.240.208:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
+
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/凤凰卫视中文频道.png" group-title="ABC",凤凰中文(zj)
 http://[2409:8087:280d:1020:100::23]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/凤凰卫视资讯.png" group-title="ABC",凤凰资讯(zj)
@@ -306,17 +323,6 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000062/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000063&IAS
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/咪咕体育_V4.png" group-title="ABC",Live-04(hn)
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000064/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000064&IAS
-
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="ABC",CCTV1_4k20m (jsyd)
-http://223.110.240.208:6610/gitv/live1/G_CCTV-1-AVS-4K264/G_CCTV-1-AVS-4K264/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="ABC",CCTV3_4k20m (jsyd)
-http://223.110.240.208:6610/gitv/live1/G_CCTV-3-AVS-4K264/G_CCTV-3-AVS-4K264/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="ABC",CCTV5_4k20m (jsyd)
-http://223.110.240.208:6610/gitv/live1/G_CCTV-5-AVS-4K264/G_CCTV-5-AVS-4K264/index.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="ABC",CCTV6_fhd20m (jsyd)
-http://223.110.240.208:6610/gitv/live1/G_CCTV-6-AVS-4K264/G_CCTV-6-AVS-4K264/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="ABC",CCTV8_fhd20m (jsyd)
-http://223.110.240.208:6610/gitv/live1/G_CCTV-8-AVS-4K264/G_CCTV-8-AVS-4K264/index.m3u8
 
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/咪咕体育_V4.png" group-title="SPORT",Live-01(js)
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
