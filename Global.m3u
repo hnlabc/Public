@@ -40,6 +40,12 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/6/224/32212286
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/6/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV",CCTV-17 农业农村
 http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/6/224/3221227592/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTV4K1.png" group-title="CCTV",CCTV-4K 超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/6/224/3221228472/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTV8K超高清1.png" group-title="CCTV",CCTV-8K 超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/6/224/3221228165/index.m3u8
+
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Fengyun_Football.png" group-title="CCTV",CCTV 风云足球
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/6/224/3221228668/index.m3u8
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Fengyun_Music.png" group-title="CCTV",CCTV 风云音乐
@@ -47,11 +53,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/6/224/32212286
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="CCTV",CCTV 世界地理
 http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/6/224/3221228680/index.m3u8
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTV兵器科技.png" group-title="CCTV",CCTV 兵器科技
-
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTV4K1.png" group-title="CCTV",CCTV-4K 超高清
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/6/224/3221228472/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTV8K超高清1.png" group-title="CCTV",CCTV-8K 超高清
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/6/224/3221228165/index.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/凤凰卫视中文频道.png" group-title="LOCAL",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/6/224/3221228527/index.m3u8
@@ -82,10 +83,12 @@ http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/6/224/32212274
 
 #EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="LOCAL",上海外语
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IAS
+
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="LOCAL",求索纪录4K
+http://[2409:8087:280d:1020:100::28]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls
+
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="LOCAL",五星体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS
-#EXTINF:-1 tvg-id="江苏休闲体育" tvg-name="江苏休闲体育" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="LOCAL",江苏休闲体育
-http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/6/224/3221228746/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English(radio)
 https://sk.cri.cn/am846.m3u8
@@ -116,12 +119,14 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
 http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
 #EXTINF:-1 tvg-id="I353.14755.zap2it.com" tvg-name="Bloomberg" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Bloomberg TV.png" group-title="NEWS",Bloomberg(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/Bloomberg
+
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="NEWS",Pearl(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/1811294475?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="SkyNews"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkyNews.png" group-title="NEWS",Sky News(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/1783363673?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="ABCAustralia" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC Australia.png" group-title="NEWS",ABC Australia(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/633892957?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+
 #EXTINF:-1 tvg-id="DW" tvg-name="DW English" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DW-NEWS.png" group-title="NEWS",DW English(yt)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FRANCE.png" group-title="NEWS",France24(yt)
@@ -205,47 +210,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/6/224/32212275
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/6/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="ABC",欢笑剧场4K
 http://[2409:8087:280d:1020:100::28]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="求索纪录4k" tvg-name="求索纪录4k" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="ABC",求索纪录4K
-http://[2409:8087:280d:1020:100::28]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BeiJJSKJ.png" group-title="ABC",纪实科教
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/6/224/3221227699/index.m3u8
-
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNA.png" group-title="ABC",CNA(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-#EXTINF:-1 tvg-id="Taiwan+" tvg-name="Taiwan+" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TAIWANPLUS.png" group-title="ABC",Taiwan+(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ARIRANGTV.png" group-title="ABC",Arirang(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
-#EXTINF:-1 tvg-id="DW" tvg-name="DW English" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DW-NEWS.png" group-title="ABC",DW English(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FRANCE.png" group-title="ABC",France24(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Al Jazeera English.png" group-title="ABC",Al Jazeera(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-#EXTINF:-1 tvg-id="IndiaToday" tvg-name="IndiaToday" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/IndiaToday.png" group-title="ABC",India Today(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="ABC",ABC News(hd)(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 tvg-id="NBCNews" tvg-name="NBCNews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NBCNEWS.png" group-title="ABC",NBC News(hd)(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-id="I205.60179.schedulesdirect.org" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="ABC",FOX Now(hd)(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/凤凰卫视资讯.png" group-title="ABC",凤凰资讯(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/寰宇新闻.png" group-title="ABC",寰宇新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/东森财经新闻.png" group-title="ABC",东森财经新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/中视新闻台.png" group-title="ABC",中视新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/民视新闻.png" group-title="ABC",民视新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/台视新闻.png" group-title="ABC",台视新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/中天新闻台.png" group-title="ABC",中天新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Tvbsnews.png" group-title="ABC",TVBS 新闻(yt)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/WeiLaiSport.png" group-title="ABC",纬来体育(rtmp)
 rtmp://f13h.mine.nu/sat/tv721
