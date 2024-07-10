@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YTTV",TV01,三立iNEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
