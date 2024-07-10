@@ -274,9 +274,9 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/538075932?auth=PO76qU40fPew2V
 #EXTINF:-1 tvg-id="I17.102458.schedulesdirect.org" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Al Jazeera English.png" group-title="ABC",Al Jazeera(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/428903994?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-id="I200.58646.zap2it.com" tvg-name="CNN USA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="ABC",CNN USA(org)
+#EXTINF:-1 tvg-id="I200.58646.zap2it.com" tvg-name="CNN USA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="ABC",CNN USA(hd)(org)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="I285.17664.schedulesdirect.org" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="ABC",CNN International(org)
+#EXTINF:-1 tvg-id="I285.17664.schedulesdirect.org" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="ABC",CNN International(hd)(org)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCAustralia"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC Australia.png" group-title="ABC",ABC Australia(org)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
