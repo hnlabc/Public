@@ -5,11 +5,16 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/1.m3u8?
 
 #EXTINF:-1 tvg-id="I200.58646.zap2it.com" tvg-name="CNN USA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="NEWS",CNN USA(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN
+#EXTINF:-1 tvg-id="I200.58646.zap2it.com" tvg-name="CNN USA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="NEWS",CNN USA(hd)(org)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="I285.17664.schedulesdirect.org" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/CNN-International
 #EXTINF:-1 tvg-id="I285.17664.schedulesdirect.org" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/899748806?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+#EXTINF:-1 tvg-id="I285.17664.schedulesdirect.org" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International(hd)(org)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="I510.89542.zap2it.com" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS.png" group-title="NEWS",BBC News(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/BBCNews-America
 #EXTINF:-1 tvg-id="I510.89542.zap2it.com" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS.png" group-title="NEWS",BBC News(ccf2)
@@ -33,3 +38,5 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/1906307996?auth=PO76qU40fPew2
 http://ccfasiatv.075661.xyz:13270/stream/channelid/538075932?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="I17.102458.schedulesdirect.org" tvg-name="Al Jazeera" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Al Jazeera English.png" group-title="NEWS",Al Jazeera(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/428903994?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+
+
