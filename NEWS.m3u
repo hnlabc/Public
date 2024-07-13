@@ -43,3 +43,9 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/nhk-world.png" group-title="NEWS",NHK World(hd)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
+#EXTINF:-1 tvg-id="Taiwan+" tvg-name="Taiwan+" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TAIWANPLUSTV.png" group-title="NEWS",Taiwan+(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 tvg-id="IndiaToday" tvg-name="IndiaToday" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/IndiaToday.png" group-title="NEWS",India Today(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+#EXTINF:-1 tvg-id="I11.11.112400.zap2it.com" tvg-name="NBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/NBCNEWS.png" group-title="NEWS",NBC News(hd)(yt)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
