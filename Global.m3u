@@ -264,9 +264,6 @@ http://1videobrm4.vampirehk.eu.org:31486/drm/Discovery
 #EXTINF:-1 tvg-id="I207.59976.zap2it.com" tvg-name="ESPN News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ESPN.png" group-title="ABC",ESPN News(ccf1)
 http://1videobrm4.vampirehk.eu.org:31486/drm/ESPN-News
 
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNA.png" group-title="ABC",CNA(ccf2)
-http://ccfasiatv.075661.xyz:13270/stream/channelid/51964364?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-
 #EXTINF:-1 tvg-id="I200.58646.zap2it.com" tvg-name="CNN USA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="ABC",CNN USA(hd)(org)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="I285.17664.schedulesdirect.org" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="ABC",CNN International(hd)(org)
