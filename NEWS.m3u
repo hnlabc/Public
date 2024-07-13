@@ -25,7 +25,6 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/1963530321?auth=PO76qU40fPew2
 #EXTINF:-1 tvg-id="I510.89542.zap2it.com" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS.png" group-title="NEWS",BBC News(ss)
 https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 
-
 #EXTINF:-1 tvg-id="I177.85720.schedulesdirect.org" tvg-name="DW English" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/DW-NEWS.png" group-title="NEWS",DW English(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/1906307996?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FRANCE.png" group-title="NEWS",France24(ccf2)
@@ -34,9 +33,6 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/538075932?auth=PO76qU40fPew2V
 http://ccfasiatv.075661.xyz:13270/stream/channelid/428903994?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNA.png" group-title="NEWS",CNA(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/51964364?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNA.png" group-title="NEWS",CNA(amz)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ARIRANGTV.png" group-title="NEWS",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
