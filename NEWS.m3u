@@ -39,6 +39,7 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/1861429546?auth=PO76qU40fPew2
 http://ccfasiatv.075661.xyz:13270/stream/channelid/1783363673?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="ABCAustralia" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC Australia.png" group-title="NEWS",ABC Australia(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/633892957?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+
 #EXTINF:-1 tvg-id="ABCAustralia"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC Australia.png" group-title="NEWS",ABC Australia(org)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
