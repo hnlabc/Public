@@ -104,7 +104,7 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/1906307996?auth=PO76qU40fPew2
 #EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FRANCE.png" group-title="NEWS",France24(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/538075932?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="NEWS",Pearl(ccf2)
+#EXTINF:-1 tvg-id="Pearl.hk" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TVB_Pearl.png" group-title="NEWS",Pearl(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/1861429546?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="SkyNews"  tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/SkyNews.png" group-title="NEWS",Sky News(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/1783363673?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
