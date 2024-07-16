@@ -12,12 +12,15 @@ https://tunein.cdnstream1.com/3519_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.sk
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNA938Radio.png" group-title="RADIO",CNA 938
 https://19183.live.streamtheworld.com/938NOWAAC_SC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GOLD905Radio.jpg" group-title="RADIO",Gold 905
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GOLD905Radio.jpg" group-title="RADIO",GOLD 905
 https://19183.live.streamtheworld.com/GOLD905AAC_SC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CLASS95Radio.jpg" group-title="RADIO",Class 95
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CLASS95Radio.jpg" group-title="RADIO",CLASS 95
 https://22403.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Mediacorp987Radio.jpg" group-title="RADIO",MediaCorp 987
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Mediacorp987Radio.jpg" group-title="RADIO",MEDIACorp 987
 https://14033.live.streamtheworld.com/987FM_PREM_SC?dist=MPL&pname=TDSdk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CAPITAL958Radio.jpg" group-title="RADIO",Capital 958
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CAPITAL958Radio.jpg" group-title="RADIO",CAPITAL 958
 https://22393.live.streamtheworld.com/CAPITAL958FMAAC_SC
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/LOVE972Radio.jpg" group-title="RADIO",LOVE 972
+https://28393.live.streamtheworld.com/LOVE972FM_PREM_SC?dist=MPL&pname=TDSdk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/YES933Radio.jpg" group-title="RADIO",YES 933
+https://22403.live.streamtheworld.com/YES933_PREM_SC?dist=MPL&pname=TDSdk
