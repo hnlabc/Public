@@ -11,16 +11,16 @@ https://tunein.cdnstream1.com/3519_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.sk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCRadio.png" group-title="RADIO",BBC World Service
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNA938Radio.png" group-title="RADIO",CNA 938
-https://22893.live.streamtheworld.com/938NOW_PREM.aac?dist=MPL&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=3f364ec3-5563-46f2-9661-bb054445f350
+https://22893.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GOLD905Radio.jpg" group-title="RADIO",GOLD 905
-https://22903.live.streamtheworld.com/GOLD905_PREM.aac?dist=MPL&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=d815ecbf-dd63-493c-97af-7ad7f9f7d1c4
+https://22903.live.streamtheworld.com/GOLD905_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CLASS95Radio.jpg" group-title="RADIO",CLASS 95
-https://28383.live.streamtheworld.com/CLASS95_PREM.aac?dist=MPL&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=35fc2ca9-fad5-4bc7-a767-66cfac889628
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Mediacorp987Radio.jpg" group-title="RADIO",MEDIACorp 987
-https://22903.live.streamtheworld.com/987FM_PREM.aac?dist=MPL&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=7ae3b7d8-4589-4e28-e5cc-90f160d095da
+https://28383.live.streamtheworld.com/CLASS95_PREM.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Mediacorp987Radio.jpg" group-title="RADIO",MEDIACORP 987
+https://22903.live.streamtheworld.com/987FM_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CAPITAL958Radio.jpg" group-title="RADIO",CAPITAL 958
-https://28443.live.streamtheworld.com/CAPITAL958FM_PREM.aac?dist=MPL&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=57d3f6d0-ff2a-490b-cddd-039398ed9b37
+https://28443.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/LOVE972Radio.jpg" group-title="RADIO",LOVE 972
-https://22403.live.streamtheworld.com/LOVE972FM_PREM.aac?dist=MPL&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=32c57da5-2165-45e5-8510-d72ec54010db
+https://22403.live.streamtheworld.com/LOVE972FM_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/YES933Radio.jpg" group-title="RADIO",YES 933
-https://28373.live.streamtheworld.com/YES933_PREM.aac?dist=MPL&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=02caa82e-0376-4bdb-fb97-c25994e6fe02
+https://28373.live.streamtheworld.com/YES933_PREM.aac
