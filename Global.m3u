@@ -135,7 +135,7 @@ https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.sk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNIRadio.png" group-title="RADIO",CNN International(radio)
 https://tunein.cdnstream1.com/3519_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709084735&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s292162&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3125&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCRadio.png" group-title="RADIO",BBC World Service(radio)
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNA938Radio.png" group-title="RADIO",CNA 938(radio)
 https://19183.live.streamtheworld.com/938NOWAAC_SC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GOLD905Radio.jpg" group-title="RADIO",GOLD 905(radio)
