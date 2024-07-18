@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,streamtheworld.com
 
 DOMAIN-SUFFIX,osakatokyo.com
 
+DOMAIN-SUFFIX,v2.thetvapp.to
+
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
@@ -22,3 +24,5 @@ DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,yangshipin.cn
 IP-CIDR,183.206.0.0/15
 IP-CIDR,223.5.5.5/32
+
+
