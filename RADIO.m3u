@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English
 https://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English(eudic)
+http://stream.eudic.net/en_cgtn_real.webm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNRadio1.png" group-title="RADIO",CGTN(eudic)
 http://stream.eudic.net/en_cgtn_real.webm?agent=%2feusoft_ting_en_desktop%2f9.7.4%2f00%3a15%3a5D%3a24%3aEF%3aF7%2feico%2f%2f&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJkaTlhcEhmZWUrdU9yVFEyUEtMSjdCVmg2Ulk9IiwidCI6IkFCSU1UYzBNRGs1TkRZME1RPT0ifQ%3d%3d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNRadio.png" group-title="RADIO",CNN USA
