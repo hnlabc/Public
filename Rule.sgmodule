@@ -1,4 +1,5 @@
 #!name=Rule
+#!desc=The Module for Gather Rule.
 
 [Rule]
 
