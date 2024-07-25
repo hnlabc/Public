@@ -43,7 +43,3 @@ DOMAIN-SUFFIX,googlevideo.com,PROXY
 DOMAIN-SUFFIX,youtube.com,PROXY
 DOMAIN-SUFFIX,mytvsuper.com,PROXY
 
-Header Rewrite]
-^http://.*?\.baidupcs\.com/file/.*$ header-replace User-Agent "pan.baidu.com"
-[MITM]
-hostname = %APPEND% baidupcs.com/file
