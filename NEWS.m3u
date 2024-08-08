@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,http://asia.vampirehk.eu.org/mytv.xml,https://epg.112114.xyz/pp.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,http://asia.vampirehk.eu.org/mytv.xml,http://epg.51zmt.top:8000/e.xml.gz"
 
 #EXTINF:-1 tvg-id="I123.104529.schedulesdirect.org" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNNews.png" group-title="NEWS",CGTN English(hd)
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/6/224/3221228095/index.m3u8
