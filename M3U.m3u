@@ -34,11 +34,6 @@ http://223.110.240.208:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="ABC",浙江卫视_fhd8m(jsyd)
 http://223.110.240.208:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ.m3u8
 
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/凤凰卫视中文频道.png" group-title="ABC",凤凰中文(zj)
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/凤凰卫视资讯.png" group-title="ABC",凤凰资讯(zj)
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="ABC",CCTV-1 综合(rtsp)
 rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv1_CR
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="ABC",CCTV-2 财经(rtsp)
