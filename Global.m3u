@@ -87,8 +87,8 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?
 
 #EXTINF:-1 tvg-id="I200.58646.zap2it.com" tvg-name="CNN USA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNN-logo.png" group-title="NEWS",CNN USA(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/899748806?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="I285.17664.schedulesdirect.org" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International(ss)
-https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTINF:-1 tvg-id="I285.17664.schedulesdirect.org" tvg-name="CNN International" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNInternational.png" group-title="NEWS",CNN International(ccf2)
+http://ccfasiatv.075661.xyz:13270/stream/channelid/100274824?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="I510.89542.zap2it.com" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS.png" group-title="NEWS",BBC News(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/1963530321?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="I298.46163.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="NEWS",FOX Now(hd)(ccf1)
