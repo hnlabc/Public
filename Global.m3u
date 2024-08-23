@@ -128,34 +128,38 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English
 https://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English(eudic)
+http://stream.eudic.net/en_cgtn.webm?agent=%2feusoft_ting_en_desktop%2f9.7.4%2f00%3a15%3a5D%3a24%3aEF%3aF7%2feico%2f%2f&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJmbkFLcUVHYm5OTDdWQkdIMlh6TXNrZzdzODg9IiwidCI6IkFCSU1UYzBNVFl3TURNM01BPT0ifQ%3d%3d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CRIEasyFM.png" group-title="RADIO",CRI EasyFM
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CRIHitFM.png" group-title="RADIO",CRI HitFM
+https://sk.cri.cn/887.m3u8
+http://stream.eudic.net/en_cgtn.webm?agent=%2feusoft_ting_en_desktop%2f9.7.4%2f00%3a15%3a5D%3a24%3aEF%3aF7%2feico%2f%2f&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJmbkFLcUVHYm5OTDdWQkdIMlh6TXNrZzdzODg9IiwidCI6IkFCSU1UYzBNVFl3TURNM01BPT0ifQ%3d%3d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNRadio1.png" group-title="RADIO",CGTN(eudic)
 http://stream.eudic.net/en_cgtn_real.webm?agent=%2feusoft_ting_en_desktop%2f9.7.4%2f00%3a15%3a5D%3a24%3aEF%3aF7%2feico%2f%2f&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJkaTlhcEhmZWUrdU9yVFEyUEtMSjdCVmg2Ulk9IiwidCI6IkFCSU1UYzBNRGs1TkRZME1RPT0ifQ%3d%3d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNRadio.png" group-title="RADIO",CNN USA
 https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709340709&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20407&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNIRadio.png" group-title="RADIO",CNN International
 https://tunein.cdnstream1.com/3519_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709084735&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s292162&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3125&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNNIRadio.png" group-title="RADIO",CNN International(eudic)
-http://stream.eudic.net/en_cnn.webm?agent=%2feusoft_ting_en_desktop%2f9.7.4%2f00%3a15%3a5D%3a24%3aEF%3aF7%2feico%2f%2f&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJ5Mm5tZEJFc1p5Qmk2TFh3OU54VHdUaFpFU289IiwidCI6IkFCSU1UYzBNRGs1TkRJNE13PT0ifQ%3d%3d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCRadio.png" group-title="RADIO",BBC World Service(eudic)
-http://stream.eudic.net/en_bbcws.webm?agent=%2feusoft_ting_en_desktop%2f9.7.4%2f00%3a15%3a5D%3a24%3aEF%3aF7%2feico%2f%2f&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJmdGE1Si9wbnk4UW9iSU9YMkhZRXBLaW5ONE09IiwidCI6IkFCSU1UYzBNRGs1TXpnNU53PT0ifQ%3d%3d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCRadio.png" group-title="RADIO",BBC World Service(proxy)
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABCRADIO.png" group-title="RADIO",ABC Australia(eudic)
 http://stream.eudic.net/en_abc.webm?agent=%2feusoft_ting_en_desktop%2f9.7.4%2f00%3a15%3a5D%3a24%3aEF%3aF7%2feico%2f%2f&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJNbEVMMzFmME5wMjdiVjYzbXZka1ZZR2lXeDA9IiwidCI6IkFCSU1UYzBNRGs1TkRReU5RPT0ifQ%3d%3d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNA938Radio.png" group-title="RADIO",CNA 938
-https://22893.live.streamtheworld.com/938NOW_PREM.aac
+https://28393.live.streamtheworld.com/938NOWAAC_SC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GOLD905Radio.jpg" group-title="RADIO",GOLD 905
-https://22903.live.streamtheworld.com/GOLD905_PREM.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CLASS95Radio.jpg" group-title="RADIO",CLASS 95
-https://22403.live.streamtheworld.com/CLASS95AAC.aac
+https://28393.live.streamtheworld.com/GOLD905AAC_SC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CLASS95Radio.jpg" group-title="RADIO",CLASS 95(Proxy)
+https://28333.live.streamtheworld.com/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Mediacorp987Radio.jpg" group-title="RADIO",MEDIACORP 987
-https://22903.live.streamtheworld.com/987FM_PREM.aac
+https://28333.live.streamtheworld.com/987FM_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CAPITAL958Radio.jpg" group-title="RADIO",CAPITAL 958
-https://28443.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+https://28323.live.streamtheworld.com/CAPITAL958FMAAC_SC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/LOVE972Radio.jpg" group-title="RADIO",LOVE 972
-https://22403.live.streamtheworld.com/LOVE972FM_PREM.aac
+https://28333.live.streamtheworld.com/LOVE972FM_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/YES933Radio.jpg" group-title="RADIO",YES 933
-https://22403.live.streamtheworld.com/YES933AAC.aac
+https://28373.live.streamtheworld.com/YES933_PREM_SC?dist=MPL&pname=TDSdk&ttag=meid_seg%253As1672
+
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="ABC",CCTV1_4k20m (jsyd)
 http://223.110.240.208:6610/gitv/live1/G_CCTV-1-AVS-4K264/G_CCTV-1-AVS-4K264/index.m3u8
