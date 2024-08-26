@@ -91,12 +91,12 @@ http://ccfasiatv.075661.xyz:13270/stream/channelid/899748806?auth=PO76qU40fPew2V
 http://ccfasiatv.075661.xyz:13270/stream/channelid/100274824?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
 #EXTINF:-1 tvg-id="I510.89542.zap2it.com" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBCNEWS.png" group-title="NEWS",BBC News(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/1963530321?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
-#EXTINF:-1 tvg-id="I298.46163.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="NEWS",FOX Now(hd)(ccf1)
-http://1videobrm4.vampirehk.eu.org:31486/drm/FoxNews
+#EXTINF:-1 tvg-id="I298.46163.schedulesdirect.org" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/FoxNews.png" group-title="NEWS",Fox News(hd)(ccf1)
+http://1videobrm4.vampirehk.eu.org:31486/drm/Fox News Channel
 #EXTINF:-1 tvg-id="I1007.20456.zap2it.com" tvg-name="ABC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/ABC_NEWS.png" group-title="NEWS",ABC News(hd)(ccf1)
-http://1videobrm4.vampirehk.eu.org:31486/drm/ABC-WLS
+http://1videobrm4.vampirehk.eu.org:31486/drm/ABC New Bedford
 #EXTINF:-1 tvg-id="I353.14755.zap2it.com" tvg-name="Bloomberg" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/Bloomberg TV.png" group-title="NEWS",Bloomberg(ccf1)
-http://1videobrm4.vampirehk.eu.org:31486/drm/Bloomberg
+http://1videobrm4.vampirehk.eu.org:31486/drm/Bloomberg TV HD
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CNA.png" group-title="NEWS",CNA(ccf2)
 http://ccfasiatv.075661.xyz:13270/stream/channelid/51964364?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
