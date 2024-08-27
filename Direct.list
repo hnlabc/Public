@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,cloudfront.net
 
 DOMAIN-SUFFIX,thetvapp.to
 
+IP-CIDR,38.148.249.154
+
 DOMAIN-SUFFIX,livenewsof.com
 DOMAIN-SUFFIX,livenewsmag.com
 DOMAIN-SUFFIX,usnlive.com
