@@ -130,7 +130,8 @@ https://28333.live.streamtheworld.com/LOVE972FM_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/YES933Radio.jpg" group-title="RADIO",YES 933
 https://28373.live.streamtheworld.com/YES933_PREM_SC?dist=MPL&pname=TDSdk&ttag=meid_seg%253As1672
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ABC",4K ASTRO Sports(测试)
+http://live1.ccf0755.eu.org:25102/astrosupersportuhd.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="ABC",CCTV1_4k20m (jsyd)
 http://223.110.240.208:6610/gitv/live1/G_CCTV-1-AVS-4K264/G_CCTV-1-AVS-4K264/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="ABC",CCTV3_4k20m (jsyd)
