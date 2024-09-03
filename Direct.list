@@ -4,13 +4,12 @@ DOMAIN-SUFFIX,turnerlive.warnermediacdn.com
 DOMAIN-SUFFIX,cnn-cnninternational-1-eu.rakuten.wurl.tv
 DOMAIN-SUFFIX,cloudfront.net
 
-DOMAIN-SUFFIX,thetvapp.to
-
 IP-CIDR,38.148.249.154/24
 IP-CIDR,47.84.87.22/24
 IP-CIDR,140.245.120.106/24
 IP-CIDR,138.2.224.214/24
 IP-CIDR,138.2.111.230/24
+IP-CIDR,35.212.255.48/24
 
 DOMAIN-SUFFIX,oracle.com
 
