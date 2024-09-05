@@ -47,5 +47,6 @@ DOMAIN-SUFFIX,ofiii.com,PROXY
 DOMAIN-SUFFIX,googlevideo.com,PROXY
 DOMAIN-SUFFIX,youtube.com,PROXY
 DOMAIN-SUFFIX,mytvsuper.com,PROXY
+DOMAIN-SUFFIX,cdn.hinet.net,PROXY
 
 
