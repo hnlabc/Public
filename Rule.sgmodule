@@ -47,6 +47,5 @@ DOMAIN-SUFFIX,youtube.com,PROXY
 DOMAIN-SUFFIX,mytvsuper.com,PROXY
 DOMAIN-SUFFIX,cdn.hinet.net,PROXY
 
-DOMAIN-KEYWORD,api.revenuecat.com,REJECT
 
 
