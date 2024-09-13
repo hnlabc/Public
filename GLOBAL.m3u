@@ -118,8 +118,6 @@ https://28333.live.streamtheworld.com/LOVE972FM_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/YES933Radio.jpg" group-title="RADIO",YES 933
 https://28373.live.streamtheworld.com/YES933_PREM_SC?dist=MPL&pname=TDSdk&ttag=meid_seg%253As1672
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ABC",零时-美国总统辩论-2nd-ABC News-YT
-http://38.148.249.154:6616/youtube/bUVh2UjEKFY
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="ABC",CCTV1_4k20m (jsyd)
 http://223.110.240.208:6610/gitv/live1/G_CCTV-1-AVS-4K264/G_CCTV-1-AVS-4K264/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="ABC",CCTV3_4k20m (jsyd)
@@ -154,8 +152,6 @@ http://223.110.240.208:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="ABC",浙江卫视_fhd8m(jsyd)
 http://223.110.240.208:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ.m3u8
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="ABC",CCTV-1 综合(rtsp)
-rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv1_CR
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="ABC",CCTV-2 财经(rtsp)
 rtsp://[2409:8087:2001:20:2800:0:df6e:eb1a]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv2_CR
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="ABC",CCTV-3 综艺(rtsp)
