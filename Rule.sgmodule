@@ -37,15 +37,15 @@ DOMAIN-SUFFIX,yangshipin.cn,DIRECT
 IP-CIDR,183.206.0.0/15,DIRECT
 IP-CIDR,223.5.5.5/32,DIRECT
 
-DOMAIN-SUFFIX,livednow.com,PROXY
-DOMAIN-SUFFIX,orz-7.com,PROXY
-DOMAIN-SUFFIX,4gtv.tv,PROXY
-DOMAIN-SUFFIX,hinet.net,PROXY
-DOMAIN-SUFFIX,ofiii.com,PROXY
-DOMAIN-SUFFIX,googlevideo.com,PROXY
-DOMAIN-SUFFIX,youtube.com,PROXY
-DOMAIN-SUFFIX,mytvsuper.com,PROXY
-DOMAIN-SUFFIX,cdn.hinet.net,PROXY
+DOMAIN,livednow.com,PROXY
+DOMAIN,orz-7.com,PROXY
+DOMAIN,4gtv.tv,PROXY
+DOMAIN,hinet.net,PROXY
+DOMAIN,ofiii.com,PROXY
+DOMAIN,googlevideo.com,PROXY
+DOMAIN,youtube.com,PROXY
+DOMAIN,mytvsuper.com,PROXY
+DOMAIN,cdn.hinet.net,PROXY
 
 
 
