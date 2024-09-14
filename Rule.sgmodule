@@ -45,6 +45,10 @@ DOMAIN-SUFFIX,googletagservices,REJECT
 DOMAIN-SUFFIX,smadex,REJECT
 DOMAIN-SUFFIX,doubleclick,REJECT
 DOMAIN-SUFFIX,googleads,REJECT
+HOST,googleads.g.doubleclick-cn.net,REJECT
+
+DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net,REJECT
+DOMAIN-SUFFIX,doubleclick,REJECT
 
 IP-CIDR,38.148.249.154/24,DIRECT,no-resolve
 IP-CIDR,47.84.87.22/24,DIRECT,no-resolve
