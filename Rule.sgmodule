@@ -3,11 +3,8 @@
 
 [Rule]
 
-DOMAIN-SUFFIX,ccfasiatv.075661.xyz,DIRECT
-
 DOMAIN-SUFFIX,turnerlive.warnermediacdn.com,DIRECT
 DOMAIN-SUFFIX,cnn-cnninternational-1-eu.rakuten.wurl.tv,DIRECT
-DOMAIN-SUFFIX,cloudfront.net,DIRECT
 
 DOMAIN-SUFFIX,oracle.com,DIRECT
 
