@@ -2,9 +2,6 @@
 DOMAIN-SUFFIX,turnerlive.warnermediacdn.com
 DOMAIN-SUFFIX,cnn-cnninternational-1-eu.rakuten.wurl.tv
 
-IP-CIDR,138.2.111.230/24
-IP-CIDR,35.212.208.66/24
-
 DOMAIN-SUFFIX,oracle.com
 
 DOMAIN-SUFFIX,livenewsof.com
