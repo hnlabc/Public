@@ -33,24 +33,4 @@ https://28333.live.streamtheworld.com/LOVE972FM_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/YES933Radio.jpg" group-title="RADIO",YES 933
 https://28373.live.streamtheworld.com/YES933_PREM_SC?dist=MPL&pname=TDSdk&ttag=meid_seg%253As1672
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/320x320/p0h8pkcs.jpg" group-title="RADIO",BBC Live News(proxy-uk)
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/bbc_sounds_news.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/320x320/p037zgt6.jpg" group-title="RADIO",BBC World Service(proxy-uk)
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/bbc_world_service.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/BBC_Asian_Network_2022.png" group-title="RADIO",BBC Asian Network(proxy-uk)
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/aks/bbc_asian_network.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/BBC_Radio_1_2021.svg" group-title="RADIO",BBC Radio1(proxy-uk)
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/bbc_radio_one.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BBC_Radio_2_2022.png" group-title="RADIO",BBC Radio2(proxy-uk)
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/bbc_radio_two.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BBC_Radio_3_2022.png" group-title="RADIO",BBC Radio3(proxy-uk)
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/bbc_radio_three.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/BBC_Radio_4_2022.png" group-title="RADIO",BBC Radio4(proxy-uk)
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/bbc_radio_fourfm.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/BBC_Radio_5_Live_2022.png" group-title="RADIO",BBC Radio5 Live(proxy-uk)
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/bbc_radio_five_live.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/BBC_Radio_6_Music_2022.png" group-title="RADIO",BBC Radio6 Music(proxy-uk)
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/aks/bbc_6music.mpd
 
