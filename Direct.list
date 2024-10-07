@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,akamaized.net
 
 DOMAIN-SUFFIX,osakatokyo.com
 
-DOMAIN-SUFFIX,ottdns.com
+DOMAIN-SUFFIX,*.ottdns.com
 
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
