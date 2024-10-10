@@ -37,8 +37,6 @@ DOMAIN-SUFFIX,cdn.hinet.net,Proxies
 IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
 IP-CIDR,223.5.5.5/32,DIRECT,no-resolve
 
-[Rule]
-DOMAIN-SUFFIX,lewblivehdplay.ru,PROXY
 
 [HTTP Rewrite]
 ^http://.*lewblivehdplay.ru/.* header-replace Referer https://lewblivehdplay.ru/
