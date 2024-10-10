@@ -9,8 +9,6 @@ DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,livednow.org
 
-[Rule]
-DOMAIN-SUFFIX,lewblivehdplay.ru,PROXY
 
 [HTTP Rewrite]
 ^http://.*lewblivehdplay.ru/.* header-replace Referer https://lewblivehdplay.ru/
