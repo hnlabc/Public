@@ -61,7 +61,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/6/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/6/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视香港" tvg-name="凤凰卫视香港" tvg-logo="https://assets.livednow.com/logo/凤凰卫视香港.png" group-title="LOCAL",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/6/224/3221228530/index.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.pngg" group-title="LOCAL",江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="LOCAL",江苏卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/6/224/3221227552/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://assets.livednow.com/logo/东方卫视.png" group-title="LOCAL",东方卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/6/224/3221227511/index.m3u8
