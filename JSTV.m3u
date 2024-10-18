@@ -14,8 +14,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="JSTV-4K",音乐台4K
 http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="JSTV-4K",未知电影台4K
-http://ott.mobaibox.com/PLTV/4/224/3221228615/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="JSTV-4K",CCTV8K
 http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="JSTV-4K",CCTV16-4K
