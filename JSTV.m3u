@@ -275,20 +275,22 @@ http://ott.mobaibox.com/PLTV/4/224/3221227655/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227637/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV12
 http://ott.mobaibox.com/PLTV/4/224/3221225556/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV13
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV13
 http://ott.mobaibox.com/PLTV/4/224/3221228660/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV13
 http://ott.mobaibox.com/PLTV/4/224/3221228649/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV13
 http://ott.mobaibox.com/PLTV/4/224/3221228324/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV13
 http://ott.mobaibox.com/PLTV/4/224/3221228224/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV13
 http://ott.mobaibox.com/PLTV/4/224/3221228121/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV13
 http://ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV13
 http://ott.mobaibox.com/PLTV/4/224/3221225560/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV14
 http://ott.mobaibox.com/PLTV/4/224/3221228633/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV14
