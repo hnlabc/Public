@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="JSTV-4K",CCTV1-4K
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="JSTV-4K",CCTV1-4K
