@@ -241,13 +241,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/32212282
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="BBC-News" tvg-name="BBC News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="SSTV",BBC News
 https://jmp2.uk/sam-US4000033L.m3u8
-#EXTINF:-1 tvg-id="DW" tvg-name="DW 德國之聲" tvg-logo="https://assets.livednow.com/logo/DW.png" group-title="SSTV",DW English
+#EXTINF:-1 tvg-id="DW" tvg-name="DW 德國之聲" tvg-logo="https://assets.livednow.com/logo/DW.png" group-title="SSTV",DW News
 https://jmp2.uk/sam-GB1300001RX.m3u8
 #EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="SSTV",FRANCE24 
 https://jmp2.uk/sam-GBBD1100002L5.m3u8
-#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX NEWS" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="SSTV",LiveNOW from FOX
+#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX NEWS" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="SSTV",LiveNOW FOX
 https://jmp2.uk/sam-USBA300024TN.m3u8
-#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="SSTV",Bloomberg TV+ UHD
+#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="SSTV",BloombergTV4K
 https://jmp2.uk/sam-USAJ3400011A8.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="ABC",CCTV1_4k20m (jsyd)
