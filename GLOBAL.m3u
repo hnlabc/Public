@@ -248,17 +248,17 @@ https://jmp2.uk/sam-USBA300024TN.m3u8
 #EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="SSTV",BloombergTV4K
 https://jmp2.uk/sam-USAJ3400011A8.m3u8
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="ABC",CCTV1_4k20m (jsyd)
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="ABC",CCTV1_4k20m(jsyd)
 http://223.110.240.208:6610/gitv/live1/G_CCTV-1-AVS-4K264/G_CCTV-1-AVS-4K264/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="ABC",CCTV3_4k20m (jsyd)
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="ABC",CCTV3_4k20m(jsyd)
 http://223.110.240.208:6610/gitv/live1/G_CCTV-3-AVS-4K264/G_CCTV-3-AVS-4K264/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="ABC",CCTV5_4k20m (jsyd)
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="ABC",CCTV5_4k20m(jsyd)
 http://223.110.240.208:6610/gitv/live1/G_CCTV-5-AVS-4K264/G_CCTV-5-AVS-4K264/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="ABC",CCTV-5+fhd8m(jsyd)
 http://223.110.240.208:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="ABC",CCTV6_fhd20m (jsyd)
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="ABC",CCTV6_fhd20m(jsyd)
 http://223.110.240.208:6610/gitv/live1/G_CCTV-6-AVS-4K264/G_CCTV-6-AVS-4K264/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="ABC",CCTV8_fhd20m (jsyd)
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="ABC",CCTV8_fhd20m(jsyd)
 http://223.110.240.208:6610/gitv/live1/G_CCTV-8-AVS-4K264/G_CCTV-8-AVS-4K264/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="ABC",CCTV-13_fhd8m(jsyd)
 http://223.110.240.208:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
@@ -305,9 +305,9 @@ rtsp://[2409:8087:2001:20:2800:0:df6e:eb22]:554/ott.mobaibox.com/000000400000001
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BJTV.png" group-title="ABC",北京卫视(rtsp)
 rtsp://[2409:8087:2001:20:2800:0:df6e:eb12]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_beijingstv_CR
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN.png" group-title="ABC",CNN USA(hd)(org)
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN.png" group-title="ABC",CNN USA(hd)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://assets.livednow.com/logo/CNN-國際新聞台.png" group-title="ABC",CNNi(hd)(org)
+#EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://assets.livednow.com/logo/CNN-國際新聞台.png" group-title="ABC",CNNi(hd)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="SPORT",咪咕直播4K Ⅰ「移动」
