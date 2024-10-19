@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4KHD",CCTV-1 综合4K
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1高清臻享" tvg-name="CCTV 1高清臻享" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4KHD",CCTV-1 臻享4K
-http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="4KHD",CCTV-3 综艺4K
 http://ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="4KHD",CCTV-5 体育4K
@@ -28,6 +26,8 @@ http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
 #EXTINF:-1 tvg-id="江苏4K修复" tvg-name="江苏4K修复" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/4K修复.png" group-title="4KHD",4K修复 HEVC
 http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-id="CCTV高清臻享" tvg-name="CCTV 高清臻享" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4KHD",CCTV 臻享4K
+http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNNews.png" group-title="CCTV",CGTN 英语(hd)
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/6/224/3221228095/index.m3u8
@@ -126,7 +126,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/32212286
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-name="CCTV 怀旧剧场" tvg-logo="https://assets.livednow.com/logo/CCTV-怀旧剧场.png" group-title="CCTV", CCTV 怀旧剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-央视文化精品" tvg-name="CCTV 央视文化精品" tvg-logo="https://assets.livednow.com/logo/CCTV-央视文化精品.png" group-title="CCTV", CCTV 央视文化精品
+#EXTINF:-1 tvg-id="CCTV-央视文化精品" tvg-name="CCTV 央视文化精品" tvg-logo="https://assets.livednow.com/logo/CCTV-央视文化精品.png" group-title="CCTV", CCTV 文化精品
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/6/224/3221228677/index.m3u8
 #EXTINF:-1 tvg-id="CETV-早期教育" tvg-name="CETV 早期教育" tvg-logo="https://assets.livednow.com/logo/CETV-早期教育.png" group-title="CCTV", CETV 早期教育
 http://ott.mobaibox.com/PLTV/4/224/3221228692/index.m3u8
