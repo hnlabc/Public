@@ -239,7 +239,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/32212282
 
 #EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://assets.livednow.com/logo/CNN-國際新聞台.png" group-title="SSTV",CNNi
 https://jmp2.uk/sam-GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="BBC-News" tvg-name="BBC News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="SSTV",BBC News
+#EXTINF:-1 tvg-id="BBC-World-News" tvg-name="BBC World News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="SSTV",BBC News
 https://jmp2.uk/sam-US4000033L.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-name="DW 德國之聲" tvg-logo="https://assets.livednow.com/logo/DW.png" group-title="SSTV",DW News
 https://jmp2.uk/sam-GB1300001RX.m3u8
