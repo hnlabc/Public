@@ -14,9 +14,9 @@ http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K",CCTV-16 奥林匹克4K
 http://ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
 
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://assets.livednow.com/logo/睛彩竞技.png" group-title="4K",睛彩竞技4K
+#EXTINF:-1 tvg-id="高清臻享睛彩竞技" tvg-name="高清臻享睛彩竞技" tvg-logo="https://assets.livednow.com/logo/睛彩竞技.png" group-title="4K",睛彩竞技4K
 http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://assets.livednow.com/logo/睛彩篮球.png" group-title="4K",睛彩篮球4K
+#EXTINF:-1 tvg-id="高清臻享睛彩篮球" tvg-name="高清臻享睛彩篮球" tvg-logo="https://assets.livednow.com/logo/睛彩篮球.png" group-title="4K",睛彩篮球4K
 http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",音乐台4K
 http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
@@ -230,6 +230,17 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/32212281
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="LOCAL",咪咕视频4
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
+
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://assets.livednow.com/logo/睛彩竞技.png" group-title="LOCAL", 睛彩竞技
+http://ott.mobaibox.com/PLTV/4/224/3221228206/index.m3u8
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://assets.livednow.com/logo/睛彩篮球.png" group-title="LOCAL", 睛彩篮球
+http://ott.mobaibox.com/PLTV/4/224/3221228129/index.m3u8
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://assets.livednow.com/logo/睛彩青少.png" group-title="LOCAL", 睛彩青少
+http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://assets.livednow.com/logo/黑莓电影.png" group-title="LOCAL", 黑莓电影
+http://ott.mobaibox.com/PLTV/4/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-id="NewTV-黑莓动画" tvg-name="NewTV 黑莓动画" tvg-logo="https://assets.livednow.com/logo/NewTV-黑莓动画.png" group-title="LOCAL",黑莓动画
+http://ott.mobaibox.com/PLTV/4/224/3221225555/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTN_Radio.png" group-title="RADIO",CRI English
 https://sk.cri.cn/am846.m3u8
