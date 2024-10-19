@@ -26,12 +26,12 @@ http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
 #EXTINF:-1 tvg-id="江苏4K修复" tvg-name="江苏4K修复" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/4K修复.png" group-title="4KHD",4K修复 HEVC
 http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高清臻享" tvg-name="CCTV 高清臻享" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4KHD",CCTV 臻享4K
+#EXTINF:-1 tvg-id="CCTV高清臻享" tvg-name="CCTV 高清臻享" tvg-logo="" group-title="4KHD",CCTV 臻享4K
 http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
 
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNNews.png" group-title="CCTV",CGTN 英语(hd)
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="CCTV",CGTN 英语(hd)
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/6/224/3221228095/index.m3u8
-#EXTINF:-1 tvg-id="CGTN-纪录" tvg-name="CGTN 纪录" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNDoc.png" group-title="CCTV",CGTN 纪录(hd)
+#EXTINF:-1 tvg-id="CGTN-纪录" tvg-name="CGTN 纪录" tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="CCTV",CGTN 纪录(hd)
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/6/224/3221227574/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV-1 综合 HEVC
 http://ott.mobaibox.com/PLTV/4/224/3221228213/index.m3u8
