@@ -33,12 +33,10 @@ http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
 http://gslbserv.itv.cmvideo.cn:80/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="CCTV",CGTN 英语(hd)
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/6/224/3221228095/index.m3u8
-
 #EXTINF:-1 tvg-id="CGTN-纪录" tvg-name="CGTN 纪录" tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="CCTV",CGTN 纪录(pix)
 http://gslbserv.itv.cmvideo.cn:80/7114647837765104058/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CGTN-纪录" tvg-name="CGTN 纪录" tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="CCTV",CGTN 纪录(hd)
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/6/224/3221227574/index.m3u8
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV-1 综合 HEVC
 http://ott.mobaibox.com/PLTV/4/224/3221228213/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV-1 综合4K
@@ -214,9 +212,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/6/224/32212275
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://assets.livednow.com/logo/新疆卫视.png" group-title="LOCAL",新疆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 
-#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://assets.livednow.com/logo/上海纪实人文.png" group-title="LOCAL",上海纪实人文
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://assets.livednow.com/logo/上海纪实人文.png" group-title="LOCAL",纪实人文
 http://ott.mobaibox.com/PLTV/4/224/3221227674/index.m3u8
-#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://assets.livednow.com/logo/北京纪实科教.png" group-title="LOCAL",北京纪实科教
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://assets.livednow.com/logo/北京纪实科教.png" group-title="LOCAL",纪实科教
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://assets.livednow.com/logo/睛彩竞技.png" group-title="LOCAL",睛彩竞技
@@ -239,9 +237,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/32212282
 
 #EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://assets.livednow.com/logo/CNN-國際新聞台.png" group-title="SSTV",CNNi
 https://jmp2.uk/sam-GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="BBC-World-News" tvg-name="BBC World News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="SSTV",BBC News
+#EXTINF:-1 tvg-id="BBC-World-News" tvg-name="BBC World News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="SSTV",BBC NEWS
 https://jmp2.uk/sam-US4000033L.m3u8
-#EXTINF:-1 tvg-id="DW" tvg-name="DW 德國之聲" tvg-logo="https://assets.livednow.com/logo/DW.png" group-title="SSTV",DW News
+#EXTINF:-1 tvg-id="DW" tvg-name="DW 德國之聲" tvg-logo="https://assets.livednow.com/logo/DW.png" group-title="SSTV",DW NEWS
 https://jmp2.uk/sam-GB1300001RX.m3u8
 #EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="SSTV",FRANCE24 
 https://jmp2.uk/sam-GBBD1100002L5.m3u8
@@ -309,7 +307,7 @@ rtsp://[2409:8087:2001:20:2800:0:df6e:eb12]:554/ott.mobaibox.com/000000400000001
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN.png" group-title="ABC",CNN USA(hd)(org)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://assets.livednow.com/logo/CNN-國際新聞台.png" group-title="ABC",CNN International(hd)(org)
+#EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://assets.livednow.com/logo/CNN-國際新聞台.png" group-title="ABC",CNNi(hd)(org)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="SPORT",咪咕直播4K Ⅰ「移动」
