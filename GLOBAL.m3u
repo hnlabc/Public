@@ -12,7 +12,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
 #EXTINF:-1 tvg-id="高清臻享睛彩篮球" tvg-name="高清臻享睛彩篮球" tvg-logo="https://assets.livednow.com/logo/睛彩篮球.png" group-title="4KHD",睛彩篮球4K
 http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/MTV_1981_logo_%28all_outlined_except_%22TV%22%29.svg/1920px-MTV_1981_logo_%28all_outlined_except_%22TV%22%29.svg.png" group-title="4KHD",音乐台4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MTV.png" group-title="4KHD",音乐台4K
 http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
 #EXTINF:-1 tvg-id="纯享-4K" tvg-name="纯享 4K" tvg-logo="https://assets.livednow.com/logo/纯享-4K.png" group-title="4KHD",4K纯享 HEVC
 http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
