@@ -23,15 +23,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV 8K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTV8K超高清1.png" group-title="4KHD",CCTV-8K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/6/224/3221228165/index.m3u8
 
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="CCTV",CGTN 英语(itv)
-http://gslbserv.itv.cmvideo.cn:80/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="CCTV",CGTN 英语(hd)
-http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/6/224/3221228095/index.m3u8
-#EXTINF:-1 tvg-id="CGTN-纪录" tvg-name="CGTN 纪录" tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="CCTV",CGTN 纪录(itv)
-http://gslbserv.itv.cmvideo.cn:80/7114647837765104058/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="CGTN-纪录" tvg-name="CGTN 纪录" tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="CCTV",CGTN 纪录(hd)
-http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/6/224/3221227574/index.m3u8
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV-1 综合4K
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/6/224/3221228581/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV",CCTV-2 财经 HEVC
@@ -68,6 +59,11 @@ http://ott.mobaibox.com/PLTV/4/224/3221227723/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/6/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV",CCTV-17 农业农村 HEVC
 http://ott.mobaibox.com/PLTV/4/224/3221227726/index.m3u8
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="CCTV",CGTN 英语(hd)
+http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/6/224/3221228095/index.m3u8
+#EXTINF:-1 tvg-id="CGTN-纪录" tvg-name="CGTN 纪录" tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="CCTV",CGTN 纪录(hd)
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/6/224/3221227574/index.m3u8
 
 #EXTINF:-1 tvg-id="CETV-早期教育" tvg-name="CETV 早期教育" tvg-logo="https://assets.livednow.com/logo/CETV-早期教育.png" group-title="CCTV",CETV 早期教育
 http://ott.mobaibox.com/PLTV/4/224/3221228692/index.m3u8
