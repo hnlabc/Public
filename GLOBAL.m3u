@@ -183,35 +183,34 @@ http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/32212282
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="BBC-World-News" tvg-name="BBC World News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="SSTV",BBC NEWS
 https://jmp2.uk/sam-US4000033L.m3u8
+#EXTINF:-1 tvg-id="ABC-News" tvg-name="ABC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/abc_news_live.png" group-title="SSTV",ABC NEWS
+https://jmp2.uk/sam-USBC39000171G.m3u8
+#EXTINF:-1 tvg-id="514.astro" tvg-name="Sky News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/sky_news.png" group-title="SSTV",SKY NEWS
+https://jmp2.uk/sam-USBB52000022Q.m3u8
 #EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="SSTV",FRANCE24 
 https://jmp2.uk/sam-GBBD1100002L5.m3u8
 #EXTINF:-1 tvg-id="LiveNOW-FOX" tvg-name="LiveNOW FOX" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/fox_news_now.png" group-title="SSTV",LiveNOW FOX
 https://jmp2.uk/sam-USBA300024TN.m3u8
+#EXTINF:-1  tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/euronews.png" group-title="SSTV",Euronews Live
+https://jmp2.uk/sam-GBAJ4900020VP.m3u8
 #EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="SSTV",BloombergTV4K
 https://jmp2.uk/sam-USAJ3400011A8.m3u8
 
-#EXTINF:-1  tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/euronews.png" group-title="SSTV",Euronews Live
-https://jmp2.uk/sam-GBAJ4900020VP.m3u8
 #EXTINF:-1  tvg-id="FOX-Sports" tvg-name="FOX Sports" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/fox_sports.png" group-title="SSTV",FOX Sports
 https://jmp2.uk/sam-US2700001QY.m3u8
 #EXTINF:-1  tvg-id="beIN-SPORTS-XTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/bein_sports_xtra.png" group-title="SSTV",beIN SPORTS XTRA
 https://jmp2.uk/sam-USAJ4300001Q7.m3u8
-#EXTINF:-1 tvg-id="ABC-News" tvg-name="ABC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/abc_news_live.png" group-title="SSTV",ABC News Live
-https://jmp2.uk/sam-USBC39000171G.m3u8
-#EXTINF:-1  tvg-id="NBC-News-NOW" tvg-name="NBC News NOW" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/nbc_news_now.png" group-title="SSTV",NBC News NOW
-https://jmp2.uk/sam-USBB2200014DK.m3u8
-#EXTINF:-1 tvg-id="514.astro" tvg-name="Sky News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/sky_news.png" group-title="SSTV",Sky News
-https://jmp2.uk/sam-USBB52000022Q.m3u8
+
+#EXTINF:-1  tvg-id="Love-Nature-4K" tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K.png" group-title="SSTV",Love Nature4K
+https://jmp2.uk/sam-USBA3400003IP.m3u8
+#EXTINF:-1  tvg-id="TED" tvg-name="TED" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TED.png" group-title="SSTV",TED(hd)
+https://jmp2.uk/sam-USBC2100013WI.m3u8
+#EXTINF:-1  tvg-id="554.astro" tvg-name="BBC Earth" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-title="SSTV",BBC Earth
+https://jmp2.uk/sam-USBD1700001RW.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBC-Home-Garden.png" group-title="SSTV",BBC Home & Garden
 https://jmp2.uk/sam-USBC600017FG.m3u8
 #EXTINF:-1  tvg-id="BBC-Food" tvg-name="BBC Food" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBC_Food.png" group-title="SSTV",BBC Food
 https://jmp2.uk/sam-USBC6000108Z.m3u8
-#EXTINF:-1  tvg-id="554.astro" tvg-name="BBC Earth" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-title="SSTV",BBC Earth
-https://jmp2.uk/sam-USBD1700001RW.m3u8
-#EXTINF:-1  tvg-id="Love-Nature-4K" tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K.png" group-title="SSTV",Love Nature 4K
-https://jmp2.uk/sam-USBA3400003IP.m3u8
-#EXTINF:-1  tvg-id="TED" tvg-name="TED" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/TED.png" group-title="SSTV",TED
-https://jmp2.uk/sam-USBC2100013WI.m3u8
 
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV 4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTV4K1.png" group-title="ABC",CCTV-4K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/6/224/3221228472/index.m3u8
