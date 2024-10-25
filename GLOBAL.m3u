@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml" 
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4KHD",CCTV-1 综合4K
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
@@ -182,14 +183,35 @@ http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/32212282
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="BBC-World-News" tvg-name="BBC World News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="SSTV",BBC NEWS
 https://jmp2.uk/sam-US4000033L.m3u8
-#EXTINF:-1 tvg-id="DW" tvg-name="DW 德國之聲" tvg-logo="https://assets.livednow.com/logo/DW.png" group-title="SSTV",DW NEWS
-https://jmp2.uk/sam-GB1300001RX.m3u8
 #EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="SSTV",FRANCE24 
 https://jmp2.uk/sam-GBBD1100002L5.m3u8
-#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX NEWS" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="SSTV",LiveNOW FOX
+#EXTINF:-1 tvg-id="LiveNOW-FOX" tvg-name="LiveNOW FOX" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/fox_news_now.png" group-title="SSTV",LiveNOW FOX
 https://jmp2.uk/sam-USBA300024TN.m3u8
 #EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="SSTV",BloombergTV4K
 https://jmp2.uk/sam-USAJ3400011A8.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="SSTV",Euronews Live
+https://jmp2.uk/sam-GBAJ4900020VP.m3u8
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="SSTV",FOX Sports
+https://jmp2.uk/sam-US2700001QY.m3u8
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="SSTV",beIN SPORTS XTRA
+https://jmp2.uk/sam-USAJ4300001Q7.m3u8
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="SSTV",ABC News Live
+https://jmp2.uk/sam-USBC39000171G.m3u8
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="SSTV",NBC News NOW
+https://jmp2.uk/sam-USBB2200014DK.m3u8
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="SSTV",Sky News
+https://jmp2.uk/sam-USBB52000022Q.m3u8
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="SSTV",BBC Home & Garden
+https://jmp2.uk/sam-USBC600017FG.m3u8
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="SSTV",BBC Food
+https://jmp2.uk/sam-USBC6000108Z.m3u8
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="SSTV",BBC Earth
+https://jmp2.uk/sam-USBD1700001RW.m3u8
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="SSTV",Love Nature 4K
+https://jmp2.uk/sam-USBA3400003IP.m3u8
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="SSTV",TED
+https://jmp2.uk/sam-USBC2100013WI.m3u8
 
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV 4K" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CCTV4K1.png" group-title="ABC",CCTV-4K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/6/224/3221228472/index.m3u8
