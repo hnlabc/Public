@@ -167,7 +167,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228206/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228129/index.m3u8
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://assets.livednow.com/logo/睛彩青少.png" group-title="LOCAL",睛彩青少
 http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/睛彩广场舞.png" group-title="LOCAL",睛彩广场舞
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="LOCAL",睛彩广场舞
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://assets.livednow.com/logo/黑莓电影.png" group-title="LOCAL",黑莓电影
 http://ott.mobaibox.com/PLTV/4/224/3221225567/index.m3u8
