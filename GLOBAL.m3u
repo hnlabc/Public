@@ -179,7 +179,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/32212282
 #EXTINF:-1 tvg-id="migu" tvg-name="" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="LOCAL",咪咕视频4
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
 
-#EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/cnn_int.png" group-title="SSTV",CNNi
+#EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/cnnint1.png" group-title="SSTV",CNNi
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="BBC-World-News" tvg-name="BBC World News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/bbc_world_news.png" group-title="SSTV",BBC NEWS
 https://jmp2.uk/sam-US4000033L.m3u8
