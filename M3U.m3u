@@ -1,1 +1,7 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+
 
