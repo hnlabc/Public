@@ -1,7 +1,21 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",RT NEWS
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",RT Doc
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",Macau Info
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",TED Conference
+https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",Ted Talks
+https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",ViuTV96
+http://60.246.171.122:8889/bysid/96
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",ViuTV99
+http://60.246.171.122:8889/bysid/99
