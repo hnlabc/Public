@@ -185,11 +185,6 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000063/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MG2.png" group-title="数字",咪咕体育4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",风尚音乐
-http://[2409:8087:5e08:24::11]:6610/000000001000/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",探索纪实
-http://[2409:8087:5e08:24::11]:6610/000000001000/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=3
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="数字",JJ斗地主赛事
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000015&IAS
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.iill.top/logo/中国天气.png" group-title="数字",中国天气
