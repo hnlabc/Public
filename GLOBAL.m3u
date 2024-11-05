@@ -103,7 +103,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
 #EXTINF:-1 tvg-id="高清臻享睛彩篮球" tvg-name="高清臻享睛彩篮球" tvg-logo="https://assets.livednow.com/logo/睛彩篮球.png" group-title="CCTV+",睛彩篮球4K
 http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/咪咕音乐.png" group-title="CCTV+",咪咕音乐4K
-http://ott.mobaibox.com/PLTV/1/224/3221228444/index.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228444/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/MTV.png" group-title="CCTV+",音乐台4K
 http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
 
