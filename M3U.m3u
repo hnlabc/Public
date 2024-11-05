@@ -15,7 +15,4 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",Ted Talks
 https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",ViuTV96
-http://60.246.171.122:8889/bysid/96
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",ViuTV99
-http://60.246.171.122:8889/bysid/99
+
