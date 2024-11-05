@@ -16,3 +16,7 @@ https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Channel",Ted Talks
 https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="CCTV",CGTN 英语(itv-host)
+http://[2409:8087:5E08:25::15]:6610/000000001000/7745129417417101820/index.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CGTN-纪录" tvg-name="CGTN 纪录" tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="CCTV",CGTN 纪录(itv-host)
+http://[2409:8087:5E00:24::2D]:6610/000000001000/7114647837765104058/index.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
