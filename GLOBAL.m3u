@@ -194,8 +194,6 @@ https://jmp2.uk/sam-GBBD8000016N.m3u8
 https://jmp2.uk/sam-US4000033L.m3u8
 #EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/france_24E.png" group-title="SSTV",FRANCE24 
 https://jmp2.uk/sam-GBBD1100002L5.m3u8
-#EXTINF:-1 tvg-id="ABC-News" tvg-name="ABC News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/abc_news_live.png" group-title="SSTV",ABC NEWS
-https://jmp2.uk/sam-USBC39000171G.m3u8
 #EXTINF:-1 tvg-id="514.astro" tvg-name="Sky News" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/sky_news.png" group-title="SSTV",SKY NEWS
 https://jmp2.uk/sam-USBB52000022Q.m3u8
 #EXTINF:-1 tvg-id="LiveNOW-FOX" tvg-name="LiveNOW FOX" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/fox_news_now.png" group-title="SSTV",LiveNOW FOX
