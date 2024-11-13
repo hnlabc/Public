@@ -250,7 +250,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IAS
 #EXTINF:-1 tvg-id="iHOT-爱院线" tvg-name="爱院线" tvg-logo="https://assets.livednow.com/logo/iHOT-爱院线.png" group-title="iHOT",iHOT 爱院线
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IAS
-#EXTINF:-1 tvg-id="iHOT-爱浪漫" tvg-name="爱浪漫" tvg-logo="https://assets.livednow.com/logo/iHOT-爱浪漫.pngg" group-title="iHOT",iHOT 爱浪漫
+#EXTINF:-1 tvg-id="iHOT-爱浪漫" tvg-name="爱浪漫" tvg-logo="https://assets.livednow.com/logo/iHOT-爱浪漫.png" group-title="iHOT",iHOT 爱浪漫
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IAS
 #EXTINF:-1 tvg-id="iHOT-爱悬疑" tvg-name="爱悬疑" tvg-logo="https://assets.livednow.com/logo/iHOT-爱悬疑.png" group-title="iHOT",iHOT 爱悬疑
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IAS
