@@ -291,35 +291,35 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="411.astro" tvg-name="HBO HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO CH411 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="412.astro" tvg-name="CINEMAX HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",CINEMAX HD CH412 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="413.astro" tvg-name="Showcase Movies" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Showcase.png",Showcase Movies CH413 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="414.astro" tvg-name="HBO Family +1 HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family CH414 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="415.astro" tvg-name="HBO Hits +1 HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1N5jls.png",HBO Hits HD CH415 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -462,14 +462,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="History" tvg-name="History HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NnZDg.png",History HD CH555 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TU1NncQb5D9SiklAz2bxTA", "kid":"1RmfFROgKG4Dja6PfYIAEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NnDxa.png",Animal Planet CH556 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -540,7 +540,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="HitsNow" tvg-name="Hits Now HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HITSNOW.png",Hits Now HD CH702 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default.mpd 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5110/default.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -554,7 +554,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NssgY79TONGNMWVzcbFYFw", "kid":"H+kmhadYRNxUydrBJIAlEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="HITS" tvg-name="HITS HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NoSet.png",HITS HD CH706 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
