@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,yangshipin.cn
 
+DOMAIN-SUFFIX,iptv.cc
+
 DOMAIN-KEYWORD,iill
 
 IP-CIDR,183.206.0.0/15
