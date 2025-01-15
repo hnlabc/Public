@@ -8,13 +8,13 @@ https://28393.live.streamtheworld.com/938NOWAAC_SC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CGTNRadio1.png" group-title="RADIO",CGTN(eudic)
 http://stream.eudic.net/en_cgtn_real.webm?agent=%2feusoft_ting_en_desktop%2f9.7.4%2f00%3a15%3a5D%3a24%3aEF%3aF7%2feico%2f%2f&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJkaTlhcEhmZWUrdU9yVFEyUEtMSjdCVmg2Ulk9IiwidCI6IkFCSU1UYzBNRGs1TkRZME1RPT0ifQ%3d%3d
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/cnnus1.png" group-title="RADIO",CNN US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/cnnus1.png" group-title="RADIO",CNNus
 https://tunein.cdnstream1.com/2868_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709340709&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s20407&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3124&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/cnnint1.png" group-title="RADIO",CNN Internationale
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/cnnint1.png" group-title="RADIO",CNNi
 https://tunein.cdnstream1.com/3519_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.skey=1709084735&aw_0_1st.abtest=&partnerId=SLb0WwgW&aw_0_1st.stationId=s292162&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g3125&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=emb.CNN&aw_0_azn.planguage=en
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/bbc_world_news.png" group-title="RADIO",BBC World Service
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/bbc_world_news.png" group-title="RADIO",BBC World News
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ABC_v1.png" group-title="RADIO",ABC Australia(eudic)
