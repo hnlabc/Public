@@ -27,6 +27,12 @@ https://tunein.cdnstream1.com/3519_96.mp3?aw_0_1st.playerid=SLb0WwgW&aw_0_1st.sk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/BBC-News_dtv.png" group-title="RADIO",BBC News
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/zRVg6uZzcT.png" group-title="RADIO",Asia FM
+https://lhttp.qingting.fm/live/20071/64k.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/x8e6yKmf4x.jpg" group-title="RADIO",Beijing Music Radio
+http://lhttp.qingting.fm/live/332/64k.mp3
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GOLD905Radio.jpg" group-title="RADIO",GOLD905
 https://28393.live.streamtheworld.com/GOLD905AAC_SC
 
