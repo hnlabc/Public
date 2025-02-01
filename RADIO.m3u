@@ -27,21 +27,6 @@ https://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/CRIHitFM.png" group-title="RADIO",CRI HitFM
 https://sk.cri.cn/887.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/x8e6yKmf4x.jpg" group-title="RADIO",北京音乐广播
-http://lhttp.qingting.fm/live/332/64k.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/zRVg6uZzcT.png" group-title="RADIO",AsiaFM 亚洲天空台
-https://lhttp.qingting.fm/live/20071/64k.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/rB7S2g7bE8.png" group-title="RADIO",AsiaFM 亚洲音乐台
-http://lhttp.qingting.fm/live/5022405/64k.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/aeFaCNN9up.jpg" group-title="RADIO",AsiaFM HD音乐台
-http://lhttp.qingting.fm/live/15318341/64k.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Whf6GrBRXB.png" group-title="RADIO",AsiaFM 亚洲经典台
-http://lhttp.qingting.fm/live/5021912/64k.mp3
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/GOLD905Radio.jpg" group-title="RADIO",GOLD905
 https://28393.live.streamtheworld.com/GOLD905AAC_SC
 
@@ -59,3 +44,18 @@ https://28333.live.streamtheworld.com/LOVE972FM_PREM_SC?dist=MPL&pname=TDSdk
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/YES933Radio.jpg" group-title="RADIO",YES933
 https://28373.live.streamtheworld.com/YES933_PREM_SC?dist=MPL&pname=TDSdk&ttag=meid_seg%253As1672
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/x8e6yKmf4x.jpg" group-title="RADIO",北京音乐广播
+http://lhttp.qingting.fm/live/332/64k.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/zRVg6uZzcT.png" group-title="RADIO",AsiaFM 亚洲天空台
+https://lhttp.qingting.fm/live/20071/64k.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/rB7S2g7bE8.png" group-title="RADIO",AsiaFM 亚洲音乐台
+http://lhttp.qingting.fm/live/5022405/64k.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/aeFaCNN9up.jpg" group-title="RADIO",AsiaFM HD音乐台
+http://lhttp.qingting.fm/live/15318341/64k.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Whf6GrBRXB.png" group-title="RADIO",AsiaFM 亚洲经典台
+http://lhttp.qingting.fm/live/5021912/64k.mp3
