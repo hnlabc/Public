@@ -45,9 +45,6 @@ https://28333.live.streamtheworld.com/LOVE972FM_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/hnlabc/Public@main/YES933Radio.jpg" group-title="RADIO",YES933
 https://28373.live.streamtheworld.com/YES933_PREM_SC?dist=MPL&pname=TDSdk&ttag=meid_seg%253As1672
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/x8e6yKmf4x.jpg" group-title="RADIO",北京音乐广播
-http://lhttp.qingting.fm/live/332/64k.mp3
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/zRVg6uZzcT.png" group-title="RADIO",AsiaFM 亚洲天空台
 https://lhttp.qingting.fm/live/20071/64k.mp3
 
