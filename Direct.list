@@ -29,6 +29,8 @@ DOMAIN-SUFFIX,llsapp.com
 
 DOMAIN-SUFFIX,rengine-platform.llsapp.com
 
+DOMAIN,rengine-platform.llsapp.com,DIRECT
+
 DOMAIN-KEYWORD,iill
 
 IP-CIDR,223.110.243.239/32
