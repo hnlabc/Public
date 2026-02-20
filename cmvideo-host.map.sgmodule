@@ -2,9 +2,10 @@
 #!desc=cmvideo cache host -> pixman dnsany mapping
 
 [Host]
-cache.ott.ystenlive.itv.cmvideo.cn = 39.134.77.42
-cache.ott.wasulive.itv.cmvideo.cn  = 39.134.77.100
-cache.ott.fifalive.itv.cmvideo.cn  = 39.134.77.43
-cache.ott.hnbblive.itv.cmvideo.cn  = 39.134.77.98
-cache.ott.bestlive.itv.cmvideo.cn = 39.134.77.98
+cache.ott.ystenlive.itv.cmvideo.cn = pixman.io.ystenlive.dnsany.com
+cache.ott.bestlive.itv.cmvideo.cn = pixman.io.bestlive.dnsany.com
+cache.ott.wasulive.itv.cmvideo.cn = pixman.io.wasulive.dnsany.com
+cache.ott.fifalive.itv.cmvideo.cn = pixman.io.fifalive.dnsany.com
+cache.ott.hnbblive.itv.cmvideo.cn = pixman.io.hnbblive.dnsany.com
+
 
